@@ -51,3 +51,27 @@ DOMAIN,splashqqlive.gtimg.com,REJECT
 DOMAIN,wa.gtimg.com,REJECT
 DOMAIN,wxsnsdy.wxs.qq.com,REJECT
 DOMAIN,wxsnsdythumb.wxs.qq.com,REJECT
+
+DOMAIN-SUFFIX,trace.qq.com,REJECT
+DOMAIN,btrace.qq.com,REJECT
+DOMAIN,btrace.video.qq.com,REJECT
+DOMAIN,mtrace.qq.com,REJECT
+DOMAIN,safebrowsing.urlsec.qq.com,REJECT
+
+# > ChinaUnicom
+IP-CIDR,106.75.231.48/32,REJECT
+IP-CIDR,119.4.249.166/32,REJECT
+IP-CIDR,220.196.52.141/32,REJECT
+IP-CIDR,221.6.4.148/32,REJECT
+
+# > Umeng
+DOMAIN-KEYWORD,log.umeng.com,REJECT
+DOMAIN-KEYWORD,logs.umeng.com,REJECT
+DOMAIN-KEYWORD,logs.umengcloud.com,REJECT
+
+# > Zhihu
+USER-AGENT,AVOS*,REJECT
+DOMAIN,appcloud2.zhihu.com,REJECT
+DOMAIN,appcloud2.in.zhihu.com,REJECT
+DOMAIN,sugar.zhihu.com,REJECT
+IP-CIDR,118.89.204.198/32,REJECT
