@@ -266,17 +266,23 @@ host-suffix,ying.com,proxy
 host-suffix,yoyo.org,proxy
 host-suffix,ytimg.com,proxy
 
-## Telegram
-host-suffix,telegra.ph,proxy
-host-suffix,telegram.org,proxy
-ip-cidr,91.108.4.0/22,proxy
-ip-cidr,91.108.8.0/21,proxy
-ip-cidr,91.108.16.0/22,proxy
-ip-cidr,91.108.56.0/22,proxy
-ip-cidr,149.154.160.0/20,proxy
-ip6-cidr,2001:67c:4e8::/48,proxy
-ip6-cidr,2001:b28:f23d::/48,proxy
-ip6-cidr,2001:b28:f23f::/48,proxy
+# > Telegram
+DOMAIN-SUFFIX,t.me,proxy
+DOMAIN-SUFFIX,tdesktop.com,proxy
+DOMAIN-SUFFIX,telegra.ph,proxy
+DOMAIN-SUFFIX,telegram.me,proxy
+DOMAIN-SUFFIX,telegram.org,proxy
+DOMAIN-SUFFIX,telesco.pe,proxy
+IP-CIDR,91.108.4.0/22,proxy
+IP-CIDR,91.108.8.0/22,proxy
+IP-CIDR,91.108.12.0/22,proxy
+IP-CIDR,91.108.16.0/22,proxy
+IP-CIDR,91.108.20.0/22,proxy
+IP-CIDR,91.108.56.0/22,proxy
+IP-CIDR,149.154.160.0/20,proxy
+IP6-CIDR,2001:b28:f23d::/48,proxy
+IP6-CIDR,2001:b28:f23f::/48,proxy
+IP6-CIDR,2001:67c:4e8::/48,proxy
 
 # > Spotify
 USER-AGENT,Spotify*,direct
@@ -285,6 +291,17 @@ DOMAIN-SUFFIX,scdn.co,direct
 DOMAIN-SUFFIX,spotify.com,direct
 DOMAIN-SUFFIX,spoti.fi,direct
 DOMAIN-KEYWORD,spotify.com,direct
+
+# > Google
+DOMAIN-SUFFIX,appspot.com,PROXY
+DOMAIN-SUFFIX,blogger.com,PROXY
+DOMAIN-SUFFIX,getoutline.org,PROXY
+DOMAIN-SUFFIX,gvt0.com,PROXY
+DOMAIN-SUFFIX,gvt3.com,PROXY
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com,PROXY
+DOMAIN-SUFFIX,ytimg.com,PROXY
+DOMAIN-KEYWORD,google,PROXY
+DOMAIN-KEYWORD,.blogspot.,PROXY
 
 # > Netflix
 USER-AGENT,Argo*,proxy
@@ -320,8 +337,6 @@ IP-CIDR,34.210.42.111/32,proxy
 IP-CIDR,52.89.124.203/32,proxy
 IP-CIDR,54.148.37.5/32,proxy
 
-# > Google
-DOMAIN-KEYWORD,www.google.,proxy
 
 # > Pornhub
 DOMAIN-SUFFIX,phncdn.com,proxy
@@ -337,6 +352,7 @@ DOMAIN-SUFFIX,youtube.com,proxy
 DOMAIN-SUFFIX,ytimg.com,proxy
 DOMAIN,youtubei.googleapis.com,proxy
 DOMAIN,yt3.ggpht.com,proxy
+
 # > Twitter
 DOMAIN-SUFFIX,pscp.tv,proxy
 DOMAIN-SUFFIX,periscope.tv,proxy
@@ -347,3 +363,11 @@ DOMAIN-SUFFIX,twitpic.com,proxy
 DOMAIN-SUFFIX,twitter.com,proxy
 DOMAIN-SUFFIX,twitter.jp,proxy
 DOMAIN-SUFFIX,vine.co,proxy
+IP-CIDR,69.195.160.0/19,proxy
+IP-CIDR,104.244.42.0/21,proxy
+IP-CIDR,192.133.76.0/22,proxy
+IP-CIDR,199.16.156.0/22,proxy
+IP-CIDR,199.59.148.0/22,proxy
+IP-CIDR,199.96.56.0/21,proxy
+IP-CIDR,202.160.128.0/22,proxy
+IP-CIDR,209.237.192.0/19,proxy
