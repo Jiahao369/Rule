@@ -27,8 +27,6 @@ host-keyword,wlmonitor,reject
 host-keyword,zjtoolbar,reject
 
 # > Sina
-DOMAIN-SUFFIX,appsflyer.com,REJECT
-
 DOMAIN-SUFFIX,beacon.sina.com.cn,REJECT
 DOMAIN,adimg.uve.weibo.com,REJECT
 DOMAIN,adimg.vue.weibo.com,REJECT
@@ -63,11 +61,6 @@ IP-CIDR,106.75.231.48/32,REJECT
 IP-CIDR,119.4.249.166/32,REJECT
 IP-CIDR,220.196.52.141/32,REJECT
 IP-CIDR,221.6.4.148/32,REJECT
-
-# > Umeng
-DOMAIN-KEYWORD,log.umeng.com,REJECT
-DOMAIN-KEYWORD,logs.umeng.com,REJECT
-DOMAIN-KEYWORD,logs.umengcloud.com,REJECT
 
 # > Zhihu
 USER-AGENT,AVOS*,REJECT
