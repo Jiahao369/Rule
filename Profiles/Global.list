@@ -141,6 +141,7 @@ host-suffix,macromedia.com,PROXY
 host-suffix,macrumors.com,PROXY
 host-suffix,mashable.com,PROXY
 host-suffix,mathjax.org,PROXY
+host-suffix,maying.co,PROXY
 host-suffix,medium.com,PROXY
 host-suffix,mega.co.nz,PROXY
 host-suffix,mega.nz,PROXY
@@ -154,6 +155,7 @@ host-suffix,myfontastic.com,PROXY
 host-suffix,name.com,PROXY
 host-suffix,nextmedia.com,PROXY
 host-suffix,nsstatic.net,PROXY
+host-suffix,notion.so,PROXY
 host-suffix,nssurge.com,PROXY
 host-suffix,nyt.com,PROXY
 host-suffix,nytimes.com,PROXY
