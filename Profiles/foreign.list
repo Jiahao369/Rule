@@ -192,7 +192,6 @@ host-suffix,skype.com,proxy
 host-suffix,smartdnsProxy.com,proxy
 host-suffix,smartmailcloud.com,proxy
 host-suffix,sndcdn.com,proxy
-host-suffix,sony.com,proxy
 host-suffix,soundcloud.com,proxy
 host-suffix,sourceforge.net,proxy
 host-suffix,squarespace.com,proxy
@@ -321,6 +320,9 @@ IP-CIDR,34.210.42.111/32,proxy
 IP-CIDR,52.89.124.203/32,proxy
 IP-CIDR,54.148.37.5/32,proxy
 
+# > Google
+DOMAIN-KEYWORD,www.google.,proxy
+
 # > Pornhub
 DOMAIN-SUFFIX,phncdn.com,proxy
 DOMAIN-SUFFIX,phprcdn.com,proxy
@@ -335,3 +337,13 @@ DOMAIN-SUFFIX,youtube.com,proxy
 DOMAIN-SUFFIX,ytimg.com,proxy
 DOMAIN,youtubei.googleapis.com,proxy
 DOMAIN,yt3.ggpht.com,proxy
+# > Twitter
+DOMAIN-SUFFIX,pscp.tv,proxy
+DOMAIN-SUFFIX,periscope.tv,proxy
+DOMAIN-SUFFIX,t.co,proxy
+DOMAIN-SUFFIX,twimg.co,proxy
+DOMAIN-SUFFIX,twimg.com,proxy
+DOMAIN-SUFFIX,twitpic.com,proxy
+DOMAIN-SUFFIX,twitter.com,proxy
+DOMAIN-SUFFIX,twitter.jp,proxy
+DOMAIN-SUFFIX,vine.co,proxy
