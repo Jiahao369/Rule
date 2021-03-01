@@ -406,3 +406,9 @@ HOST-SUFFIX,messenger.com,PROXY
 HOST-SUFFIX,rocksdb.org,PROXY
 HOST-SUFFIX,whatsapp.com,PROXY
 HOST-SUFFIX,whatsapp.net,PROXY
+
+# > PUBG Mobile
+HOST-SUFFIX,igamecj.com,DIRECT
+HOST,file-igamecj.akamaized.net,DIRECT
+IP-CIDR,45.40.220.0/22,DIRECT
+IP-CIDR,150.109.124.0/23,DIRECT
