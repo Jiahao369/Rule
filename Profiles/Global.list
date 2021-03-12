@@ -269,6 +269,9 @@ HOST-SUFFIX,yoyo.org,PROXY
 HOST-SUFFIX,ytimg.com,PROXY
 HOST-SUFFIX,renzhe.cloud,PROXY
 HOST-SUFFIX,maying.co,PROXY
+HOST-SUFFIX,behance.net,PROXY
+
+
 # > Telegram
 HOST-SUFFIX,t.me,PROXY
 HOST-SUFFIX,tdesktop.com,PROXY
