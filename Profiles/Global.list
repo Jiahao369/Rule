@@ -270,7 +270,7 @@ HOST-SUFFIX,ytimg.com,PROXY
 HOST-SUFFIX,renzhe.cloud,PROXY
 HOST-SUFFIX,maying.co,PROXY
 HOST-SUFFIX,behance.net,PROXY
-
+HOST-SUFFIX,technews.tw,PROXY
 
 # > Telegram
 HOST-SUFFIX,t.me,PROXY
