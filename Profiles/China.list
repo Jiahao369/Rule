@@ -131,6 +131,8 @@ HOST-SUFFIX,zimuzu.tv,DIRECT
 HOST-SUFFIX,zoho.com,DIRECT
 HOST-SUFFIX,coolapk.com,DIRECT
 HOST-SUFFIX,xueqiu.com,DIRECT
+HOST-KEYWORD,xiaomi,DIRECT
+
 
 HOST,injections.adguard.org,DIRECT
 HOST,local.adguard.org,DIRECT
