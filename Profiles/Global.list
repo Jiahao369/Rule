@@ -271,6 +271,11 @@ HOST-SUFFIX,renzhe.cloud,PROXY
 HOST-SUFFIX,maying.co,PROXY
 HOST-SUFFIX,behance.net,PROXY
 HOST-SUFFIX,technews.tw,PROXY
+HOST-SUFFIX,pincong.rocks, PROXY
+HOST-SUFFIX,mohu.rocks,PROXY
+HOST-SUFFIX,404museum.com,PROXY
+
+
 
 # > Telegram
 HOST-SUFFIX,t.me,PROXY
