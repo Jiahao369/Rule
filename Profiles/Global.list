@@ -414,7 +414,7 @@ HOST-SUFFIX,whatsapp.net,PROXY
 # League of Legends
 DOMAIN-SUFFIX,pvp.net,DIRECT
 DOMAIN-SUFFIX,riotgames.com,PROXY
-DOMAIN-SUFFIX,riotcdn.net,PROXY
+DOMAIN-SUFFIX,riotcdn.net,DIRECT
 
 # > PUBG Mobile
 HOST-SUFFIX,igamecj.com,DIRECT
