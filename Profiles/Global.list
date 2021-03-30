@@ -418,3 +418,7 @@ HOST,file-igamecj.akamaized.net,DIRECT
 IP-CIDR,45.40.220.0/22,DIRECT
 IP-CIDR,150.109.124.0/23,DIRECT
 
+# League of Legends
+DOMAIN-SUFFIX,pvp.net,DIRECT
+DOMAIN-SUFFIX,riotgames.com,DIRECT
+DOMAIN-SUFFIX,riotcdn.net,DIRECT
