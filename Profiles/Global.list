@@ -411,6 +411,11 @@ HOST-SUFFIX,rocksdb.org,PROXY
 HOST-SUFFIX,whatsapp.com,PROXY
 HOST-SUFFIX,whatsapp.net,PROXY
 
+# League of Legends
+DOMAIN-SUFFIX,pvp.net,PROXY
+DOMAIN-SUFFIX,riotgames.com,PROXY
+DOMAIN-SUFFIX,riotcdn.net,PROXY
+
 # > PUBG Mobile
 HOST-SUFFIX,igamecj.com,DIRECT
 HOST-SUFFIX,gcloudcs.com,DIRECT
@@ -418,7 +423,4 @@ HOST,file-igamecj.akamaized.net,DIRECT
 IP-CIDR,45.40.220.0/22,DIRECT
 IP-CIDR,150.109.124.0/23,DIRECT
 
-# League of Legends
-DOMAIN-SUFFIX,pvp.net,DIRECT
-DOMAIN-SUFFIX,riotgames.com,DIRECT
-DOMAIN-SUFFIX,riotcdn.net,DIRECT
+
