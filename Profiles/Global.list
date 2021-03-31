@@ -1,4 +1,7 @@
+
 ## 常见国外域名列表
+HOST-KEYWORD,github,PROXY
+HOST-SUFFIX,404museum.com,PROXY
 HOST-SUFFIX,9to5mac.com,PROXY
 HOST-SUFFIX,abpchina.org,PROXY
 HOST-SUFFIX,adblockplus.org,PROXY
@@ -22,6 +25,7 @@ HOST-SUFFIX,att.com,PROXY
 HOST-SUFFIX,awsstatic.com,PROXY
 HOST-SUFFIX,azureedge.net,PROXY
 HOST-SUFFIX,azurewebsites.net,PROXY
+HOST-SUFFIX,behance.net,PROXY
 HOST-SUFFIX,bing.com,PROXY
 HOST-SUFFIX,bintray.com,PROXY
 HOST-SUFFIX,bit.com,PROXY
@@ -91,7 +95,6 @@ HOST-SUFFIX,gfx.ms,PROXY
 HOST-SUFFIX,ggpht.com,PROXY
 HOST-SUFFIX,ghostnoteapp.com,PROXY
 HOST-SUFFIX,git.io,PROXY
-HOST-KEYWORD,github,PROXY
 HOST-SUFFIX,globalsign.com,PROXY
 HOST-SUFFIX,gmodules.com,PROXY
 HOST-SUFFIX,godaddy.com,PROXY
@@ -142,6 +145,7 @@ HOST-SUFFIX,macrumors.com,PROXY
 HOST-SUFFIX,mashable.com,PROXY
 HOST-SUFFIX,mathjax.org,PROXY
 HOST-SUFFIX,maying.co,PROXY
+HOST-SUFFIX,maying.co,PROXY
 HOST-SUFFIX,medium.com,PROXY
 HOST-SUFFIX,mega.co.nz,PROXY
 HOST-SUFFIX,mega.nz,PROXY
@@ -150,12 +154,13 @@ HOST-SUFFIX,microsofttranslator.com,PROXY
 HOST-SUFFIX,mindnode.com,PROXY
 HOST-SUFFIX,mobile01.com,PROXY
 HOST-SUFFIX,modmyi.com,PROXY
+HOST-SUFFIX,mohu.rocks,PROXY
 HOST-SUFFIX,msedge.net,PROXY
 HOST-SUFFIX,myfontastic.com,PROXY
 HOST-SUFFIX,name.com,PROXY
 HOST-SUFFIX,nextmedia.com,PROXY
-HOST-SUFFIX,nsstatic.net,PROXY
 HOST-SUFFIX,notion.so,PROXY
+HOST-SUFFIX,nsstatic.net,PROXY
 HOST-SUFFIX,nssurge.com,PROXY
 HOST-SUFFIX,nyt.com,PROXY
 HOST-SUFFIX,nytimes.com,PROXY
@@ -175,6 +180,7 @@ HOST-SUFFIX,parse.com,PROXY
 HOST-SUFFIX,pdfexpert.com,PROXY
 HOST-SUFFIX,periscope.tv,PROXY
 HOST-SUFFIX,pinboard.in,PROXY
+HOST-SUFFIX,pincong.rocks, PROXY
 HOST-SUFFIX,pinterest.com,PROXY
 HOST-SUFFIX,pixelmator.com,PROXY
 HOST-SUFFIX,pixiv.net,PROXY
@@ -184,6 +190,7 @@ HOST-SUFFIX,playstation.com.hk,PROXY
 HOST-SUFFIX,playstation.net,PROXY
 HOST-SUFFIX,playstationnetwork.com,PROXY
 HOST-SUFFIX,pushwoosh.com,PROXY
+HOST-SUFFIX,renzhe.cloud,PROXY
 HOST-SUFFIX,rime.im,PROXY
 HOST-SUFFIX,servebom.com,PROXY
 HOST-SUFFIX,sfx.ms,PROXY
@@ -210,6 +217,7 @@ HOST-SUFFIX,tapbots.com,PROXY
 HOST-SUFFIX,tapbots.net,PROXY
 HOST-SUFFIX,tdesktop.com,PROXY
 HOST-SUFFIX,techcrunch.com,PROXY
+HOST-SUFFIX,technews.tw,PROXY
 HOST-SUFFIX,techsmith.com,PROXY
 HOST-SUFFIX,thepiratebay.org,PROXY
 HOST-SUFFIX,theverge.com,PROXY
@@ -246,11 +254,11 @@ HOST-SUFFIX,vultr.com,PROXY
 HOST-SUFFIX,w.org,PROXY
 HOST-SUFFIX,w3schools.com,PROXY
 HOST-SUFFIX,webtype.com,PROXY
-HOST-SUFFIX,wikiwand.com,PROXY
 HOST-SUFFIX,wikileaks.org,PROXY
 HOST-SUFFIX,wikimedia.org,PROXY
 HOST-SUFFIX,wikipedia.com,PROXY
 HOST-SUFFIX,wikipedia.org,PROXY
+HOST-SUFFIX,wikiwand.com,PROXY
 HOST-SUFFIX,windows.com,PROXY
 HOST-SUFFIX,windows.net,PROXY
 HOST-SUFFIX,wire.com,PROXY
@@ -267,13 +275,6 @@ HOST-SUFFIX,yimg.com,PROXY
 HOST-SUFFIX,ying.com,PROXY
 HOST-SUFFIX,yoyo.org,PROXY
 HOST-SUFFIX,ytimg.com,PROXY
-HOST-SUFFIX,renzhe.cloud,PROXY
-HOST-SUFFIX,maying.co,PROXY
-HOST-SUFFIX,behance.net,PROXY
-HOST-SUFFIX,technews.tw,PROXY
-HOST-SUFFIX,pincong.rocks, PROXY
-HOST-SUFFIX,mohu.rocks,PROXY
-HOST-SUFFIX,404museum.com,PROXY
 
 
 
@@ -304,6 +305,8 @@ HOST-SUFFIX,spoti.fi,DIRECT
 HOST-KEYWORD,spotify.com,DIRECT
 
 # > Google
+HOST-KEYWORD,google,PROXY
+HOST-KEYWORD,.blogspot.,PROXY
 HOST-SUFFIX,appspot.com,PROXY
 HOST-SUFFIX,blogger.com,PROXY
 HOST-SUFFIX,getoutline.org,PROXY
@@ -311,8 +314,6 @@ HOST-SUFFIX,gvt0.com,PROXY
 HOST-SUFFIX,gvt3.com,PROXY
 HOST-SUFFIX,xn--ngstr-lra8j.com,PROXY
 HOST-SUFFIX,ytimg.com,PROXY
-HOST-KEYWORD,google,PROXY
-HOST-KEYWORD,.blogspot.,PROXY
 IP-CIDR,35.190.247.0/24,PROXY
 IP-CIDR,64.233.160.0/19,PROXY
 IP-CIDR,66.102.0.0/20,PROXY
@@ -328,13 +329,10 @@ IP-CIDR,216.239.32.0/19,PROXY
 
 # > Netflix
 USER-AGENT,Argo*,PROXY
+HOST-KEYWORD,dualstack.apiproxy-device-prod-nlb-,PROXY
+HOST-KEYWORD,dualstack.ichnaea-web-,PROXY
 HOST-SUFFIX,netflix.com,PROXY
 HOST-SUFFIX,netflix.net,PROXY
-HOST-SUFFIX,nflxext.com,PROXY
-HOST-SUFFIX,nflximg.com,PROXY
-HOST-SUFFIX,nflximg.net,PROXY
-HOST-SUFFIX,nflxso.net,PROXY
-HOST-SUFFIX,nflxvideo.net,PROXY
 HOST-SUFFIX,netflixdnstest0.com,PROXY
 HOST-SUFFIX,netflixdnstest1.com,PROXY
 HOST-SUFFIX,netflixdnstest2.com,PROXY
@@ -345,20 +343,23 @@ HOST-SUFFIX,netflixdnstest6.com,PROXY
 HOST-SUFFIX,netflixdnstest7.com,PROXY
 HOST-SUFFIX,netflixdnstest8.com,PROXY
 HOST-SUFFIX,netflixdnstest9.com,PROXY
-HOST-KEYWORD,dualstack.apiproxy-device-prod-nlb-,PROXY
-HOST-KEYWORD,dualstack.ichnaea-web-,PROXY
-IP-CIDR,23.246.0.0/18,PROXY
-IP-CIDR,37.77.184.0/21,PROXY
-IP-CIDR,45.57.0.0/17,PROXY
-IP-CIDR,64.120.128.0/17,PROXY
-IP-CIDR,66.197.128.0/17,PROXY
+HOST-SUFFIX,nflxext.com,PROXY
+HOST-SUFFIX,nflximg.com,PROXY
+HOST-SUFFIX,nflximg.net,PROXY
+HOST-SUFFIX,nflxso.net,PROXY
+HOST-SUFFIX,nflxvideo.net,PROXY
 IP-CIDR,108.175.32.0/20,PROXY
 IP-CIDR,192.173.64.0/18,PROXY
 IP-CIDR,198.38.96.0/19,PROXY
 IP-CIDR,198.45.48.0/20,PROXY
+IP-CIDR,23.246.0.0/18,PROXY
 IP-CIDR,34.210.42.111/32,PROXY
+IP-CIDR,37.77.184.0/21,PROXY
+IP-CIDR,45.57.0.0/17,PROXY
 IP-CIDR,52.89.124.203/32,PROXY
 IP-CIDR,54.148.37.5/32,PROXY
+IP-CIDR,64.120.128.0/17,PROXY
+IP-CIDR,66.197.128.0/17,PROXY
 
 # > Pornhub
 HOST-SUFFIX,phncdn.com,PROXY
