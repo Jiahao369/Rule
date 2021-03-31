@@ -146,6 +146,15 @@ HOST-SUFFIX,zhimg.com,DIRECT
 HOST-SUFFIX,zimuzu.tv,DIRECT
 HOST-SUFFIX,zoho.com,DIRECT
 
+HOST-SUFFIX,flurry.com,DIRECT
+HOST-SUFFIX,pinduoduo.com,DIRECT
+HOST-SUFFIX,pddpic.com,DIRECT
+HOST-SUFFIX,dingtalk.com,DIRECT
+HOST-SUFFIX,singular.net,DIRECT
+HOST-SUFFIX,newrelic.com,DIRECT
+HOST-SUFFIX,myqcloud.com,DIRECT
+
+
 HOST,injections.adguard.org,DIRECT
 HOST,local.adguard.org,DIRECT
 HOST-SUFFIX,local,DIRECT
