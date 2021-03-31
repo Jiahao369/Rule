@@ -27,33 +27,39 @@ HOST-KEYWORD,wlmonitor,REJECT
 HOST-KEYWORD,zjtoolbar,REJECT
 
 # > Sina
-HOST-SUFFIX,beacon.sina.com.cn,REJECT
-HOST,adimg.uve.weibo.com,REJECT
-HOST,adimg.vue.weibo.com,REJECT
-HOST,u1.img.mobile.sina.cn,REJECT
-HOST,sax.sina.com.cn,REJECT
-HOST,saxs.sina.com.cn,REJECT
-HOST,saxn.sina.com.cn,REJECT
+DOMAIN-SUFFIX,alitui.weibo.com,REJECT
+DOMAIN-SUFFIX,beacon.sina.com.cn,REJECT
+DOMAIN,adimg.uve.weibo.com,REJECT
+DOMAIN,adimg.vue.weibo.com,REJECT
+DOMAIN,u1.img.mobile.sina.cn,REJECT
+DOMAIN,sax.sina.com.cn,REJECT
+DOMAIN,saxs.sina.com.cn,REJECT
+DOMAIN,saxn.sina.com.cn,REJECT
 
 # > Tencent
-HOST-SUFFIX,e.qq.com,REJECT
-HOST-SUFFIX,gdt.qq.com,REJECT
-HOST-SUFFIX,l.qq.com,REJECT
-HOST,adsmind.apdcdn.tc.qq.com,REJECT
-HOST,adsmind.gdtimg.com,REJECT
-HOST,adsmind.tc.qq.com,REJECT
-HOST,pgdt.gtimg.cn,REJECT
-HOST,pgdt.gtimg.com,REJECT
-HOST,pgdt.ugdtimg.com,REJECT
-HOST,splashqqlive.gtimg.com,REJECT
-HOST,wa.gtimg.com,REJECT
-HOST,wxsnsdy.wxs.qq.com,REJECT
-HOST,wxsnsdythumb.wxs.qq.com,REJECT
-HOST-SUFFIX,trace.qq.com,REJECT
-HOST,btrace.qq.com,REJECT
-HOST,btrace.video.qq.com,REJECT
-HOST,mtrace.qq.com,REJECT
-HOST,safebrowsing.urlsec.qq.com,REJECT
+DOMAIN-SUFFIX,e.qq.com,REJECT
+DOMAIN-SUFFIX,gdt.qq.com,REJECT
+DOMAIN-SUFFIX,l.qq.com,REJECT
+DOMAIN,adsmind.apdcdn.tc.qq.com,REJECT
+DOMAIN,adsmind.gdtimg.com,REJECT
+DOMAIN,adsmind.tc.qq.com,REJECT
+DOMAIN,pgdt.gtimg.cn,REJECT
+DOMAIN,pgdt.gtimg.com,REJECT
+DOMAIN,pgdt.ugdtimg.com,REJECT
+DOMAIN,splashqqlive.gtimg.com,REJECT
+DOMAIN,wa.gtimg.com,REJECT
+DOMAIN,wxsnsdy.wxs.qq.com,REJECT
+DOMAIN,wxsnsdythumb.wxs.qq.com,REJECT
+DOMAIN,ad.tencentmusic.com,REJECT
+DOMAIN,adserviceretry.kugou.com,REJECT
+DOMAIN,ads.service.kugou.com,REJECT
+DOMAIN,adsfile.bssdlbig.kugou.com,REJECT
+DOMAIN,g.koowo.com,REJECT
+DOMAIN,kgmobilestat.kugou.com,REJECT
+DOMAIN,kgmobilestatbak.kugou.com,REJECT
+DOMAIN,mobilelog.kugou.com,REJECT
+DOMAIN,mobilead.kuwo.cn,REJECT
+DOMAIN,rich.kuwo.cn,REJECT
 
 # > ChinaUnicom
 IP-CIDR,106.75.231.48/32,REJECT
@@ -61,9 +67,26 @@ IP-CIDR,119.4.249.166/32,REJECT
 IP-CIDR,220.196.52.141/32,REJECT
 IP-CIDR,221.6.4.148/32,REJECT
 
+# > Ximalaya
+DOMAIN,ad.ximalaya.com,REJECT
+DOMAIN,adbs.ximalaya.com,REJECT
+DOMAIN,adse.ximalaya.com,REJECT
+DOMAIN,adse.wsa.ximalaya.com,REJECT
+DOMAIN,adbehavior.wsa.ximalaya.com,REJECT
+DOMAIN,adbehavior.ximalaya.com,REJECT
+DOMAIN,adsebs.ximalaya.com,REJECT
+
+# > Xiaohongshu
+DOMAIN,ads-img-qc.xhscdn.com,REJECT
+DOMAIN,ads-video-al.xhscdn.com,REJECT
+DOMAIN,ads-video-qc.xhscdn.com,REJECT
+DOMAIN,t-ads.xiaohongshu.com,REJECT
+
 # > Zhihu
 USER-AGENT,AVOS*,REJECT
-HOST,appcloud2.zhihu.com,REJECT
-HOST,appcloud2.in.zhihu.com,REJECT
-HOST,sugar.zhihu.com,REJECT
+DOMAIN,appcloud2.in.zhihu.com,REJECT
+DOMAIN,mqtt.zhihu.com,REJECT
+DOMAIN,sugar.zhihu.com,REJECT
+DOMAIN,118.89.204.198,REJECT
 IP-CIDR,118.89.204.198/32,REJECT
+IP6-CIDR,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,REJECT
