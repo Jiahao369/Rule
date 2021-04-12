@@ -276,6 +276,10 @@ HOST-SUFFIX,yimg.com,PROXY
 HOST-SUFFIX,ying.com,PROXY
 HOST-SUFFIX,yoyo.org,PROXY
 HOST-SUFFIX,ytimg.com,PROXY
+HOST-SUFFIX,crossutility.com,PROXY
+HOST-SUFFIX,dropbox.com,PROXY
+HOST-SUFFIX,getdropbox.com,PROXY
+HOST-SUFFIX,userleap.com,PROXY
 
 HOST-SUFFIX,theinitium.com,PROXY
 
