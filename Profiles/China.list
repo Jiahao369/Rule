@@ -150,6 +150,13 @@ HOST-SUFFIX,zimuzu.tv,DIRECT
 HOST-SUFFIX,zoho.com,DIRECT
 
 HOST-SUFFIX,flurry.com,DIRECT
+HOST-SUFFIX,snssdk.com,DIRECT
+HOST-SUFFIX,bytedance.com,DIRECT
+HOST-SUFFIX,ctobsnssdk.com,DIRECT
+HOST-SUFFIX,neixin.cn,DIRECT
+HOST-SUFFIX,yideamobile.com,DIRECT
+
+
 HOST-SUFFIX,pinduoduo.com,DIRECT
 HOST-SUFFIX,pddpic.com,DIRECT
 HOST-SUFFIX,dingtalk.com,DIRECT
