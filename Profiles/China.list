@@ -88,7 +88,7 @@ HOST-SUFFIX,miui.com,DIRECT
 HOST-SUFFIX,miwifi.com,DIRECT
 HOST-SUFFIX,mob.com,DIRECT
 HOST-SUFFIX,netease.com,DIRECT
-HOST-SUFFIX, midway.run,DIRECT
+HOST-SUFFIX,midway.run,DIRECT
 HOST-SUFFIX,office.com,DIRECT
 HOST-SUFFIX,office365.com,DIRECT
 HOST-SUFFIX,oschina.net,DIRECT
@@ -163,6 +163,8 @@ HOST-SUFFIX,dingtalk.com,DIRECT
 HOST-SUFFIX,singular.net,DIRECT
 HOST-SUFFIX,newrelic.com,DIRECT
 HOST-SUFFIX,myqcloud.com,DIRECT
+HOST-SUFFIX,jddebug.com,DIRECT
+HOST-SUFFIX,jdpay.com,DIRECT
 
 HOST,injections.adguard.org,DIRECT
 HOST,local.adguard.org,DIRECT
