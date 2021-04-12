@@ -55,6 +55,7 @@ HOST-SUFFIX,elemecdn.com,DIRECT
 HOST-SUFFIX,feng.com,DIRECT
 HOST-SUFFIX,fir.im,DIRECT
 HOST-SUFFIX,frdic.com,DIRECT
+HOST-SUFFIX,feishu.cn,DIRECT
 HOST-SUFFIX,g-cores.com,DIRECT
 HOST-SUFFIX,godic.net,DIRECT
 HOST-SUFFIX,gtimg.com,DIRECT
@@ -155,7 +156,6 @@ HOST-SUFFIX,dingtalk.com,DIRECT
 HOST-SUFFIX,singular.net,DIRECT
 HOST-SUFFIX,newrelic.com,DIRECT
 HOST-SUFFIX,myqcloud.com,DIRECT
-
 
 HOST,injections.adguard.org,DIRECT
 HOST,local.adguard.org,DIRECT
