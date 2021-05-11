@@ -1,6 +1,7 @@
 
 ## 常见国外域名列表
 HOST-KEYWORD,github,PROXY
+HOST-KEYWORD,maying,PROXY
 HOST-SUFFIX,404museum.com,PROXY
 HOST-SUFFIX,9to5mac.com,PROXY
 HOST-SUFFIX,abpchina.org,PROXY
@@ -97,6 +98,7 @@ HOST-SUFFIX,ghostnoteapp.com,PROXY
 HOST-SUFFIX,git.io,PROXY
 HOST-SUFFIX,globalsign.com,PROXY
 HOST-SUFFIX,gmodules.com,PROXY
+HOST-SUFFIX,gmail.com,PROXY
 HOST-SUFFIX,godaddy.com,PROXY
 HOST-SUFFIX,golang.org,PROXY
 HOST-SUFFIX,gongm.in,PROXY
@@ -144,8 +146,6 @@ HOST-SUFFIX,macromedia.com,PROXY
 HOST-SUFFIX,macrumors.com,PROXY
 HOST-SUFFIX,mashable.com,PROXY
 HOST-SUFFIX,mathjax.org,PROXY
-HOST-SUFFIX,maying.co,PROXY
-HOST-SUFFIX,maying.co,PROXY
 HOST-SUFFIX,medium.com,PROXY
 HOST-SUFFIX,mega.co.nz,PROXY
 HOST-SUFFIX,mega.nz,PROXY
