@@ -230,12 +230,9 @@ HOST-SUFFIX,tmblr.co,PROXY
 HOST-SUFFIX,todoist.com,PROXY
 HOST-SUFFIX,trello.com,PROXY
 HOST-SUFFIX,trustasiassl.com,PROXY
-HOST-SUFFIX,tumblr.co,PROXY
-HOST-SUFFIX,tumblr.com,PROXY
 HOST-SUFFIX,tweetdeck.com,PROXY
 HOST-SUFFIX,tweetmarker.net,PROXY
 HOST-SUFFIX,twitch.tv,PROXY
-HOST-SUFFIX,txmblr.com,PROXY
 HOST-SUFFIX,typekit.net,PROXY
 HOST-SUFFIX,ubertags.com,PROXY
 HOST-SUFFIX,ublock.org,PROXY
@@ -256,9 +253,8 @@ HOST-SUFFIX,w.org,PROXY
 HOST-SUFFIX,w3schools.com,PROXY
 HOST-SUFFIX,webtype.com,PROXY
 HOST-SUFFIX,wikileaks.org,PROXY
-HOST-SUFFIX,wikimedia.org,PROXY
-HOST-SUFFIX,wikipedia.com,PROXY
-HOST-SUFFIX,wikipedia.org,PROXY
+HOST-KEYWORD,wikimedia,PROXY
+HOST-KEYWORD,windows,PROXY
 HOST-SUFFIX,wikiwand.com,PROXY
 HOST-SUFFIX,windows.com,PROXY
 HOST-SUFFIX,windows.net,PROXY
@@ -280,17 +276,15 @@ HOST-SUFFIX,crossutility.com,PROXY
 HOST-SUFFIX,dropbox.com,PROXY
 HOST-SUFFIX,getdropbox.com,PROXY
 HOST-SUFFIX,userleap.com,PROXY
-
 HOST-SUFFIX,theinitium.com,PROXY
-
-
+HOST-KEYWORD,tumblr,PROXY
+HOST-KEYWORD,dropbox,PROXY
 
 # > Telegram
+HOST-KEYWORD,telegram,DIRECT
 HOST-SUFFIX,t.me,PROXY
 HOST-SUFFIX,tdesktop.com,PROXY
 HOST-SUFFIX,telegra.ph,PROXY
-HOST-SUFFIX,telegram.me,PROXY
-HOST-SUFFIX,telegram.org,PROXY
 HOST-SUFFIX,telesco.pe,PROXY
 IP-CIDR,91.108.4.0/22,PROXY
 IP-CIDR,91.108.8.0/22,PROXY
@@ -306,11 +300,10 @@ IP6-CIDR,2001:67c:4e8::/48,PROXY
 
 # > Spotify
 USER-AGENT,Spotify*,DIRECT
+HOST-KEYWORD,spotify,DIRECT
 HOST-SUFFIX,pscdn.co,DIRECT
 HOST-SUFFIX,scdn.co,DIRECT
-HOST-SUFFIX,spotify.com,DIRECT
 HOST-SUFFIX,spoti.fi,DIRECT
-HOST-KEYWORD,spotify.com,DIRECT
 
 # > Google
 HOST-KEYWORD,google,PROXY
@@ -337,25 +330,9 @@ IP-CIDR,216.239.32.0/19,PROXY
 
 # > Netflix
 USER-AGENT,Argo*,PROXY
-HOST-KEYWORD,dualstack.apiproxy-device-prod-nlb-,PROXY
-HOST-KEYWORD,dualstack.ichnaea-web-,PROXY
-HOST-SUFFIX,netflix.com,PROXY
-HOST-SUFFIX,netflix.net,PROXY
-HOST-SUFFIX,netflixdnstest0.com,PROXY
-HOST-SUFFIX,netflixdnstest1.com,PROXY
-HOST-SUFFIX,netflixdnstest2.com,PROXY
-HOST-SUFFIX,netflixdnstest3.com,PROXY
-HOST-SUFFIX,netflixdnstest4.com,PROXY
-HOST-SUFFIX,netflixdnstest5.com,PROXY
-HOST-SUFFIX,netflixdnstest6.com,PROXY
-HOST-SUFFIX,netflixdnstest7.com,PROXY
-HOST-SUFFIX,netflixdnstest8.com,PROXY
-HOST-SUFFIX,netflixdnstest9.com,PROXY
-HOST-SUFFIX,nflxext.com,PROXY
-HOST-SUFFIX,nflximg.com,PROXY
-HOST-SUFFIX,nflximg.net,PROXY
-HOST-SUFFIX,nflxso.net,PROXY
-HOST-SUFFIX,nflxvideo.net,PROXY
+HOST-KEYWORD,netflix,PROXY
+HOST-KEYWORD,nflx,PROXY
+HOST-KEYWORD,dualstack,PROXY
 IP-CIDR,108.175.32.0/20,PROXY
 IP-CIDR,192.173.64.0/18,PROXY
 IP-CIDR,198.38.96.0/19,PROXY
@@ -385,14 +362,13 @@ HOST,youtubei.googleapis.com,PROXY
 HOST,yt3.ggpht.com,PROXY
 
 # > Twitter
+HOST-KEYWORD,twimg,PROXY
+HOST-KEYWORD,twitter,PROXY
 HOST-SUFFIX,pscp.tv,PROXY
 HOST-SUFFIX,periscope.tv,PROXY
 HOST-SUFFIX,t.co,PROXY
-HOST-SUFFIX,twimg.co,PROXY
-HOST-SUFFIX,twimg.com,PROXY
+HOST-KEYWORD,twimg,PROXY
 HOST-SUFFIX,twitpic.com,PROXY
-HOST-SUFFIX,twitter.com,PROXY
-HOST-SUFFIX,twitter.jp,PROXY
 HOST-SUFFIX,vine.co,PROXY
 IP-CIDR,69.195.160.0/19,PROXY
 IP-CIDR,104.244.42.0/21,PROXY
@@ -409,11 +385,10 @@ HOST,az416426.vo.msecnd.net,PROXY
 HOST,az668014.vo.msecnd.net,PROXY
 
 # > Facebook
+
 HOST-SUFFIX,cdninstagram.com,PROXY
-HOST-SUFFIX,facebook.com,PROXY
-HOST-SUFFIX,facebook.net,PROXY
-HOST-SUFFIX,fb.com,PROXY
-HOST-SUFFIX,fb.me,PROXY
+HOST-KEYWORD,facebook,PROXY
+HOST-KEYWORD,fb,PROXY
 HOST-SUFFIX,fbaddins.com,PROXY
 HOST-SUFFIX,fbcdn.net,PROXY
 HOST-SUFFIX,fbsbx.com,PROXY
