@@ -384,6 +384,19 @@ HOST-SUFFIX,aka.ms,PROXY
 HOST,az416426.vo.msecnd.net,PROXY
 HOST,az668014.vo.msecnd.net,PROXY
 
+# > TikTok
+USER-AGENT,TikTok*,PROXY
+DOMAIN-SUFFIX,byteoversea.com,PROXY
+DOMAIN-SUFFIX,ibytedtos.com,PROXY
+DOMAIN-SUFFIX,ipstatp.com,PROXY
+DOMAIN-SUFFIX,muscdn.com,PROXY
+DOMAIN-SUFFIX,musical.ly,PROXY
+DOMAIN-SUFFIX,tiktok.com,PROXY
+DOMAIN-SUFFIX,tik-tokapi.com,PROXY
+DOMAIN-SUFFIX,tiktokcdn.com,PROXY
+DOMAIN-SUFFIX,tiktokv.com,PROXY
+DOMAIN-KEYWORD,-tiktokcdn-com,PROXY
+
 # > Facebook
 
 HOST-SUFFIX,cdninstagram.com,PROXY
