@@ -1,6 +1,6 @@
 # > Spotify
-USER-AGENT,Spotify*,Spotify
-HOST-KEYWORD,spotify,Spotify
-HOST-SUFFIX,pscdn.co,Spotify
-HOST-SUFFIX,scdn.co,Spotify
-HOST-SUFFIX,spoti.fi,Spotify
+USER-AGENT,Spotify*,音乐媒体
+HOST-KEYWORD,spotify,音乐媒体
+HOST-SUFFIX,pscdn.co,音乐媒体
+HOST-SUFFIX,scdn.co,音乐媒体
+HOST-SUFFIX,spoti.fi,音乐媒体
