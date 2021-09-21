@@ -1,6 +1,6 @@
 # > Spotify
-USER-AGENT,Spotify*,音乐媒体
-HOST-KEYWORD,spotify,音乐媒体
-HOST-SUFFIX,pscdn.co,音乐媒体
-HOST-SUFFIX,scdn.co,音乐媒体
-HOST-SUFFIX,spoti.fi,音乐媒体
+USER-AGENT,Spotify*,PROXY
+HOST-KEYWORD,spotify,PROXY
+HOST-SUFFIX,pscdn.co,PROXY
+HOST-SUFFIX,scdn.co,PROXY
+HOST-SUFFIX,spoti.fi,PROXY
