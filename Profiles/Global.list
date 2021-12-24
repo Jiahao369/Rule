@@ -23,6 +23,7 @@ HOST-SUFFIX,archive.org,PROXY
 HOST-SUFFIX,armorgames.com,PROXY
 HOST-SUFFIX,aspnetcdn.com,PROXY
 HOST-SUFFIX,att.com,PROXY
+HOST-SUFFIX,linkedin.com,PROXY
 HOST-SUFFIX,awsstatic.com,PROXY
 HOST-SUFFIX,azureedge.net,PROXY
 HOST-SUFFIX,azurewebsites.net,PROXY
@@ -85,6 +86,7 @@ HOST-SUFFIX,feedburner.com,PROXY
 HOST-SUFFIX,feedly.com,PROXY
 HOST-SUFFIX,feedsportal.com,PROXY
 HOST-SUFFIX,fiftythree.com,PROXY
+HOST-SUFFIX,flightradar24.com,PROXY
 HOST-SUFFIX,firebaseio.com,PROXY
 HOST-SUFFIX,flexibits.com,PROXY
 HOST-SUFFIX,flickr.com,PROXY
