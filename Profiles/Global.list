@@ -2,11 +2,11 @@
 ## 常见国外域名列表
 HOST-KEYWORD,github,PROXY
 HOST-KEYWORD,maying,PROXY
+HOST-KEYWORD,adobe,PROXY
 HOST-SUFFIX,404museum.com,PROXY
 HOST-SUFFIX,9to5mac.com,PROXY
 HOST-SUFFIX,abpchina.org,PROXY
 HOST-SUFFIX,adblockplus.org,PROXY
-HOST-SUFFIX,adobe.com,PROXY
 HOST-SUFFIX,akamaized.net,PROXY
 HOST-SUFFIX,alfredapp.com,PROXY
 HOST-SUFFIX,amplitude.com,PROXY
