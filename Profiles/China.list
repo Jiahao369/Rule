@@ -32,6 +32,7 @@ HOST-SUFFIX,appcenter.ms,DIRECT
 HOST-SUFFIX,bdimg.com,DIRECT
 HOST-SUFFIX,bdstatic.com,DIRECT
 HOST-SUFFIX,bilibili.com,DIRECT
+HOST-SUFFIX,biliapi.com,DIRECT
 HOST-SUFFIX,bilivideo.com,DIRECT
 HOST-SUFFIX,caiyunapp.com,DIRECT
 HOST-SUFFIX,clouddn.com,DIRECT
