@@ -282,6 +282,8 @@ HOST-SUFFIX,userleap.com,PROXY
 HOST-SUFFIX,theinitium.com,PROXY
 HOST-KEYWORD,tumblr,PROXY
 HOST-KEYWORD,dropbox,PROXY
+HOST-KEYWORD,timetreeapp,PROXY
+
 
 # > Telegram
 HOST-KEYWORD,telegram,DIRECT
