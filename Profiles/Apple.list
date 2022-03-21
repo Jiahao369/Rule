@@ -8,8 +8,7 @@ HOST,itunes.apple.com,PROXY
 HOST-SUFFIX,apps.apple.com,PROXY
 HOST-SUFFIX,blobstore.apple.com,PROXY
 HOST,cvws.icloud-content.com,PROXY
-HOST,amp-api.podcasts.apple.com,PROXY
-
+HOST-SUFFIX,podcasts.apple.com,PROXY
 
 
 HOST,safebrowsing.urlsec.qq.com,DIRECT
