@@ -1,6 +1,0 @@
-# > Spotify
-USER-AGENT,Spotify*,DIRECT
-HOST-KEYWORD,spotify,DIRECT
-HOST-SUFFIX,pscdn.co,DIRECT
-HOST-SUFFIX,scdn.co,DIRECT
-HOST-SUFFIX,spoti.fi,DIRECT
