@@ -1,14 +1,14 @@
 HOST,developer.apple.com,PROXY
-HOST-SUFFIX,digicert.com,PROXY
 USER-AGENT,com.apple.trustd*,PROXY
 HOST-SUFFIX,apple-dns.net,PROXY
+HOST-SUFFIX,digicert.com,PROXY
 HOST,testflight.apple.com,PROXY
 HOST,sandbox.itunes.apple.com,PROXY
 HOST,itunes.apple.com,PROXY
-HOST-SUFFIX,apps.apple.com,PROXY
-HOST-SUFFIX,blobstore.apple.com,PROXY
 HOST,cvws.icloud-content.com,PROXY
+HOST-SUFFIX,apps.apple.com,PROXY
 HOST-SUFFIX,podcasts.apple.com,PROXY
+HOST-SUFFIX,blobstore.apple.com,PROXY
 
 
 HOST,safebrowsing.urlsec.qq.com,DIRECT
