@@ -8,10 +8,10 @@ HOST-KEYWORD,tumblr,PROXY
 HOST-KEYWORD,wikimedia,PROXY
 HOST-KEYWORD,windows,PROXY
 HOST-KEYWORD,pikpak,PROXY
-DOMAIN-SUFFIX,openai.com,PROXY
-DOMAIN-SUFFIX,openaiapi-site.azureedge.net,PROXY
-DOMAIN-SUFFIX,identrust.com,PROXY
-DOMAIN-SUFFIX,auth0.com,OPENAI,PROXY
+HOST-SUFFIX,openai.com,PROXY
+HOST-SUFFIX,openaiapi-site.azureedge.net,PROXY
+HOST-SUFFIX,identrust.com,PROXY
+HOST-SUFFIX,auth0.com,OPENAI,PROXY
 HOST-SUFFIX,404museum.com,PROXY
 HOST-SUFFIX,9to5mac.com,PROXY
 HOST-SUFFIX,abpchina.org,PROXY
