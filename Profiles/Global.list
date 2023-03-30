@@ -3,15 +3,11 @@ HOST-KEYWORD,adobe,PROXY
 HOST-KEYWORD,dropbox,PROXY
 HOST-KEYWORD,github,PROXY
 HOST-KEYWORD,maying,PROXY
+HOST-KEYWORD,pikpak,PROXY
 HOST-KEYWORD,timetreeapp,PROXY
 HOST-KEYWORD,tumblr,PROXY
 HOST-KEYWORD,wikimedia,PROXY
 HOST-KEYWORD,windows,PROXY
-HOST-KEYWORD,pikpak,PROXY
-HOST-SUFFIX,openai.com,PROXY
-HOST-SUFFIX,openaiapi-site.azureedge.net,PROXY
-HOST-SUFFIX,identrust.com,PROXY
-HOST-SUFFIX,auth0.com,PROXY
 HOST-SUFFIX,404museum.com,PROXY
 HOST-SUFFIX,9to5mac.com,PROXY
 HOST-SUFFIX,abpchina.org,PROXY
@@ -32,6 +28,7 @@ HOST-SUFFIX,archive.org,PROXY
 HOST-SUFFIX,armorgames.com,PROXY
 HOST-SUFFIX,aspnetcdn.com,PROXY
 HOST-SUFFIX,att.com,PROXY
+HOST-SUFFIX,auth0.com,PROXY
 HOST-SUFFIX,awsstatic.com,PROXY
 HOST-SUFFIX,azureedge.net,PROXY
 HOST-SUFFIX,azurewebsites.net,PROXY
@@ -124,6 +121,7 @@ HOST-SUFFIX,gvt0.com,PROXY
 HOST-SUFFIX,hockeyapp.net,PROXY
 HOST-SUFFIX,hotmail.com,PROXY
 HOST-SUFFIX,icons8.com,PROXY
+HOST-SUFFIX,identrust.com,PROXY
 HOST-SUFFIX,ifixit.com,PROXY
 HOST-SUFFIX,ift.tt,PROXY
 HOST-SUFFIX,ifttt.com,PROXY
@@ -183,6 +181,8 @@ HOST-SUFFIX,omnigroup.com,PROXY
 HOST-SUFFIX,onedrive.com,PROXY
 HOST-SUFFIX,onenote.com,PROXY
 HOST-SUFFIX,ooyala.com,PROXY
+HOST-SUFFIX,openai.com,PROXY
+HOST-SUFFIX,openaiapi-site.azureedge.net,PROXY
 HOST-SUFFIX,openvpn.net,PROXY
 HOST-SUFFIX,openwrt.org,PROXY
 HOST-SUFFIX,orkut.com,PROXY
