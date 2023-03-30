@@ -353,15 +353,15 @@ HOST,az668014.vo.msecnd.net,PROXY
 
 # > TikTok
 DOMAIN-KEYWORD,-tiktokcdn-com,PROXY
-DOMAIN-SUFFIX,byteoversea.com,PROXY
-DOMAIN-SUFFIX,ibytedtos.com,PROXY
-DOMAIN-SUFFIX,ipstatp.com,PROXY
-DOMAIN-SUFFIX,muscdn.com,PROXY
-DOMAIN-SUFFIX,musical.ly,PROXY
-DOMAIN-SUFFIX,tik-tokapi.com,PROXY
-DOMAIN-SUFFIX,tiktok.com,PROXY
-DOMAIN-SUFFIX,tiktokcdn.com,PROXY
-DOMAIN-SUFFIX,tiktokv.com,PROXY
+HOST-SUFFIX,byteoversea.com,PROXY
+HOST-SUFFIX,ibytedtos.com,PROXY
+HOST-SUFFIX,ipstatp.com,PROXY
+HOST-SUFFIX,muscdn.com,PROXY
+HOST-SUFFIX,musical.ly,PROXY
+HOST-SUFFIX,tik-tokapi.com,PROXY
+HOST-SUFFIX,tiktok.com,PROXY
+HOST-SUFFIX,tiktokcdn.com,PROXY
+HOST-SUFFIX,tiktokv.com,PROXY
 USER-AGENT,TikTok*,PROXY
 
 # > Facebook
