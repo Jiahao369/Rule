@@ -18,6 +18,9 @@ IP-CIDR,66.197.128.0/17,PROXY
 USER-AGENT,Argo*,PROXY
 
 # > DisneyPlus
+USER-AGENT,dplus*,PROXY
+USER-AGENT,disney*,PROXY
+USER-AGENT,discovery+*,PROXY
 HOST-KEYWORD,discoveryplus,PROXY
 HOST-KEYWORD,disney,PROXY
 HOST-SUFFIX,adobedtm.com,PROXY
@@ -32,9 +35,7 @@ HOST-SUFFIX,disney-plus.net,PROXY
 HOST-SUFFIX,dnitv.com,PROXY
 HOST-SUFFIX,dssott.com,PROXY
 HOST-SUFFIX,uplynk.com,PROXY
-USER-AGENT,dplus*,PROXY
-USER-AGENT,disney*,PROXY
-USER-AGENT,discovery+*,PROXY
+
 
 # > Pornhub
 HOST-SUFFIX,phncdn.com,PROXY
