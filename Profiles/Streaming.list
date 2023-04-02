@@ -1,4 +1,3 @@
-
 # > Netflix
 HOST-KEYWORD,dualstack,PROXY
 HOST-KEYWORD,netflix,PROXY
@@ -30,7 +29,6 @@ HOST-SUFFIX,disco-api.com,PROXY
 HOST-SUFFIX,dnitv.com,PROXY
 HOST-SUFFIX,dssott.com,PROXY
 HOST-SUFFIX,uplynk.com,PROXY
-
 
 # > Pornhub
 HOST-KEYWORD,pornhub,PROXY
