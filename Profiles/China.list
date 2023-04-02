@@ -1,5 +1,3 @@
-HOST,injections.adguard.org,DIRECT
-HOST,local.adguard.org,DIRECT
 HOST-KEYWORD,-cn,DIRECT
 HOST-KEYWORD,tmall.com,DIRECT
 HOST-KEYWORD,alicdn,DIRECT
