@@ -25,11 +25,7 @@ HOST-SUFFIX,appsflyer.com,REJECT
 HOST-SUFFIX,doubleclick.net,REJECT
 HOST-SUFFIX,mmstat.com,REJECT
 HOST-SUFFIX,vungle.com,REJECT
-HOST-SUFFIX,safebrowsing.urlsec.qq.com,REJECT
-HOST-SUFFIX,safebrowsing.googleapis.com,REJECT
-HOST-SUFFIX,lookup.api.bsb.baidu.com,REJECT
-DOMAIN-SUFFIX,pangolin-sdk-toutiao.com,REJECT
-DOMAIN,ad.toutiao.com,REJECT
-DOMAIN,ads.weilitoutiao.net,REJECT
-DOMAIN,nativeadv.dftoutiao.com,REJECT
+HOST,ad.toutiao.com,REJECT
+HOST,ads.weilitoutiao.net,REJECT
+HOST,nativeadv.dftoutiao.com,REJECT
 
