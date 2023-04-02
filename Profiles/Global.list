@@ -60,6 +60,7 @@ HOST-SUFFIX,blog.com,PROXY
 HOST-SUFFIX,blogcdn.com,PROXY
 HOST-SUFFIX,blogger.com,PROXY
 HOST-SUFFIX,blogsmithmedia.com,PROXY
+HOST-SUFFIX,buzzsprout.com,PROXY
 HOST-SUFFIX,blogspot.com,PROXY
 HOST-SUFFIX,blogspot.hk,PROXY
 HOST-SUFFIX,bloomberg.com,PROXY
