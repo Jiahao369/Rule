@@ -19,11 +19,21 @@ USER-AGENT,Argo*,PROXY
 
 # > DisneyPlus
 DOMAIN,x-default-stgec.uplynk.com,PROXY
-DOMAIN-KEYWORD,discovery.uplynk.com,PROXY
-DOMAIN-SUFFIX,bamgrid.com,PROXY
-DOMAIN-SUFFIX,disco-api.com,PROXY
-DOMAIN-SUFFIX,dnitv.com,PROXY
+HOST-SUFFIX,adobedtm.com,PROXY
+HOST-SUFFIX,bam.nr-date.net,PROXY
+HOST-SUFFIX,bamgrid.com,PROXY
+HOST-SUFFIX,bamgrid.com,PROXY
+HOST-SUFFIX,braze.com,PROXY
+HOST-SUFFIX,cdn.optimizely.com,PROXY
+HOST-SUFFIX,d9.flashtalking.com,PROXY
+HOST-SUFFIX,disco-api.com,PROXY
+HOST-SUFFIX,disney-plus.net,PROXY
+HOST-SUFFIX,disney-portal.my.onetrust.com,PROXY
+HOST-SUFFIX,dnitv.com,PROXY
+HOST-SUFFIX,dssott.com,PROXY
+HOST-SUFFIX,registerdisney.go.com,PROXY
 HOST-KEYWORD,discoveryplus,PROXY
+HOST-KEYWORD,disney,PROXY
 USER-AGENT,DPlus*,PROXY
 USER-AGENT,Disney*,PROXY
 USER-AGENT,discovery+*,PROXY
