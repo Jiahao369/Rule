@@ -3,8 +3,8 @@ HOST,az416426.vo.msecnd.net,PROXY
 HOST,az668014.vo.msecnd.net,PROXY
 HOST-KEYWORD,.blogspot.,PROXY
 HOST-KEYWORD,adobe,PROXY
-HOST-KEYWORD,dropbox,PROXY
 HOST-KEYWORD,cloudfront,PROXY
+HOST-KEYWORD,dropbox,PROXY
 HOST-KEYWORD,facebook,PROXY
 HOST-KEYWORD,fb,PROXY
 HOST-KEYWORD,github,PROXY
@@ -235,7 +235,6 @@ HOST-SUFFIX,rime.im,PROXY
 HOST-SUFFIX,rocksdb.org,PROXY
 HOST-SUFFIX,servebom.com,PROXY
 HOST-SUFFIX,sfx.ms,PROXY
-HOST-SUFFIX,soundon.fm,PROXY
 HOST-SUFFIX,shadowsocks.org,PROXY
 HOST-SUFFIX,sharethis.com,PROXY
 HOST-SUFFIX,shazam.com,PROXY
@@ -244,6 +243,7 @@ HOST-SUFFIX,smartdnsProxy.com,PROXY
 HOST-SUFFIX,smartmailcloud.com,PROXY
 HOST-SUFFIX,sndcdn.com,PROXY
 HOST-SUFFIX,soundcloud.com,PROXY
+HOST-SUFFIX,soundon.fm,PROXY
 HOST-SUFFIX,sourceforge.net,PROXY
 HOST-SUFFIX,squarespace.com,PROXY
 HOST-SUFFIX,sstatic.net,PROXY
