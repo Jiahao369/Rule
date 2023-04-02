@@ -2,6 +2,7 @@
 HOST,az416426.vo.msecnd.net,PROXY
 HOST,az668014.vo.msecnd.net,PROXY
 HOST-KEYWORD,adobe,PROXY
+HOST-KEYWORD,bing,PROXY
 HOST-KEYWORD,cloudfront,PROXY
 HOST-KEYWORD,dropbox,PROXY
 HOST-KEYWORD,facebook,PROXY
@@ -49,7 +50,6 @@ HOST-SUFFIX,awsstatic.com,PROXY
 HOST-SUFFIX,azureedge.net,PROXY
 HOST-SUFFIX,azurewebsites.net,PROXY
 HOST-SUFFIX,behance.net,PROXY
-HOST-SUFFIX,bing.com,PROXY
 HOST-SUFFIX,bintray.com,PROXY
 HOST-SUFFIX,bit.com,PROXY
 HOST-SUFFIX,bit.ly,PROXY
