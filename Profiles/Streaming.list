@@ -34,10 +34,9 @@ HOST-SUFFIX,uplynk.com,PROXY
 
 
 # > Pornhub
+HOST-KEYWORD,pornhub,PROXY
 HOST-SUFFIX,phncdn.com,PROXY
 HOST-SUFFIX,phprcdn.com,PROXY
-HOST-SUFFIX,pornhub.com,PROXY
-HOST-SUFFIX,pornhubpremium.com,PROXY
 
 # > YouTube
 HOST,youtubei.googleapis.com,PROXY
