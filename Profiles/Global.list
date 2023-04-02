@@ -378,3 +378,20 @@ HOST-SUFFIX,messenger.com,PROXY
 HOST-SUFFIX,rocksdb.org,PROXY
 HOST-SUFFIX,whatsapp.com,PROXY
 HOST-SUFFIX,whatsapp.net,PROXY
+
+# > DisneyPlus
+USER-AGENT,DPlus*,PROXY
+USER-AGENT,discovery+*,PROXY
+DOMAIN-SUFFIX,disco-api.com,PROXY
+DOMAIN-SUFFIX,discoveryplus.co.uk,PROXY
+DOMAIN-SUFFIX,discoveryplus.com,PROXY
+DOMAIN-SUFFIX,discoveryplus.in,PROXY
+DOMAIN-SUFFIX,dnitv.com,PROXY
+DOMAIN,x-default-stgec.uplynk.com,PROXY
+DOMAIN-KEYWORD,discovery.uplynk.com,PROXY
+
+# > Pornhub
+HOST-SUFFIX,phncdn.com,PROXY
+HOST-SUFFIX,phprcdn.com,PROXY
+HOST-SUFFIX,pornhub.com,PROXY
+HOST-SUFFIX,pornhubpremium.com,PROXY
