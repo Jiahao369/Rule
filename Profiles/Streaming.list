@@ -38,9 +38,7 @@ HOST-SUFFIX,phncdn.com,PROXY
 HOST-SUFFIX,phprcdn.com,PROXY
 
 # > YouTube
+HOST-KEYWORD,YouTube,PROXY
 HOST,youtubei.googleapis.com,PROXY
 HOST-SUFFIX,googlevideo.com,PROXY
-HOST-SUFFIX,youtube.com,PROXY
 HOST-SUFFIX,ytimg.com,PROXY
-USER-AGENT,YouTube*,PROXY
-USER-AGENT,com.google.ios.youtube*,PROXY
