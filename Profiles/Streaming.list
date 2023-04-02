@@ -18,24 +18,22 @@ IP-CIDR,66.197.128.0/17,PROXY
 USER-AGENT,Argo*,PROXY
 
 # > DisneyPlus
-DOMAIN,x-default-stgec.uplynk.com,PROXY
+HOST-KEYWORD,discoveryplus,PROXY
+HOST-KEYWORD,disney,PROXY
 HOST-SUFFIX,adobedtm.com,PROXY
 HOST-SUFFIX,bam.nr-date.net,PROXY
 HOST-SUFFIX,bamgrid.com,PROXY
-HOST-SUFFIX,bamgrid.com,PROXY
 HOST-SUFFIX,braze.com,PROXY
 HOST-SUFFIX,cdn.optimizely.com,PROXY
+HOST-SUFFIX,conviva.com,PROXY
 HOST-SUFFIX,d9.flashtalking.com,PROXY
 HOST-SUFFIX,disco-api.com,PROXY
 HOST-SUFFIX,disney-plus.net,PROXY
-HOST-SUFFIX,disney-portal.my.onetrust.com,PROXY
 HOST-SUFFIX,dnitv.com,PROXY
 HOST-SUFFIX,dssott.com,PROXY
-HOST-SUFFIX,registerdisney.go.com,PROXY
-HOST-KEYWORD,discoveryplus,PROXY
-HOST-KEYWORD,disney,PROXY
-USER-AGENT,DPlus*,PROXY
-USER-AGENT,Disney*,PROXY
+HOST-SUFFIX,uplynk.com,PROXY
+USER-AGENT,dplus*,PROXY
+USER-AGENT,disney*,PROXY
 USER-AGENT,discovery+*,PROXY
 
 # > Pornhub
