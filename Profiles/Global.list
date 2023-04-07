@@ -1,6 +1,4 @@
 ## 常见国外域名列表
-HOST,az416426.vo.msecnd.net,PROXY
-HOST,az668014.vo.msecnd.net,PROXY
 HOST-KEYWORD,Microsoft,PROXY
 HOST-KEYWORD,YouTube,PROXY
 HOST-KEYWORD,adobe,PROXY
@@ -194,6 +192,7 @@ HOST-SUFFIX,mindnode.com,PROXY
 HOST-SUFFIX,mobile01.com,PROXY
 HOST-SUFFIX,modmyi.com,PROXY
 HOST-SUFFIX,mohu.rocks,PROXY
+HOST-SUFFIX,msecnd.net,PROXY
 HOST-SUFFIX,msedge.net,PROXY
 HOST-SUFFIX,muscdn.com,PROXY
 HOST-SUFFIX,musical.ly,PROXY
