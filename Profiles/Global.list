@@ -1,7 +1,6 @@
 ## 常见国外域名列表
 HOST,az416426.vo.msecnd.net,PROXY
 HOST,az668014.vo.msecnd.net,PROXY
-
 HOST-KEYWORD,Microsoft,PROXY
 HOST-KEYWORD,YouTube,PROXY
 HOST-KEYWORD,adobe,PROXY
@@ -29,7 +28,6 @@ HOST-KEYWORD,whatsapp,PROXY
 HOST-KEYWORD,wikimedia,PROXY
 HOST-KEYWORD,windows,PROXY
 HOST-KEYWORD,wsj,PROXY
-
 HOST-SUFFIX,404museum.com,PROXY
 HOST-SUFFIX,9to5mac.com,PROXY
 HOST-SUFFIX,abpchina.org,PROXY
@@ -179,11 +177,11 @@ HOST-SUFFIX,linkedin.com,PROXY
 HOST-SUFFIX,linode.com,PROXY
 HOST-SUFFIX,lithium.com,PROXY
 HOST-SUFFIX,littlehj.com,PROXY
+HOST-SUFFIX,live-video.net,PROXY
 HOST-SUFFIX,live.com,PROXY
 HOST-SUFFIX,live.net,PROXY
 HOST-SUFFIX,livefilestore.com,PROXY
 HOST-SUFFIX,llnwd.net,PROXY
-HOST-SUFFIX,live-video.net,PROXY
 HOST-SUFFIX,m.me,PROXY
 HOST-SUFFIX,macid.co,PROXY
 HOST-SUFFIX,macromedia.com,PROXY
@@ -237,6 +235,7 @@ HOST-SUFFIX,playstationnetwork.com,PROXY
 HOST-SUFFIX,pscp.tv,PROXY
 HOST-SUFFIX,pushwoosh.com,PROXY
 HOST-SUFFIX,rateyourmusic.com,PROXY
+HOST-SUFFIX,registerdisney.go.com,PROXY
 HOST-SUFFIX,rime.im,PROXY
 HOST-SUFFIX,rocksdb.org,PROXY
 HOST-SUFFIX,sectigo.com,PROXY
@@ -257,6 +256,7 @@ HOST-SUFFIX,sstatic.net,PROXY
 HOST-SUFFIX,st.luluku.pw,PROXY
 HOST-SUFFIX,stackoverflow.com,PROXY
 HOST-SUFFIX,startpage.com,PROXY
+HOST-SUFFIX,starwars.com,PROXY
 HOST-SUFFIX,staticflickr.com,PROXY
 HOST-SUFFIX,steamcommunity.com,PROXY
 HOST-SUFFIX,steampowered.com,PROXY
@@ -322,10 +322,6 @@ HOST-SUFFIX,yahoo.com,PROXY
 HOST-SUFFIX,yimg.com,PROXY
 HOST-SUFFIX,yoyo.org,PROXY
 HOST-SUFFIX,ytimg.com,PROXY
-HOST-SUFFIX,registerdisney.go.com,PROXY
-HOST-SUFFIX,starwars.com,PROXY
-
-
 IP-CIDR,104.244.42.0/21,PROXY
 IP-CIDR,108.177.8.0/21,PROXY
 IP-CIDR,149.154.160.0/20,PROXY
