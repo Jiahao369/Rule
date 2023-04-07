@@ -2,6 +2,7 @@ HOST,ad.toutiao.com,REJECT
 HOST,ads.weilitoutiao.net,REJECT
 HOST,nativeadv.dftoutiao.com,REJECT
 
+
 HOST-KEYWORD,admarvel,REJECT
 HOST-KEYWORD,admaster,REJECT
 HOST-KEYWORD,adsage,REJECT
@@ -41,6 +42,8 @@ HOST-SUFFIX,doubleclick.net,REJECT
 HOST-SUFFIX,mmstat.com,REJECT
 HOST-SUFFIX,scorecardresearch.com,REJECT
 HOST-SUFFIX,vungle.com,REJECT
+HOST-SUFFIX,pglstatp-toutiao.com,REJECT
+
 
 IP-CIDR,1.3.0.10/32,REJECT
 IP-CIDR,10.72.25.0/24,REJECT
