@@ -41,6 +41,7 @@ HOST-SUFFIX,googlevideo.com,PROXY
 HOST-SUFFIX,ytimg.com,PROXY
 
 # > Spotify
+DOMAIN-KEYWORD,-spotify-com,DIRECT
 DOMAIN-KEYWORD,spotify,DIRECT
 DOMAIN-SUFFIX,pscdn.co,DIRECT
 DOMAIN-SUFFIX,scdn.co,DIRECT
