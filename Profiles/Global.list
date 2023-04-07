@@ -85,7 +85,6 @@ HOST-SUFFIX,db.tt,PROXY
 HOST-SUFFIX,deskconnect.com,PROXY
 HOST-SUFFIX,disq.us,PROXY
 HOST-SUFFIX,disqus.com,PROXY
-HOST-SUFFIX,pki.goog,PROXY
 HOST-SUFFIX,disquscdn.com,PROXY
 HOST-SUFFIX,dnsimple.com,PROXY
 HOST-SUFFIX,docker.com,PROXY
@@ -195,7 +194,6 @@ HOST-SUFFIX,mindnode.com,PROXY
 HOST-SUFFIX,mobile01.com,PROXY
 HOST-SUFFIX,modmyi.com,PROXY
 HOST-SUFFIX,mohu.rocks,PROXY
-HOST-SUFFIX,rateyourmusic.com,PROXY
 HOST-SUFFIX,msedge.net,PROXY
 HOST-SUFFIX,muscdn.com,PROXY
 HOST-SUFFIX,musical.ly,PROXY
@@ -231,10 +229,12 @@ HOST-SUFFIX,pincong.rocks, PROXY
 HOST-SUFFIX,pinterest.com,PROXY
 HOST-SUFFIX,pixelmator.com,PROXY
 HOST-SUFFIX,pixiv.net,PROXY
+HOST-SUFFIX,pki.goog,PROXY
 HOST-SUFFIX,playpcesor.com,PROXY
 HOST-SUFFIX,playstationnetwork.com,PROXY
 HOST-SUFFIX,pscp.tv,PROXY
 HOST-SUFFIX,pushwoosh.com,PROXY
+HOST-SUFFIX,rateyourmusic.com,PROXY
 HOST-SUFFIX,rime.im,PROXY
 HOST-SUFFIX,rocksdb.org,PROXY
 HOST-SUFFIX,servebom.com,PROXY
