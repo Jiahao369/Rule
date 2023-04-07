@@ -25,7 +25,6 @@ HOST-KEYWORD,hotstar,PROXY
 HOST-KEYWORD,marvel,PROXY
 HOST-SUFFIX,adobedtm.com,PROXY
 HOST-SUFFIX,bam.nr-date.net,PROXY
-HOST-SUFFIX,go.com,PROXY
 HOST-SUFFIX,bamgrid.com,PROXY
 HOST-SUFFIX,braze.com,PROXY
 HOST-SUFFIX,cdn.optimizely.com,PROXY
@@ -35,6 +34,7 @@ HOST-SUFFIX,dnitv.com,PROXY
 HOST-SUFFIX,dssott.com,PROXY
 HOST-SUFFIX,fwmrm.net,PROXY
 HOST-SUFFIX,getblueshift.com,PROXY
+HOST-SUFFIX,go.com,PROXY
 HOST-SUFFIX,litix.io,PROXY
 HOST-SUFFIX,mobile-collector.newrelic.com,PROXY
 HOST-SUFFIX,uplynk.com,PROXY
