@@ -46,5 +46,6 @@ DOMAIN-KEYWORD,spotify,DIRECT
 DOMAIN-SUFFIX,pscdn.co,DIRECT
 DOMAIN-SUFFIX,scdn.co,DIRECT
 DOMAIN-SUFFIX,spoti.fi,DIRECT
+DOMAIN-SUFFIX,audio-ak-spotify-com.akamaized.net,DIRECT
 
 
