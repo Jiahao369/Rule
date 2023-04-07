@@ -183,6 +183,7 @@ HOST-SUFFIX,live.com,PROXY
 HOST-SUFFIX,live.net,PROXY
 HOST-SUFFIX,livefilestore.com,PROXY
 HOST-SUFFIX,llnwd.net,PROXY
+HOST-SUFFIX,live-video.net,PROXY
 HOST-SUFFIX,m.me,PROXY
 HOST-SUFFIX,macid.co,PROXY
 HOST-SUFFIX,macromedia.com,PROXY
