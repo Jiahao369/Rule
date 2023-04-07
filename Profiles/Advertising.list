@@ -3,8 +3,8 @@ HOST-KEYWORD,admaster,REJECT
 HOST-KEYWORD,adsage,REJECT
 HOST-KEYWORD,adservice,REJECT
 HOST-KEYWORD,adsmogo,REJECT
-host-suffix,branch.io,reject
-host-suffix,scorecardresearch.com,reject
+HOST-SUFFIX,branch.io,REJECT
+HOST-SUFFIX,scorecardresearch.com,REJECT
 HOST-KEYWORD,adsrvmedia,REJECT
 HOST-KEYWORD,adwords,REJECT
 HOST-KEYWORD,domob,REJECT
