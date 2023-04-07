@@ -2,6 +2,7 @@
 HOST,az416426.vo.msecnd.net,PROXY
 HOST,az668014.vo.msecnd.net,PROXY
 
+HOST-KEYWORD,Microsoft,PROXY
 HOST-KEYWORD,adobe,PROXY
 HOST-KEYWORD,amazon,PROXY
 HOST-KEYWORD,bing,PROXY
@@ -12,6 +13,9 @@ HOST-KEYWORD,fb,PROXY
 HOST-KEYWORD,github,PROXY
 HOST-KEYWORD,google,PROXY
 HOST-KEYWORD,instagram,PROXY
+HOST-KEYWORD,javbus,PROXY
+HOST-KEYWORD,mega,PROXY
+HOST-KEYWORD,openai,PROXY
 HOST-KEYWORD,pikpak,PROXY
 HOST-KEYWORD,playstation,PROXY
 HOST-KEYWORD,telegram,PROXY
@@ -21,13 +25,11 @@ HOST-KEYWORD,tumblr,PROXY
 HOST-KEYWORD,twimg,PROXY
 HOST-KEYWORD,twitter,PROXY
 HOST-KEYWORD,whatsapp,PROXY
-HOST-KEYWORD,javbus,PROXY
 HOST-KEYWORD,wikimedia,PROXY
 HOST-KEYWORD,windows,PROXY
 HOST-KEYWORD,wsj,PROXY
 
 HOST-SUFFIX,404museum.com,PROXY
-HOST-SUFFIX,sectigo.com,PROXY
 HOST-SUFFIX,9to5mac.com,PROXY
 HOST-SUFFIX,abpchina.org,PROXY
 HOST-SUFFIX,adblockplus.org,PROXY
@@ -70,7 +72,6 @@ HOST-SUFFIX,bloomberg.com,PROXY
 HOST-SUFFIX,buzzsprout.com,PROXY
 HOST-SUFFIX,byteoversea.com,PROXY
 HOST-SUFFIX,cachefly.net,PROXY
-HOST-SUFFIX,cdninstagram.com,PROXY
 HOST-SUFFIX,chromium.org,PROXY
 HOST-SUFFIX,cl.ly,PROXY
 HOST-SUFFIX,cloudfront.net,PROXY
@@ -156,7 +157,6 @@ HOST-SUFFIX,imageshack.us,PROXY
 HOST-SUFFIX,img.ly,PROXY
 HOST-SUFFIX,imgur.com,PROXY
 HOST-SUFFIX,imore.com,PROXY
-HOST-SUFFIX,instagram.com,PROXY
 HOST-SUFFIX,instapaper.com,PROXY
 HOST-SUFFIX,ipn.li,PROXY
 HOST-SUFFIX,ipstatp.com,PROXY
@@ -188,11 +188,7 @@ HOST-SUFFIX,macrumors.com,PROXY
 HOST-SUFFIX,mashable.com,PROXY
 HOST-SUFFIX,mathjax.org,PROXY
 HOST-SUFFIX,medium.com,PROXY
-HOST-SUFFIX,mega.co.nz,PROXY
-HOST-SUFFIX,mega.nz,PROXY
-HOST-SUFFIX,megaupload.com,PROXY
 HOST-SUFFIX,messenger.com,PROXY
-HOST-SUFFIX,microsofttranslator.com,PROXY
 HOST-SUFFIX,mindnode.com,PROXY
 HOST-SUFFIX,mobile01.com,PROXY
 HOST-SUFFIX,modmyi.com,PROXY
@@ -240,6 +236,7 @@ HOST-SUFFIX,pushwoosh.com,PROXY
 HOST-SUFFIX,rateyourmusic.com,PROXY
 HOST-SUFFIX,rime.im,PROXY
 HOST-SUFFIX,rocksdb.org,PROXY
+HOST-SUFFIX,sectigo.com,PROXY
 HOST-SUFFIX,servebom.com,PROXY
 HOST-SUFFIX,sfx.ms,PROXY
 HOST-SUFFIX,shadowsocks.org,PROXY
@@ -259,6 +256,7 @@ HOST-SUFFIX,stackoverflow.com,PROXY
 HOST-SUFFIX,startpage.com,PROXY
 HOST-SUFFIX,staticflickr.com,PROXY
 HOST-SUFFIX,steamcommunity.com,PROXY
+HOST-SUFFIX,steampowered.com,PROXY
 HOST-SUFFIX,symauth.com,PROXY
 HOST-SUFFIX,symcb.com,PROXY
 HOST-SUFFIX,symcd.com,PROXY
@@ -271,14 +269,11 @@ HOST-SUFFIX,tdesktop.com,PROXY
 HOST-SUFFIX,techcrunch.com,PROXY
 HOST-SUFFIX,technews.tw,PROXY
 HOST-SUFFIX,techsmith.com,PROXY
-HOST-SUFFIX,telegra.ph,PROXY
 HOST-SUFFIX,telesco.pe,PROXY
 HOST-SUFFIX,theinitium.com,PROXY
 HOST-SUFFIX,thepiratebay.org,PROXY
 HOST-SUFFIX,theverge.com,PROXY
 HOST-SUFFIX,tik-tokapi.com,PROXY
-HOST-SUFFIX,tiktok.com,PROXY
-HOST-SUFFIX,tiktokv.com,PROXY
 HOST-SUFFIX,time.com,PROXY
 HOST-SUFFIX,timeinc.net,PROXY
 HOST-SUFFIX,tiny.cc,PROXY
@@ -313,8 +308,6 @@ HOST-SUFFIX,w3schools.com,PROXY
 HOST-SUFFIX,webtype.com,PROXY
 HOST-SUFFIX,wikileaks.org,PROXY
 HOST-SUFFIX,wikiwand.com,PROXY
-HOST-SUFFIX,windows.com,PROXY
-HOST-SUFFIX,windows.net,PROXY
 HOST-SUFFIX,wire.com,PROXY
 HOST-SUFFIX,wordpress.com,PROXY
 HOST-SUFFIX,workflowy.com,PROXY
