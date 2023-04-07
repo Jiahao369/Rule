@@ -59,10 +59,10 @@ HOST-SUFFIX,blog.com,PROXY
 HOST-SUFFIX,blogcdn.com,PROXY
 HOST-SUFFIX,blogger.com,PROXY
 HOST-SUFFIX,blogsmithmedia.com,PROXY
-HOST-SUFFIX,buzzsprout.com,PROXY
 HOST-SUFFIX,blogspot.com,PROXY
 HOST-SUFFIX,blogspot.hk,PROXY
 HOST-SUFFIX,bloomberg.com,PROXY
+HOST-SUFFIX,buzzsprout.com,PROXY
 HOST-SUFFIX,byteoversea.com,PROXY
 HOST-SUFFIX,cachefly.net,PROXY
 HOST-SUFFIX,cdninstagram.com,PROXY
@@ -201,6 +201,7 @@ HOST-SUFFIX,nextmedia.com,PROXY
 HOST-SUFFIX,notion.so,PROXY
 HOST-SUFFIX,nsstatic.net,PROXY
 HOST-SUFFIX,nssurge.com,PROXY
+HOST-SUFFIX,nxtlnodes.com,PROXY
 HOST-SUFFIX,nyt.com,PROXY
 HOST-SUFFIX,nytimes.com,PROXY
 HOST-SUFFIX,omnigroup.com,PROXY
