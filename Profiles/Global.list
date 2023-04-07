@@ -85,6 +85,7 @@ HOST-SUFFIX,db.tt,PROXY
 HOST-SUFFIX,deskconnect.com,PROXY
 HOST-SUFFIX,disq.us,PROXY
 HOST-SUFFIX,disqus.com,PROXY
+HOST-SUFFIX,pki.goog,PROXY
 HOST-SUFFIX,disquscdn.com,PROXY
 HOST-SUFFIX,dnsimple.com,PROXY
 HOST-SUFFIX,docker.com,PROXY
