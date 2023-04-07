@@ -1,5 +1,6 @@
 DOMAIN-KEYWORD,apple,DIRECT
 DOMAIN-KEYWORD,icloud,DIRECT
+
 DOMAIN-SUFFIX,aaplimg.com,DIRECT
 DOMAIN-SUFFIX,apple-cloudkit.com,DIRECT
 DOMAIN-SUFFIX,apple-livephotoskit.com,DIRECT
@@ -10,6 +11,7 @@ DOMAIN-SUFFIX,apzones.com,DIRECT
 DOMAIN-SUFFIX,cdn-apple.com,DIRECT
 DOMAIN-SUFFIX,me.com,DIRECT
 DOMAIN-SUFFIX,mzstatic.com,DIRECT
+
 HOST-SUFFIX,akadns.net,DIRECT
 HOST-SUFFIX,akamaiedge.net,DIRECT
 HOST-SUFFIX,podcasts.apple.com,PROXY
