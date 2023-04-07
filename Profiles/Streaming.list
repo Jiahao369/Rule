@@ -16,10 +16,13 @@ IP-CIDR,64.120.128.0/17,PROXY
 IP-CIDR,66.197.128.0/17,PROXY
 
 # > DisneyPlus
-HOST,discovery-us.conax.cloud,PROXY
 HOST,dplus-northamerica.media-edge.prod-vod.h264.io,PROXY
+HOST-KEYWORD,20thcenturystudios,PROXY
 HOST-KEYWORD,discovery,PROXY
 HOST-KEYWORD,disney,PROXY
+HOST-KEYWORD,espn,PROXY
+HOST-KEYWORD,hotstar,PROXY
+HOST-KEYWORD,marvel,PROXY
 HOST-SUFFIX,adobedtm.com,PROXY
 HOST-SUFFIX,bam.nr-date.net,PROXY
 HOST-SUFFIX,bamgrid.com,PROXY
@@ -29,11 +32,38 @@ HOST-SUFFIX,conviva.com,PROXY
 HOST-SUFFIX,disco-api.com,PROXY
 HOST-SUFFIX,dnitv.com,PROXY
 HOST-SUFFIX,dssott.com,PROXY
+HOST-SUFFIX,dtci.co,PROXY
+HOST-SUFFIX,dtci.technology,PROXY
+HOST-SUFFIX,edgedatg.com,PROXY
 HOST-SUFFIX,fwmrm.net,PROXY
 HOST-SUFFIX,getblueshift.com,PROXY
+HOST-SUFFIX,go.com,PROXY
+HOST-SUFFIX,js-agent.newrelic.com,PROXY
 HOST-SUFFIX,litix.io,PROXY
+HOST-SUFFIX,mickey.tv,PROXY
 HOST-SUFFIX,mobile-collector.newrelic.com,PROXY
+HOST-SUFFIX,moviesanywhere.com,PROXY
+HOST-SUFFIX,natgeomaps.com,PROXY
+HOST-SUFFIX,ngeo.com,PROXY
+HOST-SUFFIX,playmation.com,PROXY
+HOST-SUFFIX,shopdisney.com,PROXY
+HOST-SUFFIX,shops-disney.com,PROXY
+HOST-SUFFIX,sorcerersarena.com,PROXY
+HOST-SUFFIX,spaindisney.com,PROXY
+HOST-SUFFIX,star-brasil.com,PROXY
+HOST-SUFFIX,star-latam.com,PROXY
+HOST-SUFFIX,starott.com,PROXY
+HOST-SUFFIX,starplus.com,PROXY
+HOST-SUFFIX,starwars.com,PROXY
+HOST-SUFFIX,starwarsgalacticstarcruiser.com,PROXY
+HOST-SUFFIX,starwarskids.com,PROXY
+HOST-SUFFIX,streamingdisney.net,PROXY
+HOST-SUFFIX,themarvelexperiencetour.com,PROXY
+HOST-SUFFIX,thestationbymaker.com,PROXY
+HOST-SUFFIX,thisispolaris.com,PROXY
 HOST-SUFFIX,uplynk.com,PROXY
+HOST-SUFFIX,watchdisneyfe.com,PROXY
+HOST-SUFFIX,watchespn.com,PROXY
 
 # > Pornhub
 HOST-KEYWORD,pornhub,PROXY
