@@ -1,7 +1,6 @@
 HOST,ad.toutiao.com,REJECT
 HOST,ads.weilitoutiao.net,REJECT
 HOST,nativeadv.dftoutiao.com,REJECT
-
 HOST-KEYWORD,admarvel,REJECT
 HOST-KEYWORD,admaster,REJECT
 HOST-KEYWORD,adsage,REJECT
@@ -33,7 +32,6 @@ HOST-KEYWORD,umeng,REJECT
 HOST-KEYWORD,usage,REJECT
 HOST-KEYWORD,wlmonitor,REJECT
 HOST-KEYWORD,zjtoolbar,REJECT
-
 HOST-SUFFIX,adsmind.ugdtimg.com,REJECT
 HOST-SUFFIX,app-measurement.com,REJECT
 HOST-SUFFIX,appsflyer.com,REJECT
@@ -54,7 +52,6 @@ HOST-SUFFIX,snssdk.com,REJECT
 HOST-SUFFIX,ut.taobao.com,REJECT
 HOST-SUFFIX,v.gdt.qq.com,REJECT
 HOST-SUFFIX,vungle.com,REJECT
-
 IP-CIDR,1.3.0.10/32,REJECT
 IP-CIDR,10.72.25.0/24,REJECT
 IP-CIDR,101.124.19.122/32,REJECT
