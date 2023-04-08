@@ -42,11 +42,11 @@ HOST-SUFFIX,ctobsnssdk.com,REJECT
 HOST-SUFFIX,dm.toutiao.com,REJECT
 HOST-SUFFIX,doubleclick.net,REJECT
 HOST-SUFFIX,e.qq.com,REJECT
+HOST-SUFFIX,gridsumdissector.com,REJECT
 HOST-SUFFIX,hectorstatic.baidu.com,REJECT
 HOST-SUFFIX,kuiniuca.com,REJECT
 HOST-SUFFIX,log.umsns.com,REJECT
 HOST-SUFFIX,miaozhen.com,REJECT
-HOST-SUFFIX,gridsumdissector.com,REJECT
 HOST-SUFFIX,mmstat.com,REJECT
 HOST-SUFFIX,mpush-api.aliyun.com,REJECT
 HOST-SUFFIX,pglstatp-toutiao.com,REJECT
