@@ -31,6 +31,7 @@ HOST-SUFFIX,9to5mac.com,PROXY
 HOST-SUFFIX,abpchina.org,PROXY
 HOST-SUFFIX,adblockplus.org,PROXY
 HOST-SUFFIX,aka.ms,PROXY
+HOST-SUFFIX,akamaihd.net,PROXY
 HOST-SUFFIX,akamaized.net,PROXY
 HOST-SUFFIX,alfredapp.com,PROXY
 HOST-SUFFIX,amplitude.com,PROXY
@@ -43,6 +44,7 @@ HOST-SUFFIX,apkpure.com,PROXY
 HOST-SUFFIX,appledaily.com,PROXY
 HOST-SUFFIX,appshopper.com,PROXY
 HOST-SUFFIX,appspot.com,PROXY
+HOST-SUFFIX,appstorrent.ru,PROXY
 HOST-SUFFIX,arcgis.com,PROXY
 HOST-SUFFIX,archive.org,PROXY
 HOST-SUFFIX,armorgames.com,PROXY
@@ -249,6 +251,7 @@ HOST-SUFFIX,sndcdn.com,PROXY
 HOST-SUFFIX,soundcloud.com,PROXY
 HOST-SUFFIX,soundon.fm,PROXY
 HOST-SUFFIX,sourceforge.net,PROXY
+HOST-SUFFIX,sprig.com,PROXY
 HOST-SUFFIX,squarespace.com,PROXY
 HOST-SUFFIX,sstatic.net,PROXY
 HOST-SUFFIX,st.luluku.pw,PROXY
