@@ -38,6 +38,7 @@ HOST-SUFFIX,app-measurement.com,REJECT
 HOST-SUFFIX,appsflyer.com,REJECT
 HOST-SUFFIX,branch.io,REJECT
 HOST-SUFFIX,ctobsnssdk.com,REJECT
+HOST-SUFFIX,miaozhen.com,REJECT
 HOST-SUFFIX,dm.toutiao.com,REJECT
 HOST-SUFFIX,doubleclick.net,REJECT
 HOST-SUFFIX,e.qq.com,REJECT
