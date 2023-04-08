@@ -42,6 +42,7 @@ HOST-SUFFIX,dm.toutiao.com,REJECT
 HOST-SUFFIX,doubleclick.net,REJECT
 HOST-SUFFIX,e.qq.com,REJECT
 HOST-SUFFIX,hectorstatic.baidu.com,REJECT
+HOST-SUFFIX,kuiniuca.com,REJECT
 HOST-SUFFIX,log.umsns.com,REJECT
 HOST-SUFFIX,mmstat.com,REJECT
 HOST-SUFFIX,mpush-api.aliyun.com,REJECT
@@ -50,6 +51,7 @@ HOST-SUFFIX,qlogo.cn,REJECT
 HOST-SUFFIX,scorecardresearch.com,REJECT
 HOST-SUFFIX,sdk.e.qq.com,REJECT
 HOST-SUFFIX,snssdk.com,REJECT
+HOST-SUFFIX,sp1.baidu.com,REJECT
 HOST-SUFFIX,ut.taobao.com,REJECT
 HOST-SUFFIX,v.gdt.qq.com,REJECT
 HOST-SUFFIX,vungle.com,REJECT
