@@ -41,6 +41,7 @@ HOST-SUFFIX,95516.com,DIRECT
 HOST-SUFFIX,acfun.tv,DIRECT
 HOST-SUFFIX,air-matters.com,DIRECT
 HOST-SUFFIX,aixifan.com,direct
+HOST-SUFFIX,alicdn.com,DIRECT
 HOST-SUFFIX,amap.com,DIRECT
 HOST-SUFFIX,amemv.com,DIRECT
 HOST-SUFFIX,appcenter.ms,DIRECT
@@ -57,7 +58,6 @@ HOST-SUFFIX,cmbimg.com,DIRECT
 HOST-SUFFIX,cn,DIRECT
 HOST-SUFFIX,cnbeta.com,DIRECT
 HOST-SUFFIX,cnzz.com,DIRECT
-HOST-SUFFIX,shujupie.com,DIRECT
 HOST-SUFFIX,colorfulclouds.net,DIRECT
 HOST-SUFFIX,coolapk.com,DIRECT
 HOST-SUFFIX,cootekservice.com,DIRECT
@@ -152,6 +152,7 @@ HOST-SUFFIX,revenuecat.com,DIRECT
 HOST-SUFFIX,ruanmei.com,DIRECT
 HOST-SUFFIX,ruguoapp.com,DIRECT
 HOST-SUFFIX,segmentfault.com,DIRECT
+HOST-SUFFIX,shujupie.com,DIRECT
 HOST-SUFFIX,singular.net,DIRECT
 HOST-SUFFIX,smzdm.com,DIRECT
 HOST-SUFFIX,snapdrop.net,DIRECT
