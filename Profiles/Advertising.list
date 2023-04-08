@@ -50,7 +50,6 @@ HOST-SUFFIX,miaozhen.com,REJECT
 HOST-SUFFIX,mmstat.com,REJECT
 HOST-SUFFIX,mpush-api.aliyun.com,REJECT
 HOST-SUFFIX,pglstatp-toutiao.com,REJECT
-HOST-SUFFIX,qlogo.cn,REJECT
 HOST-SUFFIX,scorecardresearch.com,REJECT
 HOST-SUFFIX,sdk.e.qq.com,REJECT
 HOST-SUFFIX,snssdk.com,REJECT
