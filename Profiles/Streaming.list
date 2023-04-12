@@ -1,6 +1,6 @@
 ## 常见国际媒体域名列表
 # > 博客
-DOMAIN-SUFFIX,podcasts.apple.com,PROXY
+DOMAIN-SUFFIX,podcasts.apple.com
 
 # > Netflix
 DOMAIN-KEYWORD,dualstack
