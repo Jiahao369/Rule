@@ -1,3 +1,6 @@
+# > Apple播客
+DOMAIN-SUFFIX,podcasts.apple.com
+
 # > Netflix
 DOMAIN-KEYWORD,dualstack
 DOMAIN-KEYWORD,netflix
