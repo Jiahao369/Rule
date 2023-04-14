@@ -1,4 +1,4 @@
-Spotify规则
+## Spotify规则
 DOMAIN-KEYWORD,spotify
 DOMAIN-SUFFIX,audio-ak-spotify-com.akamaized.net
 DOMAIN-SUFFIX,pscdn.co
