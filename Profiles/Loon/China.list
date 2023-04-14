@@ -40,7 +40,8 @@ DOMAIN-SUFFIX,36kr.com
 DOMAIN-SUFFIX,95516.com
 DOMAIN-SUFFIX,acfun.tv
 DOMAIN-SUFFIX,air-matters.com
-DOMAIN-SUFFIX,aixifan.com,direct
+DOMAIN-SUFFIX,aixifan.com
+DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,amap.com
 DOMAIN-SUFFIX,amemv.com
@@ -55,7 +56,7 @@ DOMAIN-SUFFIX,caiyunapp.com
 DOMAIN-SUFFIX,clouddn.com
 DOMAIN-SUFFIX,cmbchina.com
 DOMAIN-SUFFIX,cmbimg.com
-DOMAIN-SUFFIX,cn
+DOMAIN-SUFFIX,.cn
 DOMAIN-SUFFIX,cnbeta.com
 DOMAIN-SUFFIX,cnzz.com
 DOMAIN-SUFFIX,colorfulclouds.net
@@ -79,8 +80,8 @@ DOMAIN-SUFFIX,fcbox.com
 DOMAIN-SUFFIX,feishu.cn
 DOMAIN-SUFFIX,feng.com
 DOMAIN-SUFFIX,fir.im
-DOMAIN-SUFFIX,floatingislandapps.com
 DOMAIN-SUFFIX,fliggy.com
+DOMAIN-SUFFIX,floatingislandapps.com
 DOMAIN-SUFFIX,flurry.com
 DOMAIN-SUFFIX,frdic.com
 DOMAIN-SUFFIX,g-cores.com
