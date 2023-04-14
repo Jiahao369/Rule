@@ -29,6 +29,7 @@ DOMAIN-KEYWORD,xiaohongshu
 DOMAIN-KEYWORD,xiaojukeji
 DOMAIN-KEYWORD,xiaomi
 DOMAIN-KEYWORD,youpin
+DOMAIN-KEYWORD,pinduoduo
 DOMAIN-KEYWORD,zenithspace
 DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,126.com
@@ -41,8 +42,8 @@ DOMAIN-SUFFIX,95516.com
 DOMAIN-SUFFIX,acfun.tv
 DOMAIN-SUFFIX,air-matters.com
 DOMAIN-SUFFIX,aixifan.com
+DOMAIN-SUFFIX,akamaihd.net
 DOMAIN-SUFFIX,akamaized.net
-DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,amap.com
 DOMAIN-SUFFIX,amemv.com
 DOMAIN-SUFFIX,appcenter.ms
@@ -135,7 +136,6 @@ DOMAIN-SUFFIX,oschina.net
 DOMAIN-SUFFIX,ourdvsss.com
 DOMAIN-SUFFIX,pddpic.com
 DOMAIN-SUFFIX,pianyuan.org
-DOMAIN-SUFFIX,pinduoduo.com
 DOMAIN-SUFFIX,ppsimg.com
 DOMAIN-SUFFIX,pstatp.com
 DOMAIN-SUFFIX,qcloud.com
