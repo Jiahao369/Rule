@@ -15,6 +15,8 @@ DOMAIN-KEYWORD,javbus
 DOMAIN-KEYWORD,mega
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,playstation
+DOMAIN-KEYWORD,torrentgalaxy
+DOMAIN-KEYWORD,thepiratebay
 DOMAIN-KEYWORD,telegram
 DOMAIN-KEYWORD,tiktok
 DOMAIN-KEYWORD,timetreeapp
@@ -56,7 +58,6 @@ DOMAIN-SUFFIX,bintray.com
 DOMAIN-SUFFIX,bit.com
 DOMAIN-SUFFIX,bit.ly
 DOMAIN-SUFFIX,bitbucket.org
-DOMAIN-SUFFIX,torrentgalaxy.to
 DOMAIN-SUFFIX,bjango.com
 DOMAIN-SUFFIX,bkrtx.com
 DOMAIN-SUFFIX,blog.com
@@ -223,7 +224,7 @@ DOMAIN-SUFFIX,pdfexpert.com
 DOMAIN-SUFFIX,periscope.tv
 DOMAIN-SUFFIX,periscope.tv
 DOMAIN-SUFFIX,pinboard.in
-DOMAIN-SUFFIX,pincong.rocks, PROXY
+DOMAIN-SUFFIX,pincong.rocks
 DOMAIN-SUFFIX,pinterest.com
 DOMAIN-SUFFIX,pixelmator.com
 DOMAIN-SUFFIX,pixiv.net
