@@ -1,6 +1,4 @@
 ## 常见国外域名列表
-DOMAIN-KEYWORD,Microsoft
-DOMAIN-KEYWORD,YouTube
 DOMAIN-KEYWORD,adobe
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,bing
@@ -13,6 +11,7 @@ DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,javbus
 DOMAIN-KEYWORD,mega
+DOMAIN-KEYWORD,microsoft
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,playstation
 DOMAIN-KEYWORD,telegram
@@ -25,8 +24,8 @@ DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,wikimedia
 DOMAIN-KEYWORD,windows
 DOMAIN-KEYWORD,wsj
+DOMAIN-KEYWORD,youtube
 
-DOMAIN-SUFFIX,istatmenus.app
 DOMAIN-SUFFIX,404museum.com
 DOMAIN-SUFFIX,9to5mac.com
 DOMAIN-SUFFIX,adblockplus.org
@@ -126,6 +125,7 @@ DOMAIN-SUFFIX,gfx.ms
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,ghostnoteapp.com
 DOMAIN-SUFFIX,git.io
+DOMAIN-SUFFIX,gitlab.com
 DOMAIN-SUFFIX,globalsign.com
 DOMAIN-SUFFIX,gmail.com
 DOMAIN-SUFFIX,gmodules.com
@@ -155,10 +155,13 @@ DOMAIN-SUFFIX,ipn.li
 DOMAIN-SUFFIX,ipstatp.com
 DOMAIN-SUFFIX,is.gd
 DOMAIN-SUFFIX,issuu.com
+DOMAIN-SUFFIX,istatmenus.app
 DOMAIN-SUFFIX,itgonglun.com
 DOMAIN-SUFFIX,itun.es
 DOMAIN-SUFFIX,ixquick.com
 DOMAIN-SUFFIX,j.mp
+DOMAIN-SUFFIX,javbus.com
+DOMAIN-SUFFIX,javlibrary.com
 DOMAIN-SUFFIX,js.revsci.net
 DOMAIN-SUFFIX,jshint.com
 DOMAIN-SUFFIX,jtvnw.net
@@ -307,8 +310,6 @@ DOMAIN-SUFFIX,yahoo.com
 DOMAIN-SUFFIX,yimg.com
 DOMAIN-SUFFIX,yoyo.org
 DOMAIN-SUFFIX,ytimg.com
-DOMAIN-SUFFIX,javbus.com
-DOMAIN-SUFFIX,javlibrary.com
 
 IP-CIDR,104.244.42.0/21
 IP-CIDR,108.177.8.0/21
