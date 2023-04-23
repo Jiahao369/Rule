@@ -16,11 +16,14 @@ DOMAIN-KEYWORD,hdslb
 DOMAIN-KEYWORD,meituan
 DOMAIN-KEYWORD,netease
 DOMAIN-KEYWORD,ninebot
+DOMAIN-KEYWORD,pinduoduo
 DOMAIN-KEYWORD,quantumult
 DOMAIN-KEYWORD,showstart
 DOMAIN-KEYWORD,sina
 DOMAIN-KEYWORD,taobao
 DOMAIN-KEYWORD,tencent
+DOMAIN-KEYWORD,thepiratebay
+DOMAIN-KEYWORD,torrentgalaxy
 DOMAIN-KEYWORD,volcsiriusbd
 DOMAIN-KEYWORD,wechat
 DOMAIN-KEYWORD,weibo
@@ -29,10 +32,7 @@ DOMAIN-KEYWORD,xiaohongshu
 DOMAIN-KEYWORD,xiaojukeji
 DOMAIN-KEYWORD,xiaomi
 DOMAIN-KEYWORD,youpin
-DOMAIN-KEYWORD,pinduoduo
 DOMAIN-KEYWORD,zenithspace
-DOMAIN-KEYWORD,torrentgalaxy
-DOMAIN-KEYWORD,thepiratebay
 DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,126.com
 DOMAIN-SUFFIX,126.net
@@ -80,7 +80,6 @@ DOMAIN-SUFFIX,easou.com
 DOMAIN-SUFFIX,ele.me
 DOMAIN-SUFFIX,faceucam.com
 DOMAIN-SUFFIX,fcbox.com
-DOMAIN-SUFFIX,typekit.com
 DOMAIN-SUFFIX,feishu.cn
 DOMAIN-SUFFIX,feng.com
 DOMAIN-SUFFIX,fir.im
@@ -174,6 +173,7 @@ DOMAIN-SUFFIX,tanx.com
 DOMAIN-SUFFIX,tenpay.com
 DOMAIN-SUFFIX,tianyancha.com
 DOMAIN-SUFFIX,tmall.com
+DOMAIN-SUFFIX,typekit.com
 DOMAIN-SUFFIX,udache.com
 DOMAIN-SUFFIX,umetrip.com
 DOMAIN-SUFFIX,upaiyun.com
