@@ -1,11 +1,10 @@
 ## 常见APPLE域名列表
-HOST-KEYWORD,apple,DIRECT
-HOST-KEYWORD,icloud,DIRECT
-HOST-SUFFIX,aaplimg.com,DIRECT
-HOST-SUFFIX,akadns.net,DIRECT
-HOST-SUFFIX,akamaiedge.net,DIRECT
-HOST-SUFFIX,appstore.com,DIRECT
-HOST-SUFFIX,apzones.com,DIRECT
-HOST-SUFFIX,me.com,DIRECT
-HOST-SUFFIX,mzstatic.com,DIRECT
-HOST-SUFFIX,podcasts.apple.com,PROXY
+HOST-KEYWORD,apple
+HOST-KEYWORD,icloud
+HOST-SUFFIX,aaplimg.com
+HOST-SUFFIX,akadns.net
+HOST-SUFFIX,akamaiedge.net
+HOST-SUFFIX,appstore.com
+HOST-SUFFIX,apzones.com
+HOST-SUFFIX,me.com
+HOST-SUFFIX,mzstatic.com
