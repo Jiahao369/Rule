@@ -237,7 +237,7 @@ HOST-SUFFIX,smartdnsProxy.com,PROXY
 HOST-SUFFIX,smartmailcloud.com,PROXY
 HOST-SUFFIX,soundcloud.com,PROXY
 HOST-SUFFIX,soundon.fm,PROXY
-HOST-SUFFIX,sourceforge.net
+HOST-SUFFIX,sourceforge.net,PROXY
 HOST-SUFFIX,sprig.com,PROXY
 HOST-SUFFIX,squarespace.com,PROXY
 HOST-SUFFIX,sstatic.net,PROXY
