@@ -1,6 +1,4 @@
 ## 常见国际媒体域名列表
-# > Apple播客
-DOMAIN-SUFFIX,podcasts.apple.com,PROXY
 
 # > Netflix
 DOMAIN-KEYWORD,dualstack,PROXY
