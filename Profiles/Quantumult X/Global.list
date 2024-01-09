@@ -200,6 +200,7 @@ HOST-SUFFIX,nyt.com,PROXY
 HOST-SUFFIX,nytimes.com,PROXY
 HOST-SUFFIX,omnigroup.com,PROXY
 HOST-SUFFIX,onedrive.com,PROXY
+HOST-SUFFIX,okx.com,PROXY
 HOST-SUFFIX,onenote.com,PROXY
 HOST-SUFFIX,openwrt.org,PROXY
 HOST-SUFFIX,outlook.com,PROXY
