@@ -202,6 +202,7 @@ HOST-SUFFIX,omnigroup.com,PROXY
 HOST-SUFFIX,onedrive.com,PROXY
 HOST-SUFFIX,okx.com,PROXY
 HOST-SUFFIX,onenote.com,PROXY
+HOST-SUFFIX,openai-sb.com,PROXY
 HOST-SUFFIX,openwrt.org,PROXY
 HOST-SUFFIX,outlook.com,PROXY
 HOST-SUFFIX,ow.ly,PROXY
