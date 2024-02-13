@@ -1,2 +1,3 @@
 # > PikPak
-DOMAIN-KEYWORD,pikpak
+domain_keyword_set:
+- pikpak
