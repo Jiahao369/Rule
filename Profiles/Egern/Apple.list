@@ -1,12 +1,14 @@
 ## 常见APPLE域名列表
 
-DOMAIN-KEYWORD,apple
-DOMAIN-KEYWORD,icloud
+domain_keyword_set:
+- apple
+- icloud
 
-DOMAIN-SUFFIX,aaplimg.com
-DOMAIN-SUFFIX,akadns.net
-DOMAIN-SUFFIX,akamaiedge.net
-DOMAIN-SUFFIX,appstore.com
-DOMAIN-SUFFIX,apzones.com
-DOMAIN-SUFFIX,me.com
-DOMAIN-SUFFIX,mzstatic.com
+domain_suffix_set:
+- aaplimg.com
+- akadns.net
+- akamaiedge.net
+- appstore.com
+- apzones.com
+- me.com
+- mzstatic.com
