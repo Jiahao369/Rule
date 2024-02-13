@@ -1,0 +1,17 @@
+## 常见APPLE域名列表
+
+# > Apple播客
+HOST-SUFFIX,podcasts.apple.com,PROXY
+HOST-SUFFIX,bag.itunes.apple.com,PROXY
+HOST-SUFFIX,bookkeeper.itunes.apple.com,PROXY
+
+
+HOST-KEYWORD,apple,DIRECT
+HOST-KEYWORD,icloud,DIRECT
+HOST-SUFFIX,aaplimg.com,DIRECT
+HOST-SUFFIX,akadns.net,DIRECT
+HOST-SUFFIX,akamaiedge.net,DIRECT
+HOST-SUFFIX,appstore.com,DIRECT
+HOST-SUFFIX,apzones.com,DIRECT
+HOST-SUFFIX,me.com,DIRECT
+HOST-SUFFIX,mzstatic.com,DIRECT

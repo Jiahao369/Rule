@@ -1,0 +1,7 @@
+# > OpenAI
+DOMAIN,cdn.auth0.com,PROXY
+DOMAIN,challenges.cloudflare.com,PROXY
+DOMAIN,openaiapi-site.azureedge.net,PROXY
+DOMAIN-SUFFIX,ai.com,PROXY
+DOMAIN-SUFFIX,identrust.com,PROXY
+DOMAIN-SUFFIX,openai.com,PROXY
