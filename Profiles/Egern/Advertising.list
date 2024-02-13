@@ -1,38 +1,40 @@
 ## 常见广告域名列表
-DOMAIN-REGEX,^ad\..*|^ads\..*
-DOMAIN-KEYWORD,admarvel
-DOMAIN-KEYWORD,admaster
-DOMAIN-KEYWORD,adsage
-DOMAIN-KEYWORD,adsensor
-DOMAIN-KEYWORD,adsmogo
-DOMAIN-KEYWORD,adsrvmedia
-DOMAIN-KEYWORD,adsserving
-DOMAIN-KEYWORD,adsystem
-DOMAIN-KEYWORD,adwords
-DOMAIN-KEYWORD,applovin
-DOMAIN-KEYWORD,appsflyer
-DOMAIN-KEYWORD,bayescom
-DOMAIN-KEYWORD,domob
-DOMAIN-KEYWORD,duomeng
-DOMAIN-KEYWORD,dwtrack
-DOMAIN-KEYWORD,guanggao
-DOMAIN-KEYWORD,mopub
-DOMAIN-KEYWORD,omgmta
-DOMAIN-KEYWORD,omniture
-DOMAIN-KEYWORD,openx
-DOMAIN-KEYWORD,pangolin-sdk
-DOMAIN-KEYWORD,partnerad
-DOMAIN-KEYWORD,pingfore
-DOMAIN-KEYWORD,socdm
-DOMAIN-KEYWORD,supersonicads
-DOMAIN-KEYWORD,uedas
-DOMAIN-KEYWORD,umeng
-DOMAIN-KEYWORD,usage
-DOMAIN-KEYWORD,wlmonitor
-DOMAIN-KEYWORD,zjtoolbar
 
-DOMAIN-SUFFIX,adsmind.ugdtimg.com
-DOMAIN-SUFFIX,app-measurement.com
-DOMAIN-SUFFIX,appsflyer.com
-DOMAIN-SUFFIX,bdurl.net
-DOMAIN-SUFFIX,branch.io
+domain_keyword_set:
+- admarvel
+- admaster
+- adsage
+- adsensor
+- adsmogo
+- adsrvmedia
+- adsserving
+- adsystem
+- adwords
+- applovin
+- appsflyer
+- bayescom
+- domob
+- duomeng
+- dwtrack
+- guanggao
+- mopub
+- omgmta
+- omniture
+- openx
+- pangolin-sdk
+- partnerad
+- pingfore
+- socdm
+- supersonicads
+- uedas
+- umeng
+- usage
+- wlmonitor
+- zjtoolbar
+
+domain_suffix_set:
+- adsmind.ugdtimg.com
+- app-measurement.com
+- appsflyer.com
+- bdurl.net
+- branch.io
