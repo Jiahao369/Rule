@@ -1,11 +1,5 @@
 ## 常见APPLE域名列表
 
-# > Apple播客
-DOMAIN-SUFFIX,podcasts.apple.com,PROXY
-DOMAIN-SUFFIX,bag.itunes.apple.com,PROXY
-DOMAIN-SUFFIX,bookkeeper.itunes.apple.com,PROXY
-
-
 DOMAIN-KEYWORD,apple,DIRECT
 DOMAIN-KEYWORD,icloud,DIRECT
 DOMAIN-SUFFIX,aaplimg.com,DIRECT
