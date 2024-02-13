@@ -1,7 +1,9 @@
 # > OpenAI
-DOMAIN,cdn.auth0.com
-DOMAIN,challenges.cloudflare.com
-DOMAIN,openaiapi-site.azureedge.net
-DOMAIN-SUFFIX,ai.com
-DOMAIN-SUFFIX,identrust.com
-DOMAIN-SUFFIX,openai.com
+domain_set:
+- cdn.auth0.com
+- challenges.cloudflare.com
+- openaiapi-site.azureedge.net
+domain_suffix_set:
+- ai.com
+- identrust.com
+- openai.com
