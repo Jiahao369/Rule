@@ -1,5 +1,7 @@
 # > Spotify
-DOMAIN-KEYWORD,spotify
-DOMAIN-SUFFIX,pscdn.co
-DOMAIN-SUFFIX,scdn.co
-DOMAIN-SUFFIX,spoti.fi
+domain_keyword_set:
+- spotify
+domain_suffix_set:
+- pscdn.co
+- scdn.co
+- spoti.fi
