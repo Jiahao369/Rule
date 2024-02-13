@@ -1,53 +1,62 @@
 ## 常见国际媒体域名列表
 # > Apple播客
-DOMAIN-SUFFIX,podcasts.apple.com
-DOMAIN-SUFFIX,bag.itunes.apple.com
-DOMAIN-SUFFIX,bookkeeper.itunes.apple.com
+domain_suffix_set:
+- podcasts.apple.com
+- bag.itunes.apple.com
+- bookkeeper.itunes.apple.com
 
 # > Netflix
-DOMAIN-KEYWORD,dualstack
-DOMAIN-KEYWORD,netflix
-DOMAIN-KEYWORD,nflx
-IP-CIDR,108.175.32.0/20
-IP-CIDR,192.173.64.0/18
-IP-CIDR,198.38.96.0/19
-IP-CIDR,198.45.48.0/20
-IP-CIDR,23.246.0.0/18
-IP-CIDR,34.210.42.111/32
-IP-CIDR,37.77.184.0/21
-IP-CIDR,45.57.0.0/17
-IP-CIDR,52.89.124.203/32
-IP-CIDR,54.148.37.5/32
-IP-CIDR,64.120.128.0/17
-IP-CIDR,66.197.128.0/17
+domain_keyword_set:
+- dualstack
+- netflix
+- nflx
+ip_cidr_set:
+- 108.175.32.0/20
+- 192.173.64.0/18
+- 198.38.96.0/19
+- 198.45.48.0/20
+- 23.246.0.0/18
+- 34.210.42.111/32
+- 37.77.184.0/21
+- 45.57.0.0/17
+- 52.89.124.203/32
+- 54.148.37.5/32
+- 64.120.128.0/17
+- 66.197.128.0/17
+
 
 # > DisneyPlus
-DOMAIN,dplus-northamerica.media-edge.prod-vod.h264.io
-DOMAIN-KEYWORD,20thcenturystudios
-DOMAIN-KEYWORD,discovery
-DOMAIN-KEYWORD,disney
-DOMAIN-KEYWORD,espn
-DOMAIN-KEYWORD,hotstar
-DOMAIN-KEYWORD,marvel
-DOMAIN-SUFFIX,adobedtm.com
-DOMAIN-SUFFIX,bam.nr-date.net
-DOMAIN-SUFFIX,go.com
-DOMAIN-SUFFIX,bamgrid.com
-DOMAIN-SUFFIX,braze.com
-DOMAIN-SUFFIX,cdn.optimizely.com
-DOMAIN-SUFFIX,conviva.com
-DOMAIN-SUFFIX,disco-api.com
-DOMAIN-SUFFIX,dnitv.com
-DOMAIN-SUFFIX,dssott.com
-DOMAIN-SUFFIX,fwmrm.net
-DOMAIN-SUFFIX,getblueshift.com
-DOMAIN-SUFFIX,go.com
-DOMAIN-SUFFIX,litix.io
-DOMAIN-SUFFIX,mobile-collector.newrelic.com
-DOMAIN-SUFFIX,uplynk.com
+domain_set:
+- dplus-northamerica.media-edge.prod-vod.h264.io
+domain_keyword_set:
+- 20thcenturystudios
+- discovery
+- disney
+- espn
+- hotstar
+- marvel
+domain_suffix_set:
+- adobedtm.com
+- bam.nr-date.net
+- go.com
+- bamgrid.com
+- braze.com
+- cdn.optimizely.com
+- conviva.com
+- disco-api.com
+- dnitv.com
+- dssott.com
+- fwmrm.net
+- getblueshift.com
+- go.com
+- litix.io
+- mobile-collector.newrelic.com
+- uplynk.com
+
 
 # > Pornhub
-DOMAIN-KEYWORD,pornhub
-DOMAIN-SUFFIX,phncdn.com
-DOMAIN-SUFFIX,phprcdn.com
-
+domain_keyword_set:
+- pornhub
+domain_suffix_set:
+- phncdn.com
+- phprcdn.com
