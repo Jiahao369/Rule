@@ -1,8 +1,5 @@
 ## 常见国际媒体域名列表
 
-domain_set:
-- dplus-northamerica.media-edge.prod-vod.h264.io
-
 domain_keyword_set:
 - dualstack
 - netflix
@@ -37,6 +34,9 @@ domain_suffix_set:
 - uplynk.com
 - phncdn.com
 - phprcdn.com
+
+domain_set:
+- dplus-northamerica.media-edge.prod-vod.h264.io
 
 ip_cidr_set:
 - 108.175.32.0/20
