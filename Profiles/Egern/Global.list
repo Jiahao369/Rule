@@ -306,6 +306,8 @@ domain_suffix_set:
 - yoyo.org
 - ytimg.com
 - podbean.com
+- telegra.ph
+- telegram.org
 
 ip_cidr_set:
 - 104.244.42.0/21
@@ -327,13 +329,6 @@ ip_cidr_set:
 - 66.249.80.0/20
 - 69.195.160.0/19
 - 72.14.192.0/18
-
-
-# > Telegram
-domain_suffix_set:
-- telegra.ph
-- telegram.org
-ip_cidr_set:
 - 91.108.4.0/22
 - 91.108.8.0/21
 - 91.108.16.0/22
