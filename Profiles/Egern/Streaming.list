@@ -1,41 +1,24 @@
 ## 常见国际媒体域名列表
-# > Apple播客
-domain_suffix_set:
-- podcasts.apple.com
-- bag.itunes.apple.com
-- bookkeeper.itunes.apple.com
 
-# > Netflix
+domain_set:
+- dplus-northamerica.media-edge.prod-vod.h264.io
+
 domain_keyword_set:
 - dualstack
 - netflix
 - nflx
-ip_cidr_set:
-- 108.175.32.0/20
-- 192.173.64.0/18
-- 198.38.96.0/19
-- 198.45.48.0/20
-- 23.246.0.0/18
-- 34.210.42.111/32
-- 37.77.184.0/21
-- 45.57.0.0/17
-- 52.89.124.203/32
-- 54.148.37.5/32
-- 64.120.128.0/17
-- 66.197.128.0/17
-
-
-# > DisneyPlus
-domain_set:
-- dplus-northamerica.media-edge.prod-vod.h264.io
-domain_keyword_set:
 - 20thcenturystudios
 - discovery
 - disney
 - espn
 - hotstar
 - marvel
+- pornhub
+
 domain_suffix_set:
+- podcasts.apple.com
+- bag.itunes.apple.com
+- bookkeeper.itunes.apple.com
 - adobedtm.com
 - bam.nr-date.net
 - go.com
@@ -52,11 +35,23 @@ domain_suffix_set:
 - litix.io
 - mobile-collector.newrelic.com
 - uplynk.com
-
-
-# > Pornhub
-domain_keyword_set:
-- pornhub
-domain_suffix_set:
 - phncdn.com
 - phprcdn.com
+
+ip_cidr_set:
+- 108.175.32.0/20
+- 192.173.64.0/18
+- 198.38.96.0/19
+- 198.45.48.0/20
+- 23.246.0.0/18
+- 34.210.42.111/32
+- 37.77.184.0/21
+- 45.57.0.0/17
+- 52.89.124.203/32
+- 54.148.37.5/32
+- 64.120.128.0/17
+- 66.197.128.0/17
+
+
+
+
