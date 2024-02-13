@@ -1,7 +1,4 @@
 ## 常见广告域名列表
-HOST,ad.toutiao.com,REJECT
-HOST,ads.weilitoutiao.net,REJECT
-HOST,nativeadv.dftoutiao.com,REJECT
 HOST-KEYWORD,admarvel,REJECT
 HOST-KEYWORD,admaster,REJECT
 HOST-KEYWORD,adsage,REJECT
@@ -37,22 +34,3 @@ HOST-SUFFIX,app-measurement.com,REJECT
 HOST-SUFFIX,appsflyer.com,REJECT
 HOST-SUFFIX,bdurl.net,REJECT
 HOST-SUFFIX,branch.io,REJECT
-HOST-SUFFIX,ctobsnssdk.com,REJECT
-HOST-SUFFIX,dm.toutiao.com,REJECT
-HOST-SUFFIX,doubleclick.net,REJECT
-HOST-SUFFIX,e.qq.com,REJECT
-HOST-SUFFIX,gridsumdissector.com,REJECT
-HOST-SUFFIX,hectorstatic.baidu.com,REJECT
-HOST-SUFFIX,kuiniuca.com,REJECT
-HOST-SUFFIX,log.umsns.com,REJECT
-HOST-SUFFIX,miaozhen.com,REJECT
-HOST-SUFFIX,mmstat.com,REJECT
-HOST-SUFFIX,mpush-api.aliyun.com,REJECT
-HOST-SUFFIX,pglstatp-toutiao.com,REJECT
-HOST-SUFFIX,scorecardresearch.com,REJECT
-HOST-SUFFIX,sdk.e.qq.com,REJECT
-HOST-SUFFIX,snssdk.com,REJECT
-HOST-SUFFIX,sp1.baidu.com,REJECT
-HOST-SUFFIX,ut.taobao.com,REJECT
-HOST-SUFFIX,v.gdt.qq.com,REJECT
-HOST-SUFFIX,vungle.com,REJECT
