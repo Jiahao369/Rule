@@ -1,5 +1,4 @@
 ## 常见国际媒体域名列表
-
 domain_keyword_set:
 - dualstack
 - netflix
@@ -7,15 +6,13 @@ domain_keyword_set:
 - 20thcenturystudios
 - discovery
 - disney
+- dplus
 - espn
 - hotstar
 - marvel
 - pornhub
 
 domain_suffix_set:
-- podcasts.apple.com
-- bag.itunes.apple.com
-- bookkeeper.itunes.apple.com
 - adobedtm.com
 - bam.nr-date.net
 - go.com
@@ -30,13 +27,10 @@ domain_suffix_set:
 - getblueshift.com
 - go.com
 - litix.io
-- mobile-collector.newrelic.com
+- newrelic.com
 - uplynk.com
 - phncdn.com
 - phprcdn.com
-
-domain_set:
-- dplus-northamerica.media-edge.prod-vod.h264.io
 
 ip_cidr_set:
 - 108.175.32.0/20
