@@ -1,5 +1,8 @@
 ## 常见广告域名列表
 
+domain_regex_set:
+- ^ad\..*|^ads\..*
+
 domain_keyword_set:
 - admarvel
 - admaster
@@ -39,6 +42,5 @@ domain_suffix_set:
 - bdurl.net
 - branch.io
 
-domain_regex_set:
-- ^ad\..*|^ads\..*
+
 
