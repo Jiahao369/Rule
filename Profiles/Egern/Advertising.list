@@ -38,3 +38,7 @@ domain_suffix_set:
 - appsflyer.com
 - bdurl.net
 - branch.io
+
+domain_regex_set:
+- ^ad\..*|^ads\..*
+
