@@ -1,8 +1,5 @@
 ## 常见广告域名列表
 
-domain_regex_set:
-- ^ad\..*|^ads\..*
-
 domain_keyword_set:
 - admarvel
 - admaster
