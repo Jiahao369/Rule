@@ -12,6 +12,7 @@ domain_keyword_set:
 - mega
 - microsoft
 - playstation
+- telegram
 - tiktok
 - timetreeapp
 - tumblr
@@ -307,7 +308,6 @@ domain_suffix_set:
 - ytimg.com
 - podbean.com
 - telegra.ph
-- telegram.org
 - mapbox.com
 
 ip_cidr_set:
