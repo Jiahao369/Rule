@@ -1,12 +1,11 @@
 ## 常见国内域名列表
 domain_keyword_set:
-- xhscdn
-- amap
-- alicdn
 - aliapp
 - alibaba
+- alicdn
 - alipay
 - aliyun
+- amap
 - baidu
 - baike
 - bili
@@ -19,8 +18,8 @@ domain_keyword_set:
 - netease
 - ninebot
 - pinduoduo
-- quantumult
 - qianji
+- quantumult
 - showstart
 - sina
 - taobao
@@ -31,6 +30,7 @@ domain_keyword_set:
 - wechat
 - weibo
 - weixin
+- xhscdn
 - xiaohongshu
 - xiaojukeji
 - xiaomi
@@ -54,6 +54,7 @@ domain_suffix_set:
 - akamaized.net
 - amemv.com
 - appcenter.ms
+- appstorrent.ru
 - autonavi.com
 - azure.com
 - bdimg.com
@@ -64,7 +65,6 @@ domain_suffix_set:
 - caiyunapp.com
 - clouddn.com
 - cmbchina.com
-- ntp.org
 - cmbimg.com
 - cnbeta.com
 - cnzz.com
@@ -73,6 +73,7 @@ domain_suffix_set:
 - cootekservice.com
 - csdn.net
 - ctobsnssdk.com
+- ctrip.com
 - ctrip.com
 - dgtle.com
 - dianping.com
@@ -121,8 +122,8 @@ domain_suffix_set:
 - lemicp.com
 - licdn.com
 - linkedin.com
-- luoo.net
 - lizhi.fm
+- luoo.net
 - mbcloud.com
 - mi.com
 - miaopai.com
@@ -139,6 +140,7 @@ domain_suffix_set:
 - neixin.cn
 - netease.com
 - newrelic.com
+- ntp.org
 - office.com
 - office.net
 - office365.com
@@ -157,10 +159,10 @@ domain_suffix_set:
 - qihucdn.com
 - qiniu.com
 - qiyipic.com
-- qq.com
-- qqurl.com
 - qlogo.cn
 - qpic.cn
+- qq.com
+- qqurl.com
 - rarbg.to
 - revenuecat.com
 - ruanmei.com
@@ -209,8 +211,6 @@ domain_suffix_set:
 - zijieapi.com
 - zimuzu.tv
 - zoho.com
-- appstorrent.ru
-- ctrip.com
 ip_cidr_set:
 - 192.168.0.0/16
 - 10.0.0.0/8
