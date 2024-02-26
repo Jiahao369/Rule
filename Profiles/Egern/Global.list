@@ -144,7 +144,6 @@ domain_suffix_set:
 - ifttt.com
 - iherb.com
 - imageshack.us
-- pinimg.com
 - img.ly
 - imgur.com
 - imore.com
@@ -179,6 +178,7 @@ domain_suffix_set:
 - macid.co
 - macromedia.com
 - macrumors.com
+- mapbox.com
 - mashable.com
 - mathjax.org
 - medium.com
@@ -200,9 +200,9 @@ domain_suffix_set:
 - nxtlnodes.com
 - nyt.com
 - nytimes.com
+- okx.com
 - omnigroup.com
 - onedrive.com
-- okx.com
 - onenote.com
 - openai-sb.com
 - openwrt.org
@@ -215,12 +215,14 @@ domain_suffix_set:
 - periscope.tv
 - pinboard.in
 - pincong.rocks
+- pinimg.com
 - pinterest.com
 - pixelmator.com
 - pixiv.net
 - pki.goog
 - playpcesor.com
 - playstationnetwork.com
+- podbean.com
 - pscp.tv
 - pushwoosh.com
 - rateyourmusic.com
@@ -258,6 +260,7 @@ domain_suffix_set:
 - techcrunch.com
 - technews.tw
 - techsmith.com
+- telegra.ph
 - telesco.pe
 - theinitium.com
 - thepiratebay.org
@@ -306,17 +309,8 @@ domain_suffix_set:
 - yimg.com
 - yoyo.org
 - ytimg.com
-- podbean.com
-- telegra.ph
-- mapbox.com
 
 ip_cidr_set:
-- 104.244.42.0/21
-- 108.177.8.0/21
-- 172.217.0.0/16
-- 173.194.0.0/16
-- 192.133.76.0/22
-- 199.16.156.0/22
 - 199.59.148.0/22
 - 199.96.56.0/21
 - 202.160.128.0/22
@@ -330,8 +324,7 @@ ip_cidr_set:
 - 66.249.80.0/20
 - 69.195.160.0/19
 - 72.14.192.0/18
-- 91.108.4.0/22
-- 91.108.8.0/21
 - 91.108.16.0/22
+- 91.108.4.0/22
 - 91.108.56.0/22
-- 149.154.160.0/20
+- 91.108.8.0/21
