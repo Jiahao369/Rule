@@ -1,22 +1,20 @@
 ## 常见国际媒体域名列表
 domain_keyword_set:
-- dualstack
-- netflix
-- nflx
 - 20thcenturystudios
 - discovery
 - disney
 - dplus
+- dualstack
 - espn
 - hotstar
 - marvel
-- pornhub
+- netflix
+- nflx
 - pikpak
-
+- pornhub
 domain_suffix_set:
 - adobedtm.com
 - bam.nr-date.net
-- go.com
 - bamgrid.com
 - braze.com
 - cdn.optimizely.com
@@ -27,12 +25,12 @@ domain_suffix_set:
 - fwmrm.net
 - getblueshift.com
 - go.com
+- go.com
 - litix.io
 - newrelic.com
-- uplynk.com
 - phncdn.com
 - phprcdn.com
-
+- uplynk.com
 ip_cidr_set:
 - 108.175.32.0/20
 - 192.173.64.0/18
@@ -46,7 +44,3 @@ ip_cidr_set:
 - 54.148.37.5/32
 - 64.120.128.0/17
 - 66.197.128.0/17
-
-
-
-
