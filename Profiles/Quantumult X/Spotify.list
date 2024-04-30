@@ -1,5 +1,5 @@
 # > Spotify
-HOST-KEYWORD,spotify
-HOST-SUFFIX,pscdn.co
-HOST-SUFFIX,scdn.co
-HOST-SUFFIX,spoti.fi
+HOST-KEYWORD,spotify,Spotify
+HOST-SUFFIX,pscdn.co,Spotify
+HOST-SUFFIX,scdn.co,Spotify
+HOST-SUFFIX,spoti.fi,Spotify
