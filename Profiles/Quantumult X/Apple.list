@@ -6,7 +6,7 @@ HOST-SUFFIX,bag.itunes.apple.com,PROXY
 HOST-SUFFIX,bookkeeper.itunes.apple.com,PROXY
 
 HOST-KEYWORD,apple,DIRECT
-HOST-KEYWORD,icloud,DIREC
+HOST-KEYWORD,icloud,DIRECT
 HOST-KEYWORD,appstore,DIRECT
 
 HOST-SUFFIX,aaplimg.com,DIRECT
