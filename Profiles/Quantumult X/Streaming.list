@@ -17,31 +17,6 @@ IP-CIDR,54.148.37.5/32,PROXY
 IP-CIDR,64.120.128.0/17,PROXY
 IP-CIDR,66.197.128.0/17,PROXY
 
-# > DisneyPlus
-HOST,dplus-northamerica.media-edge.prod-vod.h264.io,PROXY
-HOST-KEYWORD,20thcenturystudios,PROXY
-HOST-KEYWORD,discovery,PROXY
-HOST-KEYWORD,disney,PROXY
-HOST-KEYWORD,espn,PROXY
-HOST-KEYWORD,hotstar,PROXY
-HOST-KEYWORD,marvel,PROXY
-HOST-SUFFIX,adobedtm.com,PROXY
-HOST-SUFFIX,bam.nr-date.net,PROXY
-HOST-SUFFIX,go.com,PROXY
-HOST-SUFFIX,bamgrid.com,PROXY
-HOST-SUFFIX,braze.com,PROXY
-HOST-SUFFIX,cdn.optimizely.com,PROXY
-HOST-SUFFIX,conviva.com,PROXY
-HOST-SUFFIX,disco-api.com,PROXY
-HOST-SUFFIX,dnitv.com,PROXY
-HOST-SUFFIX,dssott.com,PROXY
-HOST-SUFFIX,fwmrm.net,PROXY
-HOST-SUFFIX,getblueshift.com,PROXY
-HOST-SUFFIX,go.com,PROXY
-HOST-SUFFIX,litix.io,PROXY
-HOST-SUFFIX,mobile-collector.newrelic.com,PROXY
-HOST-SUFFIX,uplynk.com,PROXY
-
 # > Pornhub
 HOST-KEYWORD,pornhub,PROXY
 HOST-SUFFIX,phncdn.com,PROXY
