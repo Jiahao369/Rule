@@ -1,12 +1,12 @@
-# OPENAI 走代理
-HOST-SUFFIX,openai.com,PROXY
-HOST-SUFFIX,chat.openai.com,PROXY
-HOST-SUFFIX,api.openai.com,PROXY
-HOST-SUFFIX,platform.openai.com,PROXY
+# OPENAI
+HOST-SUFFIX,openai.com,AI
+HOST-SUFFIX,chat.openai.com,AI
+HOST-SUFFIX,api.openai.com,AI
+HOST-SUFFIX,platform.openai.com,AI
 
-# CLAUDE (ANTHROPIC AI)
-HOST-SUFFIX,anthropic.com,PROXY
-HOST-SUFFIX,claude.ai,PROXY
-HOST-SUFFIX,api.anthropic.com,PROXY
-HOST-SUFFIX,console.anthropic.com,PROXY
-HOST-SUFFIX,cdn.anthropic.com,PROXY
+# CLAUDE
+HOST-SUFFIX,anthropic.com,AI
+HOST-SUFFIX,claude.ai,AI
+HOST-SUFFIX,api.anthropic.com,AI
+HOST-SUFFIX,console.anthropic.com,AI
+HOST-SUFFIX,cdn.anthropic.com,AI
