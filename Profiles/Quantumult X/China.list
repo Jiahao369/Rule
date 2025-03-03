@@ -47,11 +47,7 @@ HOST-SUFFIX,95516.com,DIRECT
 HOST-SUFFIX,acfun.tv,DIRECT
 HOST-SUFFIX,air-matters.com,DIRECT
 HOST-SUFFIX,aixifan.com,DIRECT
-HOST-SUFFIX,akamaihd.net,DIRECT
-HOST-SUFFIX,akamaized.net,DIRECT
 HOST-SUFFIX,amemv.com,DIRECT
-HOST-SUFFIX,appcenter.ms,DIRECT
-HOST-SUFFIX,appstorrent.ru,DIRECT
 HOST-SUFFIX,autonavi.com,DIRECT
 HOST-SUFFIX,bdimg.com,DIRECT
 HOST-SUFFIX,bdstatic.com,DIRECT
@@ -87,7 +83,6 @@ HOST-SUFFIX,feng.com,DIRECT
 HOST-SUFFIX,fir.im,DIRECT
 HOST-SUFFIX,fliggy.com,DIRECT
 HOST-SUFFIX,floatingislandapps.com,DIRECT
-HOST-SUFFIX,flurry.com,DIRECT
 HOST-SUFFIX,frdic.com,DIRECT
 HOST-SUFFIX,g-cores.com,DIRECT
 HOST-SUFFIX,geetest.com,DIRECT
@@ -107,14 +102,11 @@ HOST-SUFFIX,jddebug.com,DIRECT
 HOST-SUFFIX,jdpay.com,DIRECT
 HOST-SUFFIX,jianshu.com,DIRECT
 HOST-SUFFIX,jiqizhixin.com,DIRECT
-HOST-SUFFIX,jsdelivr.net,DIRECT
 HOST-SUFFIX,knewone.com,DIRECT
 HOST-SUFFIX,ksyungslb.com,DIRECT
 HOST-SUFFIX,le.com,DIRECT
 HOST-SUFFIX,lecloud.com,DIRECT
 HOST-SUFFIX,lemicp.com,DIRECT
-HOST-SUFFIX,licdn.com,DIRECT
-HOST-SUFFIX,linkedin.com,DIRECT
 HOST-SUFFIX,lizhi.fm,DIRECT
 HOST-SUFFIX,luoo.net,DIRECT
 HOST-SUFFIX,mbcloud.com,DIRECT
@@ -129,12 +121,10 @@ HOST-SUFFIX,myapp.com,DIRECT
 HOST-SUFFIX,myqcloud.com,DIRECT
 HOST-SUFFIX,neixin.cn,DIRECT
 HOST-SUFFIX,netease.com,DIRECT
-HOST-SUFFIX,newrelic.com,DIRECT
 HOST-SUFFIX,ntp.org,DIRECT
 HOST-SUFFIX,oschina.net,DIRECT
 HOST-SUFFIX,ourdvsss.com,DIRECT
 HOST-SUFFIX,pddpic.com,DIRECT
-HOST-SUFFIX,pianyuan.org,DIRECT
 HOST-SUFFIX,ppsimg.com,DIRECT
 HOST-SUFFIX,pstatp.com,DIRECT
 HOST-SUFFIX,qcloud.com,DIRECT
@@ -150,13 +140,10 @@ HOST-SUFFIX,qlogo.cn,DIRECT
 HOST-SUFFIX,qpic.cn,DIRECT
 HOST-SUFFIX,qq.com,DIRECT
 HOST-SUFFIX,qqurl.com,DIRECT
-HOST-SUFFIX,rarbg.to,DIRECT
-HOST-SUFFIX,revenuecat.com,DIRECT
 HOST-SUFFIX,ruanmei.com,DIRECT
 HOST-SUFFIX,ruguoapp.com,DIRECT
 HOST-SUFFIX,segmentfault.com,DIRECT
 HOST-SUFFIX,shujupie.com,DIRECT
-HOST-SUFFIX,singular.net,DIRECT
 HOST-SUFFIX,smzdm.com,DIRECT
 HOST-SUFFIX,snapdrop.net,DIRECT
 HOST-SUFFIX,snssdk.com,DIRECT
@@ -173,14 +160,12 @@ HOST-SUFFIX,tenpay.com,DIRECT
 HOST-SUFFIX,tianyancha.com,DIRECT
 HOST-SUFFIX,teambition.com,DIRECT
 HOST-SUFFIX,tmall.com,DIRECT
-HOST-SUFFIX,typekit.com,DIRECT
 HOST-SUFFIX,udache.com,DIRECT
 HOST-SUFFIX,umetrip.com,DIRECT
 HOST-SUFFIX,upaiyun.com,DIRECT
 HOST-SUFFIX,upyun.com,DIRECT
 HOST-SUFFIX,veryzhun.com,DIRECT
 HOST-SUFFIX,volcsirius.com,DIRECT
-HOST-SUFFIX,weather.com,DIRECT
 HOST-SUFFIX,xiaoyuzhoufm.com,DIRECT
 HOST-SUFFIX,ximalaya.com,DIRECT
 HOST-SUFFIX,xinpianchang.com,DIRECT
@@ -197,14 +182,8 @@ HOST-SUFFIX,zdmimg.com,DIRECT
 HOST-SUFFIX,zhihu.com,DIRECT
 HOST-SUFFIX,zhimg.com,DIRECT
 HOST-SUFFIX,zijieapi.com,DIRECT
-HOST-SUFFIX,zimuzu.tv,DIRECT
-HOST-SUFFIX,zoho.com,DIRECT
 HOST-SUFFIX,ugnas.com,DIRECT
-
-
-
-
-
+​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 
 # 其他规则
 HOST-SUFFIX,cn,DIRECT
