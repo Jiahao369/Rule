@@ -1,4 +1,3 @@
-# 国内外常见网站代理规则
 HOST-KEYWORD,adobe
 HOST-KEYWORD,amazon
 HOST-KEYWORD,bing
@@ -21,7 +20,6 @@ HOST-KEYWORD,wikimedia
 HOST-KEYWORD,windows
 HOST-KEYWORD,youtube
 HOST-KEYWORD,quantumult
-
 DOMAIN-SUFFIX,404museum.com
 DOMAIN-SUFFIX,9to5mac.com
 DOMAIN-SUFFIX,adblockplus.org
@@ -307,9 +305,6 @@ DOMAIN-SUFFIX,yahoo.com
 DOMAIN-SUFFIX,yimg.com
 DOMAIN-SUFFIX,yoyo.org
 DOMAIN-SUFFIX,ytimg.com
-
-
-# > Telegram
 DOMAIN-SUFFIX,telegra.ph
 DOMAIN-SUFFIX,telegram.org
 
