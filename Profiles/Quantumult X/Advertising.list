@@ -29,6 +29,7 @@ HOST-KEYWORD,umeng,REJECT
 HOST-KEYWORD,usage,REJECT
 HOST-KEYWORD,wlmonitor,REJECT
 HOST-KEYWORD,zjtoolbar,REJECT
+HOST-KEYWORD,googleadsserving,REJECT
 
 
 HOST-SUFFIX,adsmind.ugdtimg.com,REJECT
