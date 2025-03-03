@@ -1,5 +1,3 @@
-以下是转换为 Surge 规则 格式并去掉 ,PROXY 的版本：
-
 # 国内外常见网站代理规则
 HOST-KEYWORD,adobe
 HOST-KEYWORD,amazon
