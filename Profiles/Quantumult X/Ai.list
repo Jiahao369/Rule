@@ -9,7 +9,7 @@ HOST,chatgpt.livekit.cloud
 HOST,o33249.ingest.sentry.io
 HOST,openaiapi-site.azureedge.net
 HOST,sfo3.turn.livekit.cloud
-DOMAIN-KEYWORD,openaicom
+HOST-KEYWORD,openai
 
 # Copilot
 HOST,api.githubcopilot.com
@@ -25,8 +25,7 @@ HOST,gemini.google.com
 # Claude
 HOST-SUFFIX,anthropic.com
 HOST-SUFFIX,claude.ai
-IP-CIDR,160.79.104.0/23,no-resolve
-IP-CIDR6,2607:6bc0::/48,no-resolve
+IP-CIDR,160.79.104.0/23
 
 # Meta
 HOST,imagine.meta.com
