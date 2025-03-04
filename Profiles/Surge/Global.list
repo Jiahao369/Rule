@@ -1,6 +1,6 @@
-# Surge 规则 - 常见国外域名列表
+# >Surge 规则 - 常见国外域名列表
 
-# 关键词规则
+# >关键词规则
 domain-keyword, adobe, PROXY
 domain-keyword, amazon, PROXY
 domain-keyword, bing, PROXY
@@ -23,7 +23,7 @@ domain-keyword, wikimedia, PROXY
 domain-keyword, windows, PROXY
 domain-keyword, youtube, PROXY
 
-# 具体域名后缀
+# >具体域名后缀
 domain-suffix, 404museum.com, PROXY
 domain-suffix, 9to5mac.com, PROXY
 domain-suffix, adblockplus.org, PROXY
@@ -308,7 +308,7 @@ domain-suffix, yimg.com, PROXY
 domain-suffix, yoyo.org, PROXY
 domain-suffix, ytimg.com, PROXY
 
-# Telegram 专用规则
+# >Telegram 专用规则
 domain-suffix, telegram.org, PROXY
 domain-suffix, telegra.ph, PROXY
 ip-cidr, 67.198.55.0/24, PROXY
