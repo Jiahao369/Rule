@@ -1,11 +1,32 @@
-[Rule]
-DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,chat.openai.com
-DOMAIN-SUFFIX,api.openai.com
-DOMAIN-SUFFIX,platform.openai.com
+# Surge 规则 - AI 服务分流
 
-DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,claude.ai
-DOMAIN-SUFFIX,api.anthropic.com
-DOMAIN-SUFFIX,console.anthropic.com
-DOMAIN-SUFFIX,cdn.anthropic.com
+# ChatGPT
+domain-suffix, chatgpt.com, AI
+domain-suffix, oaistatic.com, AI
+domain-suffix, oaiusercontent.com, AI
+domain-suffix, openai.com, AI
+domain, api.statsig.com, AI
+domain, api-iam.intercom.io, AI
+domain, chatgpt.livekit.cloud, AI
+domain, o33249.ingest.sentry.io, AI
+domain, openaiapi-site.azureedge.net, AI
+domain, sfo3.turn.livekit.cloud, AI
+
+# Copilot
+domain, api.githubcopilot.com, AI
+domain, copilot-proxy.githubusercontent.com, AI
+domain, copilot.microsoft.com, AI
+domain, sydney.bing.com, AI
+
+# Gemini
+domain, bard.google.com, AI
+domain, gemini.google.com, AI
+
+# Claude
+domain-suffix, anthropic.com, AI
+domain-suffix, claude.ai, AI
+ip-cidr, 160.79.104.0/23, AI
+
+# Meta
+domain-suffix, meta.ai, AI
+domain, imagine.meta.com, AI
