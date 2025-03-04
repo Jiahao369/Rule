@@ -1,315 +1,325 @@
-# 国内外常见网站代理规则
-HOST-KEYWORD,adobe
-HOST-KEYWORD,amazon
-HOST-KEYWORD,bing
-HOST-KEYWORD,cloudfront
-HOST-KEYWORD,dropbox
-HOST-KEYWORD,facebook
-HOST-KEYWORD,github
-HOST-KEYWORD,google
-HOST-KEYWORD,instagram
-HOST-KEYWORD,mega
-HOST-KEYWORD,microsoft
-HOST-KEYWORD,playstation
-HOST-KEYWORD,telegram
-HOST-KEYWORD,tiktok
-HOST-KEYWORD,tumblr
-HOST-KEYWORD,twimg
-HOST-KEYWORD,twitter
-HOST-KEYWORD,whatsapp
-HOST-KEYWORD,wikimedia
-HOST-KEYWORD,windows
-HOST-KEYWORD,youtube
-HOST-KEYWORD,quantumult
+# Surge 规则 - 常见国外域名列表
 
-DOMAIN-SUFFIX,404museum.com
-DOMAIN-SUFFIX,9to5mac.com
-DOMAIN-SUFFIX,adblockplus.org
-DOMAIN-SUFFIX,aka.ms
-DOMAIN-SUFFIX,alfredapp.com
-DOMAIN-SUFFIX,amplitude.com
-DOMAIN-SUFFIX,ampproject.org
-DOMAIN-SUFFIX,anchor.fm
-DOMAIN-SUFFIX,android.com
-DOMAIN-SUFFIX,angularjs.org
-DOMAIN-SUFFIX,aolcdn.com
-DOMAIN-SUFFIX,apkpure.com
-DOMAIN-SUFFIX,appledaily.com
-DOMAIN-SUFFIX,appshopper.com
-DOMAIN-SUFFIX,appspot.com
-DOMAIN-SUFFIX,arcgis.com
-DOMAIN-SUFFIX,archive.org
-DOMAIN-SUFFIX,armorgames.com
-DOMAIN-SUFFIX,aspnetcdn.com
-DOMAIN-SUFFIX,att.com
-DOMAIN-SUFFIX,awsstatic.com
-DOMAIN-SUFFIX,azureedge.net
-DOMAIN-SUFFIX,azurewebsites.net
-DOMAIN-SUFFIX,behance.net
-DOMAIN-SUFFIX,bintray.com
-DOMAIN-SUFFIX,bit.com
-DOMAIN-SUFFIX,bit.ly
-DOMAIN-SUFFIX,bitbucket.org
-DOMAIN-SUFFIX,bjango.com
-DOMAIN-SUFFIX,bkrtx.com
-DOMAIN-SUFFIX,blog.com
-DOMAIN-SUFFIX,blogcdn.com
-DOMAIN-SUFFIX,blogger.com
-DOMAIN-SUFFIX,blogsmithmedia.com
-DOMAIN-SUFFIX,blogspot.com
-DOMAIN-SUFFIX,blogspot.hk
-DOMAIN-SUFFIX,bloomberg.com
-DOMAIN-SUFFIX,buzzsprout.com
-DOMAIN-SUFFIX,byteoversea.com
-DOMAIN-SUFFIX,cachefly.net
-DOMAIN-SUFFIX,cdninstagram.com
-DOMAIN-SUFFIX,chromium.org
-DOMAIN-SUFFIX,cl.ly
-DOMAIN-SUFFIX,cloudfront.net
-DOMAIN-SUFFIX,cloudmagic.com
-DOMAIN-SUFFIX,cmail19.com
-DOMAIN-SUFFIX,cnet.com
-DOMAIN-SUFFIX,cocoapods.org
-DOMAIN-SUFFIX,comodoca.com
-DOMAIN-SUFFIX,crashlytics.com
-DOMAIN-SUFFIX,crossutility.com
-DOMAIN-SUFFIX,culturedcode.com
-DOMAIN-SUFFIX,danilo.to
-DOMAIN-SUFFIX,dayone.me
-DOMAIN-SUFFIX,db.tt
-DOMAIN-SUFFIX,deskconnect.com
-DOMAIN-SUFFIX,disq.us
-DOMAIN-SUFFIX,disqus.com
-DOMAIN-SUFFIX,disquscdn.com
-DOMAIN-SUFFIX,dnsimple.com
-DOMAIN-SUFFIX,docker.com
-DOMAIN-SUFFIX,dribbble.com
-DOMAIN-SUFFIX,droplr.com
-DOMAIN-SUFFIX,duckduckgo.com
-DOMAIN-SUFFIX,dueapp.com
-DOMAIN-SUFFIX,dytt8.net
-DOMAIN-SUFFIX,edgecastcdn.net
-DOMAIN-SUFFIX,edgekey.net
-DOMAIN-SUFFIX,edgesuite.net
-DOMAIN-SUFFIX,engadget.com
-DOMAIN-SUFFIX,entrust.net
-DOMAIN-SUFFIX,eurekavpt.com
-DOMAIN-SUFFIX,evernote.com
-DOMAIN-SUFFIX,fabric.io
-DOMAIN-SUFFIX,fast.com
-DOMAIN-SUFFIX,fastly.net
-DOMAIN-SUFFIX,fbaddins.com
-DOMAIN-SUFFIX,fbcdn.net
-DOMAIN-SUFFIX,fbsbx.com
-DOMAIN-SUFFIX,fbworkmail.com
-DOMAIN-SUFFIX,fc2.com
-DOMAIN-SUFFIX,feedburner.com
-DOMAIN-SUFFIX,feedly.com
-DOMAIN-SUFFIX,feedsportal.com
-DOMAIN-SUFFIX,fiftythree.com
-DOMAIN-SUFFIX,firebaseio.com
-DOMAIN-SUFFIX,fireside.fm
-DOMAIN-SUFFIX,flexibits.com
-DOMAIN-SUFFIX,flickr.com
-DOMAIN-SUFFIX,flightradar24.com
-DOMAIN-SUFFIX,flipboard.com
-DOMAIN-SUFFIX,g.co
-DOMAIN-SUFFIX,gabia.net
-DOMAIN-SUFFIX,geni.us
-DOMAIN-SUFFIX,getoutline.org
-DOMAIN-SUFFIX,gfx.ms
-DOMAIN-SUFFIX,ggpht.com
-DOMAIN-SUFFIX,ghostnoteapp.com
-DOMAIN-SUFFIX,git.io
-DOMAIN-SUFFIX,gitlab.com
-DOMAIN-SUFFIX,globalsign.com
-DOMAIN-SUFFIX,gmail.com
-DOMAIN-SUFFIX,gmodules.com
-DOMAIN-SUFFIX,godaddy.com
-DOMAIN-SUFFIX,golang.org
-DOMAIN-SUFFIX,gongm.in
-DOMAIN-SUFFIX,goo.gl
-DOMAIN-SUFFIX,goodreaders.com
-DOMAIN-SUFFIX,goodreads.com
-DOMAIN-SUFFIX,gravatar.com
-DOMAIN-SUFFIX,gstatic.com
-DOMAIN-SUFFIX,hockeyapp.net
-DOMAIN-SUFFIX,hotmail.com
-DOMAIN-SUFFIX,ibytedtos.com
-DOMAIN-SUFFIX,icons8.com
-DOMAIN-SUFFIX,identrust.com
-DOMAIN-SUFFIX,ifixit.com
-DOMAIN-SUFFIX,ift.tt
-DOMAIN-SUFFIX,ifttt.com
-DOMAIN-SUFFIX,iherb.com
-DOMAIN-SUFFIX,imageshack.us
-DOMAIN-SUFFIX,img.ly
-DOMAIN-SUFFIX,imgur.com
-DOMAIN-SUFFIX,imore.com
-DOMAIN-SUFFIX,instapaper.com
-DOMAIN-SUFFIX,ipn.li
-DOMAIN-SUFFIX,ipstatp.com
-DOMAIN-SUFFIX,is.gd
-DOMAIN-SUFFIX,issuu.com
-DOMAIN-SUFFIX,istatmenus.app
-DOMAIN-SUFFIX,itgonglun.com
-DOMAIN-SUFFIX,itun.es
-DOMAIN-SUFFIX,ixquick.com
-DOMAIN-SUFFIX,j.mp
-DOMAIN-SUFFIX,javbus.com
-DOMAIN-SUFFIX,javlibrary.com
-DOMAIN-SUFFIX,jshint.com
-DOMAIN-SUFFIX,jtvnw.net
-DOMAIN-SUFFIX,justgetflux.com
-DOMAIN-SUFFIX,kat.cr
-DOMAIN-SUFFIX,klip.me
-DOMAIN-SUFFIX,libsyn.com
-DOMAIN-SUFFIX,linkedin.com
-DOMAIN-SUFFIX,linode.com
-DOMAIN-SUFFIX,lithium.com
-DOMAIN-SUFFIX,littlehj.com
-DOMAIN-SUFFIX,live-video.net
-DOMAIN-SUFFIX,live.com
-DOMAIN-SUFFIX,live.net
-DOMAIN-SUFFIX,livefilestore.com
-DOMAIN-SUFFIX,llnwd.net
-DOMAIN-SUFFIX,m.me
-DOMAIN-SUFFIX,macid.co
-DOMAIN-SUFFIX,macromedia.com
-DOMAIN-SUFFIX,macrumors.com
-DOMAIN-SUFFIX,mapbox.com
-DOMAIN-SUFFIX,mashable.com
-DOMAIN-SUFFIX,mathjax.org
-DOMAIN-SUFFIX,medium.com
-DOMAIN-SUFFIX,messenger.com
-DOMAIN-SUFFIX,mindnode.com
-DOMAIN-SUFFIX,mobile01.com
-DOMAIN-SUFFIX,modmyi.com
-DOMAIN-SUFFIX,mohu.rocks
-DOMAIN-SUFFIX,msecnd.net
-DOMAIN-SUFFIX,msedge.net
-DOMAIN-SUFFIX,muscdn.com
-DOMAIN-SUFFIX,musical.ly
-DOMAIN-SUFFIX,myfontastic.com
-DOMAIN-SUFFIX,name.com
-DOMAIN-SUFFIX,nextmedia.com
-DOMAIN-SUFFIX,notion.so
-DOMAIN-SUFFIX,nsstatic.net
-DOMAIN-SUFFIX,nssurge.com
-DOMAIN-SUFFIX,nxtlnodes.com
-DOMAIN-SUFFIX,nyt.com
-DOMAIN-SUFFIX,nytimes.com
-DOMAIN-SUFFIX,okx.com
-DOMAIN-SUFFIX,omnigroup.com
-DOMAIN-SUFFIX,onedrive.com
-DOMAIN-SUFFIX,onenote.com
-DOMAIN-SUFFIX,openwrt.org
-DOMAIN-SUFFIX,outlook.com
-DOMAIN-SUFFIX,ow.ly
-DOMAIN-SUFFIX,paddleapi.com
-DOMAIN-SUFFIX,parallels.com
-DOMAIN-SUFFIX,parse.com
-DOMAIN-SUFFIX,pdfexpert.com
-DOMAIN-SUFFIX,periscope.tv
-DOMAIN-SUFFIX,pinboard.in
-DOMAIN-SUFFIX,pincong.rocks
-DOMAIN-SUFFIX,pinimg.com
-DOMAIN-SUFFIX,pinterest.com
-DOMAIN-SUFFIX,pixelmator.com
-DOMAIN-SUFFIX,pixiv.net
-DOMAIN-SUFFIX,pki.goog
-DOMAIN-SUFFIX,playpcesor.com
-DOMAIN-SUFFIX,playstationnetwork.com
-DOMAIN-SUFFIX,podbean.com
-DOMAIN-SUFFIX,pscp.tv
-DOMAIN-SUFFIX,pushwoosh.com
-DOMAIN-SUFFIX,rateyourmusic.com
-DOMAIN-SUFFIX,reddit.com
-DOMAIN-SUFFIX,rime.im
-DOMAIN-SUFFIX,rocksdb.org
-DOMAIN-SUFFIX,sectigo.com
-DOMAIN-SUFFIX,servebom.com
-DOMAIN-SUFFIX,sfx.ms
-DOMAIN-SUFFIX,shadowsocks.org
-DOMAIN-SUFFIX,sharethis.com
-DOMAIN-SUFFIX,shazam.com
-DOMAIN-SUFFIX,skype.com
-DOMAIN-SUFFIX,smartdnsProxy.com
-DOMAIN-SUFFIX,smartmailcloud.com
-DOMAIN-SUFFIX,soundcloud.com
-DOMAIN-SUFFIX,soundon.fm
-DOMAIN-SUFFIX,sourceforge.net
-DOMAIN-SUFFIX,sprig.com
-DOMAIN-SUFFIX,squarespace.com
-DOMAIN-SUFFIX,sstatic.net
-DOMAIN-SUFFIX,st.luluku.pw
-DOMAIN-SUFFIX,stackoverflow.com
-DOMAIN-SUFFIX,startpage.com
-DOMAIN-SUFFIX,starwars.com
-DOMAIN-SUFFIX,staticflickr.com
-DOMAIN-SUFFIX,steamcommunity.com
-DOMAIN-SUFFIX,steampowered.com
-DOMAIN-SUFFIX,symauth.com
-DOMAIN-SUFFIX,symcb.com
-DOMAIN-SUFFIX,symcd.com
-DOMAIN-SUFFIX,t.co
-DOMAIN-SUFFIX,t66y.com
-DOMAIN-SUFFIX,tapbots.com
-DOMAIN-SUFFIX,techcrunch.com
-DOMAIN-SUFFIX,technews.tw
-DOMAIN-SUFFIX,techsmith.com
-DOMAIN-SUFFIX,telegra.ph
-DOMAIN-SUFFIX,telesco.pe
-DOMAIN-SUFFIX,theinitium.com
-DOMAIN-SUFFIX,thepiratebay.org
-DOMAIN-SUFFIX,theverge.com
-DOMAIN-SUFFIX,tik-tokapi.com
-DOMAIN-SUFFIX,time.com
-DOMAIN-SUFFIX,timeinc.net
-DOMAIN-SUFFIX,tiny.cc
-DOMAIN-SUFFIX,tinypic.com
-DOMAIN-SUFFIX,tmblr.co
-DOMAIN-SUFFIX,todoist.com
-DOMAIN-SUFFIX,trello.com
-DOMAIN-SUFFIX,trustasiassl.com
-DOMAIN-SUFFIX,tweetdeck.com
-DOMAIN-SUFFIX,tweetmarker.net
-DOMAIN-SUFFIX,twitch.tv
-DOMAIN-SUFFIX,twitpic.com
-DOMAIN-SUFFIX,typekit.net
-DOMAIN-SUFFIX,ubertags.com
-DOMAIN-SUFFIX,ublock.org
-DOMAIN-SUFFIX,ubnt.com
-DOMAIN-SUFFIX,ulyssesapp.com
-DOMAIN-SUFFIX,urchin.com
-DOMAIN-SUFFIX,userleap.com
-DOMAIN-SUFFIX,usertrust.com
-DOMAIN-SUFFIX,v.gd
-DOMAIN-SUFFIX,v2ex.com
-DOMAIN-SUFFIX,vimeo.com
-DOMAIN-SUFFIX,vimeocdn.com
-DOMAIN-SUFFIX,vine.co
-DOMAIN-SUFFIX,vivaldi.com
-DOMAIN-SUFFIX,vox-cdn.com
-DOMAIN-SUFFIX,vsco.co
-DOMAIN-SUFFIX,vultr.com
-DOMAIN-SUFFIX,webtype.com
-DOMAIN-SUFFIX,wikileaks.org
-DOMAIN-SUFFIX,wikiwand.com
-DOMAIN-SUFFIX,wire.com
-DOMAIN-SUFFIX,wordpress.com
-DOMAIN-SUFFIX,workflowy.com
-DOMAIN-SUFFIX,wp.com
-DOMAIN-SUFFIX,xda-developers.com
-DOMAIN-SUFFIX,xeeno.com
-DOMAIN-SUFFIX,xiti.com
-DOMAIN-SUFFIX,yahoo.com
-DOMAIN-SUFFIX,yimg.com
-DOMAIN-SUFFIX,yoyo.org
-DOMAIN-SUFFIX,ytimg.com
+# 关键词规则
+domain-keyword, adobe, PROXY
+domain-keyword, amazon, PROXY
+domain-keyword, bing, PROXY
+domain-keyword, cloudfront, PROXY
+domain-keyword, dropbox, PROXY
+domain-keyword, facebook, PROXY
+domain-keyword, github, PROXY
+domain-keyword, google, PROXY
+domain-keyword, instagram, PROXY
+domain-keyword, mega, PROXY
+domain-keyword, microsoft, PROXY
+domain-keyword, playstation, PROXY
+domain-keyword, telegram, PROXY
+domain-keyword, tiktok, PROXY
+domain-keyword, tumblr, PROXY
+domain-keyword, twimg, PROXY
+domain-keyword, twitter, PROXY
+domain-keyword, whatsapp, PROXY
+domain-keyword, wikimedia, PROXY
+domain-keyword, windows, PROXY
+domain-keyword, youtube, PROXY
 
+# 具体域名后缀
+domain-suffix, 404museum.com, PROXY
+domain-suffix, 9to5mac.com, PROXY
+domain-suffix, adblockplus.org, PROXY
+domain-suffix, aka.ms, PROXY
+domain-suffix, alfredapp.com, PROXY
+domain-suffix, amplitude.com, PROXY
+domain-suffix, ampproject.org, PROXY
+domain-suffix, anchor.fm, PROXY
+domain-suffix, android.com, PROXY
+domain-suffix, angularjs.org, PROXY
+domain-suffix, aolcdn.com, PROXY
+domain-suffix, apkpure.com, PROXY
+domain-suffix, appledaily.com, PROXY
+domain-suffix, appshopper.com, PROXY
+domain-suffix, appspot.com, PROXY
+domain-suffix, arcgis.com, PROXY
+domain-suffix, archive.org, PROXY
+domain-suffix, armorgames.com, PROXY
+domain-suffix, aspnetcdn.com, PROXY
+domain-suffix, att.com, PROXY
+domain-suffix, awsstatic.com, PROXY
+domain-suffix, azureedge.net, PROXY
+domain-suffix, azurewebsites.net, PROXY
+domain-suffix, behance.net, PROXY
+domain-suffix, bintray.com, PROXY
+domain-suffix, bit.com, PROXY
+domain-suffix, bit.ly, PROXY
+domain-suffix, bitbucket.org, PROXY
+domain-suffix, bjango.com, PROXY
+domain-suffix, bkrtx.com, PROXY
+domain-suffix, blog.com, PROXY
+domain-suffix, blogcdn.com, PROXY
+domain-suffix, blogger.com, PROXY
+domain-suffix, blogsmithmedia.com, PROXY
+domain-suffix, blogspot.com, PROXY
+domain-suffix, blogspot.hk, PROXY
+domain-suffix, bloomberg.com, PROXY
+domain-suffix, buzzsprout.com, PROXY
+domain-suffix, byteoversea.com, PROXY
+domain-suffix, cachefly.net, PROXY
+domain-suffix, cdninstagram.com, PROXY
+domain-suffix, chromium.org, PROXY
+domain-suffix, cl.ly, PROXY
+domain-suffix, cloudfront.net, PROXY
+domain-suffix, cloudmagic.com, PROXY
+domain-suffix, cmail19.com, PROXY
+domain-suffix, cnet.com, PROXY
+domain-suffix, cocoapods.org, PROXY
+domain-suffix, comodoca.com, PROXY
+domain-suffix, crashlytics.com, PROXY
+domain-suffix, crossutility.com, PROXY
+domain-suffix, culturedcode.com, PROXY
+domain-suffix, danilo.to, PROXY
+domain-suffix, dayone.me, PROXY
+domain-suffix, db.tt, PROXY
+domain-suffix, deskconnect.com, PROXY
+domain-suffix, disq.us, PROXY
+domain-suffix, disqus.com, PROXY
+domain-suffix, disquscdn.com, PROXY
+domain-suffix, dnsimple.com, PROXY
+domain-suffix, docker.com, PROXY
+domain-suffix, dribbble.com, PROXY
+domain-suffix, droplr.com, PROXY
+domain-suffix, duckduckgo.com, PROXY
+domain-suffix, dueapp.com, PROXY
+domain-suffix, dytt8.net, PROXY
+domain-suffix, edgecastcdn.net, PROXY
+domain-suffix, edgekey.net, PROXY
+domain-suffix, edgesuite.net, PROXY
+domain-suffix, engadget.com, PROXY
+domain-suffix, entrust.net, PROXY
+domain-suffix, eurekavpt.com, PROXY
+domain-suffix, evernote.com, PROXY
+domain-suffix, fabric.io, PROXY
+domain-suffix, fast.com, PROXY
+domain-suffix, fastly.net, PROXY
+domain-suffix, fbaddins.com, PROXY
+domain-suffix, fbcdn.net, PROXY
+domain-suffix, fbsbx.com, PROXY
+domain-suffix, fbworkmail.com, PROXY
+domain-suffix, fc2.com, PROXY
+domain-suffix, feedburner.com, PROXY
+domain-suffix, feedly.com, PROXY
+domain-suffix, feedsportal.com, PROXY
+domain-suffix, fiftythree.com, PROXY
+domain-suffix, firebaseio.com, PROXY
+domain-suffix, fireside.fm, PROXY
+domain-suffix, flexibits.com, PROXY
+domain-suffix, flickr.com, PROXY
+domain-suffix, flightradar24.com, PROXY
+domain-suffix, flipboard.com, PROXY
+domain-suffix, g.co, PROXY
+domain-suffix, gabia.net, PROXY
+domain-suffix, geni.us, PROXY
+domain-suffix, getoutline.org, PROXY
+domain-suffix, gfx.ms, PROXY
+domain-suffix, ggpht.com, PROXY
+domain-suffix, ghostnoteapp.com, PROXY
+domain-suffix, git.io, PROXY
+domain-suffix, gitlab.com, PROXY
+domain-suffix, globalsign.com, PROXY
+domain-suffix, gmail.com, PROXY
+domain-suffix, gmodules.com, PROXY
+domain-suffix, godaddy.com, PROXY
+domain-suffix, golang.org, PROXY
+domain-suffix, gongm.in, PROXY
+domain-suffix, goo.gl, PROXY
+domain-suffix, goodreads.com, PROXY
+domain-suffix, gravatar.com, PROXY
+domain-suffix, gstatic.com, PROXY
+domain-suffix, hockeyapp.net, PROXY
+domain-suffix, hotmail.com, PROXY
+domain-suffix, ibytedtos.com, PROXY
+domain-suffix, icons8.com, PROXY
+domain-suffix, identrust.com, PROXY
+domain-suffix, ifixit.com, PROXY
+domain-suffix, ift.tt, PROXY
+domain-suffix, ifttt.com, PROXY
+domain-suffix, iherb.com, PROXY
+domain-suffix, imageshack.us, PROXY
+domain-suffix, img.ly, PROXY
+domain-suffix, imgur.com, PROXY
+domain-suffix, imore.com, PROXY
+domain-suffix, instapaper.com, PROXY
+domain-suffix, ipn.li, PROXY
+domain-suffix, ipstatp.com, PROXY
+domain-suffix, is.gd, PROXY
+domain-suffix, issuu.com, PROXY
+domain-suffix, istatmenus.app, PROXY
+domain-suffix, itgonglun.com, PROXY
+domain-suffix, itun.es, PROXY
+domain-suffix, ixquick.com, PROXY
+domain-suffix, j.mp, PROXY
+domain-suffix, javbus.com, PROXY
+domain-suffix, javlibrary.com, PROXY
+domain-suffix, jshint.com, PROXY
+domain-suffix, jtvnw.net, PROXY
+domain-suffix, justgetflux.com, PROXY
+domain-suffix, klip.me, PROXY
+domain-suffix, libsyn.com, PROXY
+domain-suffix, linkedin.com, PROXY
+domain-suffix, linode.com, PROXY
+domain-suffix, lithium.com, PROXY
+domain-suffix, littlehj.com, PROXY
+domain-suffix, live-video.net, PROXY
+domain-suffix, live.com, PROXY
+domain-suffix, live.net, PROXY
+domain-suffix, livefilestore.com, PROXY
+domain-suffix, llnwd.net, PROXY
+domain-suffix, m.me, PROXY
+domain-suffix, macid.co, PROXY
+domain-suffix, macromedia.com, PROXY
+domain-suffix, macrumors.com, PROXY
+domain-suffix, mapbox.com, PROXY
+domain-suffix, mashable.com, PROXY
+domain-suffix, mathjax.org, PROXY
+domain-suffix, medium.com, PROXY
+domain-suffix, messenger.com, PROXY
+domain-suffix, microsoft.com, PROXY
+domain-suffix, mindnode.com, PROXY
+domain-suffix, mobile01.com, PROXY
+domain-suffix, modmyi.com, PROXY
+domain-suffix, mohu.rocks, PROXY
+domain-suffix, msecnd.net, PROXY
+domain-suffix, msedge.net, PROXY
+domain-suffix, muscdn.com, PROXY
+domain-suffix, musical.ly, PROXY
+domain-suffix, myfontastic.com, PROXY
+domain-suffix, name.com, PROXY
+domain-suffix, nextmedia.com, PROXY
+domain-suffix, notion.so, PROXY
+domain-suffix, nsstatic.net, PROXY
+domain-suffix, nssurge.com, PROXY
+domain-suffix, nxtlnodes.com, PROXY
+domain-suffix, nyt.com, PROXY
+domain-suffix, nytimes.com, PROXY
+domain-suffix, okx.com, PROXY
+domain-suffix, omnigroup.com, PROXY
+domain-suffix, onedrive.com, PROXY
+domain-suffix, onenote.com, PROXY
+domain-suffix, openwrt.org, PROXY
+domain-suffix, outlook.com, PROXY
+domain-suffix, ow.ly, PROXY
+domain-suffix, paddleapi.com, PROXY
+domain-suffix, parallels.com, PROXY
+domain-suffix, parse.com, PROXY
+domain-suffix, pdfexpert.com, PROXY
+domain-suffix, periscope.tv, PROXY
+domain-suffix, pinboard.in, PROXY
+domain-suffix, pincong.rocks, PROXY
+domain-suffix, pinimg.com, PROXY
+domain-suffix, pinterest.com, PROXY
+domain-suffix, pixelmator.com, PROXY
+domain-suffix, pixiv.net, PROXY
+domain-suffix, pki.goog, PROXY
+domain-suffix, playpcesor.com, PROXY
+domain-suffix, playstationnetwork.com, PROXY
+domain-suffix, podbean.com, PROXY
+domain-suffix, pscp.tv, PROXY
+domain-suffix, pushwoosh.com, PROXY
+domain-suffix, rateyourmusic.com, PROXY
+domain-suffix, reddit.com, PROXY
+domain-suffix, rime.im, PROXY
+domain-suffix, rocksdb.org, PROXY
+domain-suffix, sectigo.com, PROXY
+domain-suffix, servebom.com, PROXY
+domain-suffix, sfx.ms, PROXY
+domain-suffix, shadowsocks.org, PROXY
+domain-suffix, sharethis.com, PROXY
+domain-suffix, shazam.com, PROXY
+domain-suffix, skype.com, PROXY
+domain-suffix, smartdnsproxy.com, PROXY
+domain-suffix, smartmailcloud.com, PROXY
+domain-suffix, soundcloud.com, PROXY
+domain-suffix, soundon.fm, PROXY
+domain-suffix, sourceforge.net, PROXY
+domain-suffix, squarespace.com, PROXY
+domain-suffix, sstatic.net, PROXY
+domain-suffix, st.luluku.pw, PROXY
+domain-suffix, stackoverflow.com, PROXY
+domain-suffix, startpage.com, PROXY
+domain-suffix, starwars.com, PROXY
+domain-suffix, staticflickr.com, PROXY
+domain-suffix, steamcommunity.com, PROXY
+domain-suffix, steampowered.com, PROXY
+domain-suffix, symauth.com, PROXY
+domain-suffix, symcb.com, PROXY
+domain-suffix, symcd.com, PROXY
+domain-suffix, t.co, PROXY
+domain-suffix, t66y.com, PROXY
+domain-suffix, tapbots.com, PROXY
+domain-suffix, techcrunch.com, PROXY
+domain-suffix, technews.tw, PROXY
+domain-suffix, techsmith.com, PROXY
+domain-suffix, telegra.ph, PROXY
+domain-suffix, telesco.pe, PROXY
+domain-suffix, theinitium.com, PROXY
+domain-suffix, thepiratebay.org, PROXY
+domain-suffix, theverge.com, PROXY
+domain-suffix, tik-tokapi.com, PROXY
+domain-suffix, time.com, PROXY
+domain-suffix, timeinc.net, PROXY
+domain-suffix, tiny.cc, PROXY
+domain-suffix, tinypic.com, PROXY
+domain-suffix, tmblr.co, PROXY
+domain-suffix, todoist.com, PROXY
+domain-suffix, trello.com, PROXY
+domain-suffix, trustasiassl.com, PROXY
+domain-suffix, tweetdeck.com, PROXY
+domain-suffix, tweetmarker.net, PROXY
+domain-suffix, twitch.tv, PROXY
+domain-suffix, twitpic.com, PROXY
+domain-suffix, typekit.net, PROXY
+domain-suffix, ubertags.com, PROXY
+domain-suffix, ublock.org, PROXY
+domain-suffix, ubnt.com, PROXY
+domain-suffix, ulyssesapp.com, PROXY
+domain-suffix, urchin.com, PROXY
+domain-suffix, userleap.com, PROXY
+domain-suffix, usertrust.com, PROXY
+domain-suffix, v.gd, PROXY
+domain-suffix, v2ex.com, PROXY
+domain-suffix, vimeo.com, PROXY
+domain-suffix, vimeocdn.com, PROXY
+domain-suffix, vine.co, PROXY
+domain-suffix, vivaldi.com, PROXY
+domain-suffix, vox-cdn.com, PROXY
+domain-suffix, vsco.co, PROXY
+domain-suffix, vultr.com, PROXY
+domain-suffix, webtype.com, PROXY
+domain-suffix, wikileaks.org, PROXY
+domain-suffix, wikiwand.com, PROXY
+domain-suffix, wire.com, PROXY
+domain-suffix, wordpress.com, PROXY
+domain-suffix, workflowy.com, PROXY
+domain-suffix, wp.com, PROXY
+domain-suffix, xda-developers.com, PROXY
+domain-suffix, xeeno.com, PROXY
+domain-suffix, xiti.com, PROXY
+domain-suffix, yahoo.com, PROXY
+domain-suffix, yimg.com, PROXY
+domain-suffix, yoyo.org, PROXY
+domain-suffix, ytimg.com, PROXY
 
-
-# > Telegram
-DOMAIN-SUFFIX,telegra.ph
-DOMAIN-SUFFIX,telegram.org
+# Telegram 专用规则
+domain-suffix, telegram.org, PROXY
+domain-suffix, telegra.ph, PROXY
+ip-cidr, 67.198.55.0/24, PROXY
+ip-cidr, 91.108.4.0/22, PROXY
+ip-cidr, 91.108.8.0/22, PROXY
+ip-cidr, 91.108.12.0/22, PROXY
+ip-cidr, 91.108.16.0/22, PROXY
+ip-cidr, 91.108.56.0/22, PROXY
+ip-cidr, 109.239.140.0/24, PROXY
+ip-cidr, 149.154.160.0/20, PROXY
+ip-cidr, 149.154.164.0/22, PROXY
+ip-cidr, 149.154.168.0/22, PROXY
+ip-cidr, 149.154.172.0/22, PROXY
+ip-cidr, 205.172.60.0/22, PROXY
