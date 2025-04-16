@@ -1,4 +1,6 @@
-domain_set:
+no_resolve: true
+
+domain_keyword_set:
 - aliapp
 - alibaba
 - alicdn
