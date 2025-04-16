@@ -1,9 +1,11 @@
-# > Netflix
 domain_keyword_set:
 - dualstack
 - netflix
 - nflx
+- pornhub
 domain_suffix_set:
+- phncdn.com
+- phprcdn.com
 ip_cidr_set:
 - 108.175.32.0/20
 - 192.173.64.0/18
@@ -17,11 +19,3 @@ ip_cidr_set:
 - 54.148.37.5/32
 - 64.120.128.0/17
 - 66.197.128.0/17
-
-# > Pornhub
-domain_keyword_set:
-- pornhub
-domain_suffix_set:
-- phncdn.com
-- phprcdn.com
-
