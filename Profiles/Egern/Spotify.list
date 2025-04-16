@@ -1,5 +1,5 @@
 # > Spotify
-domain_keyword_set:
+domain_set:
 - spotify
 domain_suffix_set:
 - pscdn.co
