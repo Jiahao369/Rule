@@ -1,6 +1,6 @@
 rules:
 # > AdBlock
-domain_set:
+domain_keyword_set:
 - admarvel
 - admaster
 - adsage
