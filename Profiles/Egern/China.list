@@ -1,5 +1,3 @@
-no_resolve: true
-
 domain_keyword_set:
 - aliapp
 - alibaba
@@ -34,8 +32,6 @@ domain_keyword_set:
 - youpin
 - geilicdn
 - weidian
-
-
 domain_suffix_set:
 - 10010.com
 - 10099.com
