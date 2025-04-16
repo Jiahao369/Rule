@@ -1,5 +1,3 @@
-rules:
-# > AdBlock
 domain_keyword_set:
 - admarvel
 - admaster
