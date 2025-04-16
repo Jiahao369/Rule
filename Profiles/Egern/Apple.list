@@ -5,9 +5,6 @@ domain_set:
 - appstore
 
 domain_suffix_set:
-- podcasts.apple.com
-- bag.itunes.apple.com
-- bookkeeper.itunes.apple.com
 - aaplimg.com
 - akadns.net
 - akamaiedge.net
