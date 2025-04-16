@@ -1,43 +1,34 @@
-## 常见广告域名列表
-
-domain_keyword_set:
-- admarvel
-- admaster
-- adsage
-- adsensor
-- adsmogo
-- adsrvmedia
-- adsserving
-- adsystem
-- adwords
-- applovin
-- appsflyer
-- bayescom
-- domob
-- duomeng
-- dwtrack
-- guanggao
-- mopub
-- omgmta
-- omniture
-- openx
-- pangolin-sdk
-- partnerad
-- pingfore
-- socdm
-- supersonicads
-- uedas
-- umeng
-- usage
-- wlmonitor
-- zjtoolbar
-
-domain_suffix_set:
-- adsmind.ugdtimg.com
-- app-measurement.com
-- appsflyer.com
-- bdurl.net
-- branch.io
-
-
-
+rules:
+  # 域名关键字规则
+  - DOMAIN-KEYWORD,admarvel,REJECT
+  - DOMAIN-KEYWORD,admaster,REJECT
+  - DOMAIN-KEYWORD,adsage,REJECT
+  - DOMAIN-KEYWORD,adsensor,REJECT
+  - DOMAIN-KEYWORD,adsmogo,REJECT
+  - DOMAIN-KEYWORD,adsrvmedia,REJECT
+  - DOMAIN-KEYWORD,adsserving,REJECT
+  - DOMAIN-KEYWORD,adsystem,REJECT
+  - DOMAIN-KEYWORD,adwords,REJECT
+  - DOMAIN-KEYWORD,applovin,REJECT
+  - DOMAIN-KEYWORD,appsflyer,REJECT
+  - DOMAIN-KEYWORD,bayescom,REJECT
+  - DOMAIN-KEYWORD,domob,REJECT
+  - DOMAIN-KEYWORD,duomeng,REJECT
+  - DOMAIN-KEYWORD,dwtrack,REJECT
+  - DOMAIN-KEYWORD,googleadsserving,REJECT
+  - DOMAIN-KEYWORD,mopub,REJECT
+  - DOMAIN-KEYWORD,omgmta,REJECT
+  - DOMAIN-KEYWORD,omniture,REJECT
+  - DOMAIN-KEYWORD,openx,REJECT
+  - DOMAIN-KEYWORD,pangolin-sdk,REJECT
+  - DOMAIN-KEYWORD,partnerad,REJECT
+  - DOMAIN-KEYWORD,socdm,REJECT
+  - DOMAIN-KEYWORD,supersonicads,REJECT
+  - DOMAIN-KEYWORD,uedas,REJECT
+  - DOMAIN-KEYWORD,umeng,REJECT
+  - DOMAIN-KEYWORD,wlmonitor,REJECT
+  # 域名后缀规则
+  - DOMAIN-SUFFIX,adsmind.ugdtimg.com,REJECT
+  - DOMAIN-SUFFIX,app-measurement.com,REJECT
+  - DOMAIN-SUFFIX,bdurl.net,REJECT
+  - DOMAIN-SUFFIX,branch.io,REJECT
