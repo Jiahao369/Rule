@@ -1,5 +1,4 @@
-## 常见国内域名列表
-domain_keyword_set:
+domain_set:
 - aliapp
 - alibaba
 - alicdn
@@ -7,7 +6,6 @@ domain_keyword_set:
 - aliyun
 - amap
 - baidu
-- baike
 - bili
 - digicert
 - douyin
@@ -19,13 +17,10 @@ domain_keyword_set:
 - ninebot
 - pinduoduo
 - qianji
-- quantumult
 - showstart
 - sina
 - taobao
 - tencent
-- thepiratebay
-- torrentgalaxy
 - volcsiriusbd
 - wechat
 - weibo
@@ -35,10 +30,13 @@ domain_keyword_set:
 - xiaojukeji
 - xiaomi
 - youpin
-- zenithspace
+- geilicdn
+- weidian
+
 
 domain_suffix_set:
 - 10010.com
+- 10099.com
 - 12306.cn
 - 126.com
 - 126.net
@@ -50,13 +48,8 @@ domain_suffix_set:
 - acfun.tv
 - air-matters.com
 - aixifan.com
-- akamaihd.net
-- akamaized.net
 - amemv.com
-- appcenter.ms
-- appstorrent.ru
 - autonavi.com
-- azure.com
 - bdimg.com
 - bdstatic.com
 - bytedance.com
@@ -73,7 +66,6 @@ domain_suffix_set:
 - cootekservice.com
 - csdn.net
 - ctobsnssdk.com
-- ctrip.com
 - ctrip.com
 - dgtle.com
 - dianping.com
@@ -92,7 +84,6 @@ domain_suffix_set:
 - fir.im
 - fliggy.com
 - floatingislandapps.com
-- flurry.com
 - frdic.com
 - g-cores.com
 - geetest.com
@@ -103,8 +94,6 @@ domain_suffix_set:
 - huaban.com
 - hzshudian.com
 - iciba.com
-- ifeng.com
-- ifengimg.com
 - imedao.com
 - ipip.net
 - iqiyi.com
@@ -114,40 +103,29 @@ domain_suffix_set:
 - jdpay.com
 - jianshu.com
 - jiqizhixin.com
-- jsdelivr.net
 - knewone.com
 - ksyungslb.com
 - le.com
 - lecloud.com
 - lemicp.com
-- licdn.com
-- linkedin.com
 - lizhi.fm
 - luoo.net
 - mbcloud.com
 - mi.com
 - miaopai.com
-- microsoft.com
-- microsoftonline.com
 - midway.run
 - miot-spec.org
 - miui.com
 - miwifi.com
 - mob.com
-- msn.com
 - myapp.com
 - myqcloud.com
 - neixin.cn
 - netease.com
-- newrelic.com
 - ntp.org
-- office.com
-- office.net
-- office365.com
 - oschina.net
 - ourdvsss.com
 - pddpic.com
-- pianyuan.org
 - ppsimg.com
 - pstatp.com
 - qcloud.com
@@ -163,13 +141,10 @@ domain_suffix_set:
 - qpic.cn
 - qq.com
 - qqurl.com
-- rarbg.to
-- revenuecat.com
 - ruanmei.com
 - ruguoapp.com
 - segmentfault.com
 - shujupie.com
-- singular.net
 - smzdm.com
 - snapdrop.net
 - snssdk.com
@@ -184,15 +159,14 @@ domain_suffix_set:
 - tanx.com
 - tenpay.com
 - tianyancha.com
+- teambition.com
 - tmall.com
-- typekit.com
 - udache.com
 - umetrip.com
 - upaiyun.com
 - upyun.com
 - veryzhun.com
 - volcsirius.com
-- weather.com
 - xiaoyuzhoufm.com
 - ximalaya.com
 - xinpianchang.com
@@ -209,10 +183,4 @@ domain_suffix_set:
 - zhihu.com
 - zhimg.com
 - zijieapi.com
-- zimuzu.tv
-- zoho.com
-ip_cidr_set:
-
-
-    
-
+- ugnas.com
