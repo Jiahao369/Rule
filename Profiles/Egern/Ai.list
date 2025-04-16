@@ -6,6 +6,7 @@ domain_set:
 - o33249.ingest.sentry.io
 - openaiapi-site.azureedge.net
 - sfo3.turn.livekit.cloud
+
 domain_suffix_set:
 - chatgpt.com
 - oaistatic.com
@@ -30,6 +31,7 @@ domain_set:
 # > Claude
 domain_set:
 domain_suffix_set:
+
 - anthropic.com
 - claude.ai
 
@@ -37,5 +39,6 @@ domain_suffix_set:
 # > Meta
 domain_set:
 - imagine.meta.com
+
 domain_suffix_set:
 - meta.ai
