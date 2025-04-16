@@ -1,14 +1,16 @@
-## 常见APPLE域名列表
-
-domain_keyword_set:
+# > Apple
+domain_set:
 - apple
 - icloud
+- appstore
 
 domain_suffix_set:
+- podcasts.apple.com
+- bag.itunes.apple.com
+- bookkeeper.itunes.apple.com
 - aaplimg.com
 - akadns.net
 - akamaiedge.net
-- appstore.com
 - apzones.com
 - me.com
 - mzstatic.com
