@@ -302,11 +302,8 @@ domain_suffix_set:
 - yimg.com
 - yoyo.org
 - ytimg.com
-
-domain_suffix_set:
 - telegram.org
 - telegra.ph
-
 ip_cidr_set:
 - 5.28.192.0/18
 - 35.190.247.0/24
@@ -335,4 +332,3 @@ ip_cidr_set:
 - 209.85.128.0/17
 - 216.239.32.0/19
 - 216.58.192.0/19
-
