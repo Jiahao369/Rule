@@ -1,4 +1,3 @@
-# > Proxy Services
 domain_set:
 - adobe
 - amazon
@@ -21,6 +20,7 @@ domain_set:
 - wikimedia
 - windows
 - youtube
+
 domain_suffix_set:
 - 404museum.com
 - 9to5mac.com
@@ -303,9 +303,6 @@ domain_suffix_set:
 - yimg.com
 - yoyo.org
 - ytimg.com
-
-
-
 
 
 
