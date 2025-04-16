@@ -1,10 +1,41 @@
-# > OpenAI
+# > ChatGPT
 domain_set:
-- cdn.auth0.com
-- challenges.cloudflare.com
+- api.statsig.com
+- api-iam.intercom.io
+- chatgpt.livekit.cloud
+- o33249.ingest.sentry.io
 - openaiapi-site.azureedge.net
-
+- sfo3.turn.livekit.cloud
 domain_suffix_set:
-- ai.com
-- identrust.com
+- chatgpt.com
+- oaistatic.com
+- oaiusercontent.com
 - openai.com
+
+
+# > Copilot
+domain_set:
+- api.githubcopilot.com
+- copilot-proxy.githubusercontent.com
+- copilot.microsoft.com
+- sydney.bing.com
+
+
+# > Gemini
+domain_set:
+- bard.google.com
+- gemini.google.com
+
+
+# > Claude
+domain_set:
+domain_suffix_set:
+- anthropic.com
+- claude.ai
+
+
+# > Meta
+domain_set:
+- imagine.meta.com
+domain_suffix_set:
+- meta.ai
