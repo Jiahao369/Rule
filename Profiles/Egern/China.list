@@ -25,7 +25,7 @@ domain_keyword_set:
 - wechat
 - weibo
 - weixin
-- wps
+- wpscdn
 - xhscdn
 - xiaohongshu
 - xiaojukeji
@@ -183,6 +183,7 @@ domain_suffix_set:
 - zhimg.com
 - zijieapi.com
 - ugnas.com
+- wps.cn
 ip_cidr_set:
 - 224.0.0.0/24
 - 192.168.0.0/16
