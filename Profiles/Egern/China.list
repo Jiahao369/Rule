@@ -187,6 +187,7 @@ domain_suffix_set:
 - zijieapi.com
 - ugnas.com
 - wps.cn
+- ug.link
 ip_cidr_set:
 - 224.0.0.0/24
 - 192.168.0.0/16
