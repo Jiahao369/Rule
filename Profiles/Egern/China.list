@@ -6,11 +6,13 @@ domain_keyword_set:
 - aliyun
 - amap
 - baidu
+- bcebos
 - bili
 - digicert
 - douyin
 - duolingo
 - ecombd
+- geilicdn
 - hdslb
 - meituan
 - netease
@@ -20,10 +22,13 @@ domain_keyword_set:
 - showstart
 - sina
 - taobao
+- teambition
 - tencent
+- ugreen
 - volcsiriusbd
 - wechat
 - weibo
+- weidian
 - weixin
 - wpscdn
 - xhscdn
@@ -31,8 +36,6 @@ domain_keyword_set:
 - xiaojukeji
 - xiaomi
 - youpin
-- geilicdn
-- weidian
 domain_suffix_set:
 - 10010.com
 - 10099.com
