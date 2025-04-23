@@ -3,6 +3,7 @@ domain_keyword_set:
 - amazon
 - bing
 - cloudfront
+- cloudflare
 - dropbox
 - facebook
 - github
@@ -182,6 +183,7 @@ domain_suffix_set:
 - mindnode.com
 - mobile01.com
 - modmyi.com
+- typekit.com
 - mohu.rocks
 - msecnd.net
 - msedge.net
