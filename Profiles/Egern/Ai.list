@@ -1,4 +1,6 @@
 domain_set:
+- apple-relay.cloudflare.com
+- apple-relay.apple.com
 - api.statsig.com
 - api-iam.intercom.io
 - chatgpt.livekit.cloud
@@ -12,6 +14,7 @@ domain_set:
 - bard.google.com
 - gemini.google.com
 - imagine.meta.com
+
 domain_suffix_set:
 - chatgpt.com
 - oaistatic.com
