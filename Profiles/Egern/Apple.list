@@ -1,6 +1,7 @@
 domain_keyword_set:
 - icloud
 - appstore
+- apple
 
 domain_suffix_set:
 - aaplimg.com
