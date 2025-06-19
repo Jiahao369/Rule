@@ -1,6 +1,4 @@
 domain_set:
-- apple-relay.cloudflare.com
-- apple-relay.apple.com
 - api.statsig.com
 - api-iam.intercom.io
 - chatgpt.livekit.cloud
