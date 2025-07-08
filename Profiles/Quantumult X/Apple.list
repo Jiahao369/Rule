@@ -1,19 +1,19 @@
 ## 常见APPLE域名列表
 
-# > Apple播客
-HOST-SUFFIX,podcasts.apple.com,PROXY
-HOST-SUFFIX,bag.itunes.apple.com,PROXY
-HOST-SUFFIX,bookkeeper.itunes.apple.com,PROXY
+HOST-KEYWORD,apple,DIRECT
+HOST-KEYWORD,icloud,DIRECT
+HOST-KEYWORD,appstore,DIRECT
+
 # > Apple AI
 HOST-SUFFIX,apple-relay.apple.com,PROXY
 HOST-SUFFIX,apple-relay.cloudflare.com,PROXY
 HOST-SUFFIX,apple-relay.fastly-edge.com,PROXY
 HOST-SUFFIX,cp4.cloudflare.com,PROXY
-
-
-HOST-KEYWORD,apple,DIRECT
-HOST-KEYWORD,icloud,DIRECT
-HOST-KEYWORD,appstore,DIRECT
+# > Apple播客
+HOST-SUFFIX,podcasts.apple.com,PROXY
+HOST-SUFFIX,bag.itunes.apple.com,PROXY
+HOST-SUFFIX,bookkeeper.itunes.apple.com,PROXY
+##其他
 HOST-SUFFIX,aaplimg.com,DIRECT
 HOST-SUFFIX,akadns.net,DIRECT
 HOST-SUFFIX,akamaiedge.net,DIRECT
