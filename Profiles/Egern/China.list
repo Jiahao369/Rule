@@ -188,9 +188,3 @@ domain_suffix_set:
 - ugnas.com
 - wps.cn
 - ug.link
-ip_cidr_set:
-- 224.0.0.0/24
-- 192.168.0.0/16
-- 172.16.0.0/12
-- 127.0.0.0/8
-- 10.0.0.0/8
