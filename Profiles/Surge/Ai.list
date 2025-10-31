@@ -1,32 +1,41 @@
 # Surge 规则 - AI 服务分流
 
+# Apple
+DOMAIN,apple-relay.apple.com
+DOMAIN,apple-relay.cloudflare.com
+DOMAIN,apple-relay.fastly-edge.com
+DOMAIN,cp4.cloudflare.com
+DOMAIN,podcasts.apple.com
+DOMAIN,bag.itunes.apple.com
+DOMAIN,bookkeeper.itunes.apple.com
+
 # ChatGPT
-domain-suffix, chatgpt.com, AI
-domain-suffix, oaistatic.com, AI
-domain-suffix, oaiusercontent.com, AI
-domain-suffix, openai.com, AI
-domain, api.statsig.com, AI
-domain, api-iam.intercom.io, AI
-domain, chatgpt.livekit.cloud, AI
-domain, o33249.ingest.sentry.io, AI
-domain, openaiapi-site.azureedge.net, AI
-domain, sfo3.turn.livekit.cloud, AI
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN,api.statsig.com
+DOMAIN,api-iam.intercom.io
+DOMAIN,chatgpt.livekit.cloud
+DOMAIN,o33249.ingest.sentry.io
+DOMAIN,openaiapi-site.azureedge.net
+DOMAIN,sfo3.turn.livekit.cloud
 
 # Copilot
-domain, api.githubcopilot.com, AI
-domain, copilot-proxy.githubusercontent.com, AI
-domain, copilot.microsoft.com, AI
-domain, sydney.bing.com, AI
+DOMAIN,api.githubcopilot.com
+DOMAIN,copilot-proxy.githubusercontent.com
+DOMAIN,copilot.microsoft.com
+DOMAIN,sydney.bing.com
 
 # Gemini
-domain, bard.google.com, AI
-domain, gemini.google.com, AI
+DOMAIN,bard.google.com
+DOMAIN,gemini.google.com
 
 # Claude
-domain-suffix, anthropic.com, AI
-domain-suffix, claude.ai, AI
-ip-cidr, 160.79.104.0/23, AI
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+IP-CIDR,160.79.104.0/23
 
 # Meta
-domain-suffix, meta.ai, AI
-domain, imagine.meta.com, AI
+DOMAIN-SUFFIX,meta.ai
+DOMAIN,imagine.meta.com
