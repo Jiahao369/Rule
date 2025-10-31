@@ -1,17 +1,24 @@
-# Apple 播客
-DOMAIN-SUFFIX,podcasts.apple.com,PROXY
-DOMAIN-SUFFIX,bag.itunes.apple.com,PROXY
-DOMAIN-SUFFIX,bookkeeper.itunes.apple.com,PROXY
 
 # Apple 相关
-DOMAIN-KEYWORD,apple,DIRECT
-DOMAIN-KEYWORD,icloud,DIRECT
-DOMAIN-KEYWORD,appstore,DIRECT
+DOMAIN-KEYWORD,apple
+DOMAIN-KEYWORD,icloud
+DOMAIN-KEYWORD,appstore
 
 # Apple 相关域名
-DOMAIN-SUFFIX,aaplimg.com,DIRECT
-DOMAIN-SUFFIX,akadns.net,DIRECT
-DOMAIN-SUFFIX,akamaiedge.net,DIRECT
-DOMAIN-SUFFIX,apzones.com,DIRECT
-DOMAIN-SUFFIX,me.com,DIRECT
-DOMAIN-SUFFIX,mzstatic.com,DIRECT
+DOMAIN-SUFFIX,aaplimg.com
+DOMAIN-SUFFIX,akadns.net
+DOMAIN-SUFFIX,akamaiedge.net
+DOMAIN-SUFFIX,apzones.com
+DOMAIN-SUFFIX,mzstatic.com
+
+# Apple ip相关
+IP-CIDR,139.178.128.0/18,no-resolve
+IP-CIDR,144.178.0.0/19,no-resolve
+IP-CIDR,144.178.36.0/22,no-resolve
+IP-CIDR,144.178.48.0/20,no-resolve
+IP-CIDR,17.0.0.0/8,no-resolve
+IP-CIDR,192.35.50.0/24,no-resolve
+IP-CIDR,198.183.17.0/24,no-resolve
+IP-CIDR,205.180.175.0/24,no-resolve
+IP-CIDR,63.92.224.0/19,no-resolve
+IP-CIDR,65.199.22.0/23,no-resolve
