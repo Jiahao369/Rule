@@ -1,193 +1,8 @@
 # >Surge 规则 - 常见国内域名列表
 
 # >常见关键词列表
-domain-keyword, aliapp, DIRECT
-domain-keyword, alibaba, DIRECT
-domain-keyword, alicdn, DIRECT
-domain-keyword, alipay, DIRECT
-domain-keyword, aliyun, DIRECT
-domain-keyword, amap, DIRECT
-domain-keyword, baidu, DIRECT
-domain-keyword, bili, DIRECT
-domain-keyword, digicert, DIRECT
-domain-keyword, douyin, DIRECT
-domain-keyword, duolingo, DIRECT
-domain-keyword, ecombd, DIRECT
-domain-keyword, hdslb, DIRECT
-domain-keyword, meituan, DIRECT
-domain-keyword, netease, DIRECT
-domain-keyword, ninebot, DIRECT
-domain-keyword, pinduoduo, DIRECT
-domain-keyword, qianji, DIRECT
-domain-keyword, showstart, DIRECT
-domain-keyword, sina, DIRECT
-domain-keyword, taobao, DIRECT
-domain-keyword, tencent, DIRECT
-domain-keyword, volcsiriusbd, DIRECT
-domain-keyword, wechat, DIRECT
-domain-keyword, weibo, DIRECT
-domain-keyword, weixin, DIRECT
-domain-keyword, xhscdn, DIRECT
-domain-keyword, xiaohongshu, DIRECT
-domain-keyword, xiaojukeji, DIRECT
-domain-keyword, xiaomi, DIRECT
-domain-keyword, youpin, DIRECT
-domain-keyword, geilicdn, DIRECT
-domain-keyword, weidian, DIRECT
-
-# >常见国内域名列表
-domain-suffix, 10010.com, DIRECT
-domain-suffix, 10099.com, DIRECT
-domain-suffix, 12306.cn, DIRECT
-domain-suffix, 126.com, DIRECT
-domain-suffix, 126.net, DIRECT
-domain-suffix, 127.net, DIRECT
-domain-suffix, 163.com, DIRECT
-domain-suffix, 360buyimg.com, DIRECT
-domain-suffix, 36kr.com, DIRECT
-domain-suffix, 95516.com, DIRECT
-domain-suffix, acfun.tv, DIRECT
-domain-suffix, air-matters.com, DIRECT
-domain-suffix, aixifan.com, DIRECT
-domain-suffix, amemv.com, DIRECT
-domain-suffix, autonavi.com, DIRECT
-domain-suffix, bdimg.com, DIRECT
-domain-suffix, bdstatic.com, DIRECT
-domain-suffix, bytedance.com, DIRECT
-domain-suffix, bytednsdoc.com, DIRECT
-domain-suffix, bytescm.com, DIRECT
-domain-suffix, caiyunapp.com, DIRECT
-domain-suffix, clouddn.com, DIRECT
-domain-suffix, cmbchina.com, DIRECT
-domain-suffix, cmbimg.com, DIRECT
-domain-suffix, cnbeta.com, DIRECT
-domain-suffix, cnzz.com, DIRECT
-domain-suffix, colorfulclouds.net, DIRECT
-domain-suffix, coolapk.com, DIRECT
-domain-suffix, cootekservice.com, DIRECT
-domain-suffix, csdn.net, DIRECT
-domain-suffix, ctobsnssdk.com, DIRECT
-domain-suffix, ctrip.com, DIRECT
-domain-suffix, dgtle.com, DIRECT
-domain-suffix, dianping.com, DIRECT
-domain-suffix, didistatic.com, DIRECT
-domain-suffix, dingtalk.com, DIRECT
-domain-suffix, doh.pub, DIRECT
-domain-suffix, douban.com, DIRECT
-domain-suffix, doubanio.com, DIRECT
-domain-suffix, duokan.com, DIRECT
-domain-suffix, easou.com, DIRECT
-domain-suffix, ele.me, DIRECT
-domain-suffix, faceucam.com, DIRECT
-domain-suffix, fcbox.com, DIRECT
-domain-suffix, feishu.cn, DIRECT
-domain-suffix, feng.com, DIRECT
-domain-suffix, fir.im, DIRECT
-domain-suffix, fliggy.com, DIRECT
-domain-suffix, floatingislandapps.com, DIRECT
-domain-suffix, frdic.com, DIRECT
-domain-suffix, g-cores.com, DIRECT
-domain-suffix, geetest.com, DIRECT
-domain-suffix, godic.net, DIRECT
-domain-suffix, goofish.com, DIRECT
-domain-suffix, gtimg.com, DIRECT
-domain-suffix, hongxiu.com, DIRECT
-domain-suffix, huaban.com, DIRECT
-domain-suffix, hzshudian.com, DIRECT
-domain-suffix, iciba.com, DIRECT
-domain-suffix, imedao.com, DIRECT
-domain-suffix, ipip.net, DIRECT
-domain-suffix, iqiyi.com, DIRECT
-domain-suffix, ithome.com, DIRECT
-domain-suffix, jd.com, DIRECT
-domain-suffix, jddebug.com, DIRECT
-domain-suffix, jdpay.com, DIRECT
-domain-suffix, jianshu.com, DIRECT
-domain-suffix, jiqizhixin.com, DIRECT
-domain-suffix, knewone.com, DIRECT
-domain-suffix, ksyungslb.com, DIRECT
-domain-suffix, le.com, DIRECT
-domain-suffix, lecloud.com, DIRECT
-domain-suffix, lemicp.com, DIRECT
-domain-suffix, lizhi.fm, DIRECT
-domain-suffix, luoo.net, DIRECT
-domain-suffix, mbcloud.com, DIRECT
-domain-suffix, mi.com, DIRECT
-domain-suffix, miaopai.com, DIRECT
-domain-suffix, midway.run, DIRECT
-domain-suffix, miot-spec.org, DIRECT
-domain-suffix, miui.com, DIRECT
-domain-suffix, miwifi.com, DIRECT
-domain-suffix, mob.com, DIRECT
-domain-suffix, myapp.com, DIRECT
-domain-suffix, myqcloud.com, DIRECT
-domain-suffix, neixin.cn, DIRECT
-domain-suffix, netease.com, DIRECT
-domain-suffix, ntp.org, DIRECT
-domain-suffix, oschina.net, DIRECT
-domain-suffix, ourdvsss.com, DIRECT
-domain-suffix, pddpic.com, DIRECT
-domain-suffix, ppsimg.com, DIRECT
-domain-suffix, pstatp.com, DIRECT
-domain-suffix, qcloud.com, DIRECT
-domain-suffix, qdaily.com, DIRECT
-domain-suffix, qdmm.com, DIRECT
-domain-suffix, qhimg.com, DIRECT
-domain-suffix, qhres.com, DIRECT
-domain-suffix, qidian.com, DIRECT
-domain-suffix, qihucdn.com, DIRECT
-domain-suffix, qiniu.com, DIRECT
-domain-suffix, qiyipic.com, DIRECT
-domain-suffix, qlogo.cn, DIRECT
-domain-suffix, qpic.cn, DIRECT
-domain-suffix, qq.com, DIRECT
-domain-suffix, qqurl.com, DIRECT
-domain-suffix, ruanmei.com, DIRECT
-domain-suffix, ruguoapp.com, DIRECT
-domain-suffix, segmentfault.com, DIRECT
-domain-suffix, shujupie.com, DIRECT
-domain-suffix, smzdm.com, DIRECT
-domain-suffix, snapdrop.net, DIRECT
-domain-suffix, snssdk.com, DIRECT
-domain-suffix, sobot.com, DIRECT
-domain-suffix, sogou.com, DIRECT
-domain-suffix, sohu.com, DIRECT
-domain-suffix, soku.com, DIRECT
-domain-suffix, speedtest.net, DIRECT
-domain-suffix, sprig.com, DIRECT
-domain-suffix, sspai.com, DIRECT
-domain-suffix, suning.com, DIRECT
-domain-suffix, tanx.com, DIRECT
-domain-suffix, tenpay.com, DIRECT
-domain-suffix, tianyancha.com, DIRECT
-domain-suffix, teambition.com, DIRECT
-domain-suffix, tmall.com, DIRECT
-domain-suffix, udache.com, DIRECT
-domain-suffix, umetrip.com, DIRECT
-domain-suffix, upaiyun.com, DIRECT
-domain-suffix, upyun.com, DIRECT
-domain-suffix, veryzhun.com, DIRECT
-domain-suffix, volcsirius.com, DIRECT
-domain-suffix, xiaoyuzhoufm.com, DIRECT
-domain-suffix, ximalaya.com, DIRECT
-domain-suffix, xinpianchang.com, DIRECT
-domain-suffix, xueqiu.com, DIRECT
-domain-suffix, xunlei.com, DIRECT
-domain-suffix, yhd.com, DIRECT
-domain-suffix, yideamobile.com, DIRECT
-domain-suffix, yihaodianimg.com, DIRECT
-domain-suffix, yinxiang.com, DIRECT
-domain-suffix, ykimg.com, DIRECT
-domain-suffix, youdao.com, DIRECT
-domain-suffix, youku.com, DIRECT
-domain-suffix, zdmimg.com, DIRECT
-domain-suffix, zhihu.com, DIRECT
-domain-suffix, zhimg.com, DIRECT
-domain-suffix, zijieapi.com, DIRECT
-domain-suffix, ugnas.com, DIRECT
-
-# >其他规则
-domain-suffix, cn, DIRECT
+DOMAIN-KEYWORD,aliapp
+DOMAIN-KEYWORD,alibaba
 DOMAIN-KEYWORD,alicdn
 DOMAIN-KEYWORD,alipay
 DOMAIN-KEYWORD,aliyun
@@ -217,4 +32,189 @@ DOMAIN-KEYWORD,xiaohongshu
 DOMAIN-KEYWORD,xiaojukeji
 DOMAIN-KEYWORD,xiaomi
 DOMAIN-KEYWORD,youpin
+DOMAIN-KEYWORD,geilicdn
+DOMAIN-KEYWORD,weidian
+
+# >常见国内域名列表
+DOMAIN-SUFFIX,10010.com
+DOMAIN-SUFFIX,10099.com
+DOMAIN-SUFFIX,12306.cn
+DOMAIN-SUFFIX,126.com
+DOMAIN-SUFFIX,126.net
+DOMAIN-SUFFIX,127.net
+DOMAIN-SUFFIX,163.com
+DOMAIN-SUFFIX,360buyimg.com
+DOMAIN-SUFFIX,36kr.com
+DOMAIN-SUFFIX,95516.com
+DOMAIN-SUFFIX,acfun.tv
+DOMAIN-SUFFIX,air-matters.com
+DOMAIN-SUFFIX,aixifan.com
+DOMAIN-SUFFIX,amemv.com
+DOMAIN-SUFFIX,autonavi.com
+DOMAIN-SUFFIX,bdimg.com
+DOMAIN-SUFFIX,bdstatic.com
+DOMAIN-SUFFIX,bytedance.com
+DOMAIN-SUFFIX,bytednsdoc.com
+DOMAIN-SUFFIX,bytescm.com
+DOMAIN-SUFFIX,caiyunapp.com
+DOMAIN-SUFFIX,clouddn.com
+DOMAIN-SUFFIX,cmbchina.com
+DOMAIN-SUFFIX,cmbimg.com
+DOMAIN-SUFFIX,cnbeta.com
+DOMAIN-SUFFIX,cnzz.com
+DOMAIN-SUFFIX,colorfulclouds.net
+DOMAIN-SUFFIX,coolapk.com
+DOMAIN-SUFFIX,cootekservice.com
+DOMAIN-SUFFIX,csdn.net
+DOMAIN-SUFFIX,ctobsnssdk.com
+DOMAIN-SUFFIX,ctrip.com
+DOMAIN-SUFFIX,dgtle.com
+DOMAIN-SUFFIX,dianping.com
+DOMAIN-SUFFIX,didistatic.com
+DOMAIN-SUFFIX,dingtalk.com
+DOMAIN-SUFFIX,doh.pub
+DOMAIN-SUFFIX,douban.com
+DOMAIN-SUFFIX,doubanio.com
+DOMAIN-SUFFIX,duokan.com
+DOMAIN-SUFFIX,easou.com
+DOMAIN-SUFFIX,ele.me
+DOMAIN-SUFFIX,faceucam.com
+DOMAIN-SUFFIX,fcbox.com
+DOMAIN-SUFFIX,feishu.cn
+DOMAIN-SUFFIX,feng.com
+DOMAIN-SUFFIX,fir.im
+DOMAIN-SUFFIX,fliggy.com
+DOMAIN-SUFFIX,floatingislandapps.com
+DOMAIN-SUFFIX,frdic.com
+DOMAIN-SUFFIX,g-cores.com
+DOMAIN-SUFFIX,geetest.com
+DOMAIN-SUFFIX,godic.net
+DOMAIN-SUFFIX,goofish.com
+DOMAIN-SUFFIX,gtimg.com
+DOMAIN-SUFFIX,hongxiu.com
+DOMAIN-SUFFIX,huaban.com
+DOMAIN-SUFFIX,hzshudian.com
+DOMAIN-SUFFIX,iciba.com
+DOMAIN-SUFFIX,imedao.com
+DOMAIN-SUFFIX,ipip.net
+DOMAIN-SUFFIX,iqiyi.com
+DOMAIN-SUFFIX,ithome.com
+DOMAIN-SUFFIX,jd.com
+DOMAIN-SUFFIX,jddebug.com
+DOMAIN-SUFFIX,jdpay.com
+DOMAIN-SUFFIX,jianshu.com
+DOMAIN-SUFFIX,jiqizhixin.com
+DOMAIN-SUFFIX,knewone.com
+DOMAIN-SUFFIX,ksyungslb.com
+DOMAIN-SUFFIX,le.com
+DOMAIN-SUFFIX,lecloud.com
+DOMAIN-SUFFIX,lemicp.com
+DOMAIN-SUFFIX,lizhi.fm
+DOMAIN-SUFFIX,luoo.net
+DOMAIN-SUFFIX,mbcloud.com
+DOMAIN-SUFFIX,mi.com
+DOMAIN-SUFFIX,miaopai.com
+DOMAIN-SUFFIX,midway.run
+DOMAIN-SUFFIX,miot-spec.org
+DOMAIN-SUFFIX,miui.com
+DOMAIN-SUFFIX,miwifi.com
+DOMAIN-SUFFIX,mob.com
+DOMAIN-SUFFIX,myapp.com
+DOMAIN-SUFFIX,myqcloud.com
+DOMAIN-SUFFIX,neixin.cn
+DOMAIN-SUFFIX,netease.com
+DOMAIN-SUFFIX,ntp.org
+DOMAIN-SUFFIX,oschina.net
+DOMAIN-SUFFIX,ourdvsss.com
+DOMAIN-SUFFIX,pddpic.com
+DOMAIN-SUFFIX,ppsimg.com
+DOMAIN-SUFFIX,pstatp.com
+DOMAIN-SUFFIX,qcloud.com
+DOMAIN-SUFFIX,qdaily.com
+DOMAIN-SUFFIX,qdmm.com
+DOMAIN-SUFFIX,qhimg.com
+DOMAIN-SUFFIX,qhres.com
+DOMAIN-SUFFIX,qidian.com
+DOMAIN-SUFFIX,qihucdn.com
+DOMAIN-SUFFIX,qiniu.com
+DOMAIN-SUFFIX,qiyipic.com
+DOMAIN-SUFFIX,qlogo.cn
+DOMAIN-SUFFIX,qpic.cn
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,qqurl.com
+DOMAIN-SUFFIX,ruanmei.com
+DOMAIN-SUFFIX,ruguoapp.com
+DOMAIN-SUFFIX,segmentfault.com
+DOMAIN-SUFFIX,shujupie.com
+DOMAIN-SUFFIX,smzdm.com
+DOMAIN-SUFFIX,snapdrop.net
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,sobot.com
+DOMAIN-SUFFIX,sogou.com
+DOMAIN-SUFFIX,sohu.com
+DOMAIN-SUFFIX,soku.com
+DOMAIN-SUFFIX,speedtest.net
+DOMAIN-SUFFIX,sprig.com
+DOMAIN-SUFFIX,sspai.com
+DOMAIN-SUFFIX,suning.com
+DOMAIN-SUFFIX,tanx.com
+DOMAIN-SUFFIX,tenpay.com
+DOMAIN-SUFFIX,tianyancha.com
+DOMAIN-SUFFIX,teambition.com
+DOMAIN-SUFFIX,tmall.com
+DOMAIN-SUFFIX,udache.com
+DOMAIN-SUFFIX,umetrip.com
+DOMAIN-SUFFIX,upaiyun.com
+DOMAIN-SUFFIX,upyun.com
+DOMAIN-SUFFIX,veryzhun.com
+DOMAIN-SUFFIX,volcsirius.com
+DOMAIN-SUFFIX,xiaoyuzhoufm.com
+DOMAIN-SUFFIX,ximalaya.com
+DOMAIN-SUFFIX,xinpianchang.com
+DOMAIN-SUFFIX,xueqiu.com
+DOMAIN-SUFFIX,xunlei.com
+DOMAIN-SUFFIX,yhd.com
+DOMAIN-SUFFIX,yideamobile.com
+DOMAIN-SUFFIX,yihaodianimg.com
+DOMAIN-SUFFIX,yinxiang.com
+DOMAIN-SUFFIX,ykimg.com
+DOMAIN-SUFFIX,youdao.com
+DOMAIN-SUFFIX,youku.com
+DOMAIN-SUFFIX,zdmimg.com
+DOMAIN-SUFFIX,zhihu.com
+DOMAIN-SUFFIX,zhimg.com
+DOMAIN-SUFFIX,zijieapi.com
+DOMAIN-SUFFIX,ugnas.com
+
+# >其他规则
+DOMAIN-KEYWORD,alicdn
+DOMAIN-KEYWORD,alipay
+DOMAIN-KEYWORD,aliyun
+DOMAIN-KEYWORD,amap
+DOMAIN-KEYWORD,baidu
+DOMAIN-KEYWORD,bili
+DOMAIN-KEYWORD,digicert
+DOMAIN-KEYWORD,douyin
+DOMAIN-KEYWORD,duolingo
+DOMAIN-KEYWORD,ecombd
+DOMAIN-KEYWORD,hdslb
+DOMAIN-KEYWORD,meituan
+DOMAIN-KEYWORD,netease
+DOMAIN-KEYWORD,ninebot
+DOMAIN-KEYWORD,pinduoduo
+DOMAIN-KEYWORD,qianji
+DOMAIN-KEYWORD,showstart
+DOMAIN-KEYWORD,sina
+DOMAIN-KEYWORD,taobao
+DOMAIN-KEYWORD,tencent
+DOMAIN-KEYWORD,volcsiriusbd
+DOMAIN-KEYWORD,wechat
+DOMAIN-KEYWORD,weibo
+DOMAIN-KEYWORD,weixin
+DOMAIN-KEYWORD,xhscdn
+DOMAIN-KEYWORD,xiaohongshu
+DOMAIN-KEYWORD,xiaojukeji
+DOMAIN-KEYWORD,xiaomi
+DOMAIN-KEYWORD,youpin
+
 
