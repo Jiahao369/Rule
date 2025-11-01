@@ -1,9 +1,9 @@
 domain_suffix_set:
+- gateway.icloud.com
 - apple-relay.apple.com
 - apple-relay.cloudflare.com
 - apple-relay.fastly-edge.com
 - cp4.cloudflare.com
-
 - podcasts.apple.com
 - bag.itunes.apple.com
 - bookkeeper.itunes.apple.com
