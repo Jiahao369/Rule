@@ -1,21 +1,20 @@
-domain_keyword_set:
-- dualstack
-- netflix
-- nflx
-- pornhub
-domain_suffix_set:
-- phncdn.com
-- phprcdn.com
-ip_cidr_set:
-- 108.175.32.0/20
-- 192.173.64.0/18
-- 198.38.96.0/19
-- 198.45.48.0/20
-- 23.246.0.0/18
-- 34.210.42.111/32
-- 37.77.184.0/21
-- 45.57.0.0/17
-- 52.89.124.203/32
-- 54.148.37.5/32
-- 64.120.128.0/17
-- 66.197.128.0/17
+DOMAIN-KEYWORD,dualstack
+DOMAIN-KEYWORD,netflix
+DOMAIN-KEYWORD,nflx
+DOMAIN-KEYWORD,pornhub
+
+DOMAIN-SUFFIX,phncdn.com
+DOMAIN-SUFFIX,phprcdn.com
+
+IP-CIDR,108.175.32.0/20
+IP-CIDR,192.173.64.0/18
+IP-CIDR,198.38.96.0/19
+IP-CIDR,198.45.48.0/20
+IP-CIDR,23.246.0.0/18
+IP-CIDR,34.210.42.111/32
+IP-CIDR,37.77.184.0/21
+IP-CIDR,45.57.0.0/17
+IP-CIDR,52.89.124.203/32
+IP-CIDR,54.148.37.5/32
+IP-CIDR,64.120.128.0/17
+IP-CIDR,66.197.128.0/17
