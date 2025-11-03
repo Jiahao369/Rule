@@ -1,33 +1,32 @@
-domain_keyword_set:
-- admarvel
-- admaster
-- adsage
-- adsensor
-- adsmogo
-- adsrvmedia
-- adsserving
-- adsystem
-- adwords
-- applovin
-- appsflyer
-- bayescom
-- domob
-- duomeng
-- dwtrack
-- googleadsserving
-- mopub
-- omgmta
-- omniture
-- openx
-- pangolin-sdk
-- partnerad
-- socdm
-- supersonicads
-- uedas
-- umeng
-- wlmonitor
-domain_suffix_set:
-- adsmind.ugdtimg.com
-- app-measurement.com
-- bdurl.net
-- branch.io
+DOMAIN-KEYWORD,admarvel
+DOMAIN-KEYWORD,admaster
+DOMAIN-KEYWORD,adsage
+DOMAIN-KEYWORD,adsensor
+DOMAIN-KEYWORD,adsmogo
+DOMAIN-KEYWORD,adsrvmedia
+DOMAIN-KEYWORD,adsserving
+DOMAIN-KEYWORD,adsystem
+DOMAIN-KEYWORD,adwords
+DOMAIN-KEYWORD,applovin
+DOMAIN-KEYWORD,appsflyer
+DOMAIN-KEYWORD,bayescom
+DOMAIN-KEYWORD,domob
+DOMAIN-KEYWORD,duomeng
+DOMAIN-KEYWORD,dwtrack
+DOMAIN-KEYWORD,googleadsserving
+DOMAIN-KEYWORD,mopub
+DOMAIN-KEYWORD,omgmta
+DOMAIN-KEYWORD,omniture
+DOMAIN-KEYWORD,openx
+DOMAIN-KEYWORD,pangolin-sdk
+DOMAIN-KEYWORD,partnerad
+DOMAIN-KEYWORD,socdm
+DOMAIN-KEYWORD,supersonicads
+DOMAIN-KEYWORD,uedas
+DOMAIN-KEYWORD,umeng
+DOMAIN-KEYWORD,wlmonitor
+
+DOMAIN-SUFFIX,adsmind.ugdtimg.com
+DOMAIN-SUFFIX,app-measurement.com
+DOMAIN-SUFFIX,bdurl.net
+DOMAIN-SUFFIX,branch.io
