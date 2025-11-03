@@ -1,12 +1,9 @@
-domain_keyword_set:
-- apple
-- icloud
-- appstore
-
-domain_suffix_set:
-- aaplimg.com
-- akadns.net
-- akamaiedge.net
-- apzones.com
-- me.com
-- mzstatic.com
+DOMAIN-KEYWORD,apple
+DOMAIN-KEYWORD,icloud
+DOMAIN-KEYWORD,appstore
+DOMAIN-SUFFIX,aaplimg.com
+DOMAIN-SUFFIX,akadns.net
+DOMAIN-SUFFIX,akamaiedge.net
+DOMAIN-SUFFIX,apzones.com
+DOMAIN-SUFFIX,me.com
+DOMAIN-SUFFIX,mzstatic.com
