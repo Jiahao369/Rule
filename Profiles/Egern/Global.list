@@ -1,310 +1,310 @@
 domain_keyword_set:
-- adobe
-- amazon
-- bing
-- cloudfront
-- cloudflare
-- dropbox
-- facebook
-- github
-- google
-- instagram
-- mega
-- microsoft
-- playstation
-- tiktok
-- tumblr
-- twimg
-- twitter
-- whatsapp
-- wikimedia
-- windows
-- youtube
-domain_suffix_set:
-- 404museum.com
-- 9to5mac.com
-- adblockplus.org
-- aka.ms
-- alfredapp.com
-- amplitude.com
-- ampproject.org
-- anchor.fm
-- android.com
-- angularjs.org
-- aolcdn.com
-- apkpure.com
-- appledaily.com
-- appshopper.com
-- appspot.com
-- arcgis.com
-- archive.org
-- armorgames.com
-- aspnetcdn.com
-- att.com
-- awsstatic.com
-- azureedge.net
-- azurewebsites.net
-- behance.net
-- bintray.com
-- bit.com
-- bit.ly
-- bitbucket.org
-- bjango.com
-- bkrtx.com
-- blog.com
-- blogcdn.com
-- blogger.com
-- blogsmithmedia.com
-- blogspot.com
-- blogspot.hk
-- bloomberg.com
-- buzzsprout.com
-- byteoversea.com
-- cachefly.net
-- cdninstagram.com
-- chromium.org
-- cl.ly
-- cloudfront.net
-- cloudmagic.com
-- cmail19.com
-- cnet.com
-- cocoapods.org
-- comodoca.com
-- crashlytics.com
-- crossutility.com
-- culturedcode.com
-- danilo.to
-- dayone.me
-- db.tt
-- deskconnect.com
-- disq.us
-- disqus.com
-- disquscdn.com
-- dnsimple.com
-- docker.com
-- dribbble.com
-- droplr.com
-- duckduckgo.com
-- dueapp.com
-- dytt8.net
-- edgecastcdn.net
-- edgekey.net
-- edgesuite.net
-- engadget.com
-- entrust.net
-- eurekavpt.com
-- evernote.com
-- fabric.io
-- fast.com
-- fastly.net
-- fbaddins.com
-- fbcdn.net
-- fbsbx.com
-- fbworkmail.com
-- fc2.com
-- feedburner.com
-- feedly.com
-- feedsportal.com
-- fiftythree.com
-- firebaseio.com
-- fireside.fm
-- flexibits.com
-- flickr.com
-- flightradar24.com
-- flipboard.com
-- g.co
-- gabia.net
-- geni.us
-- getoutline.org
-- gfx.ms
-- ggpht.com
-- ghostnoteapp.com
-- git.io
-- gitlab.com
-- globalsign.com
-- gmail.com
-- gmodules.com
-- godaddy.com
-- golang.org
-- gongm.in
-- goo.gl
-- goodreads.com
-- gravatar.com
-- gstatic.com
-- hockeyapp.net
-- hotmail.com
-- ibytedtos.com
-- icons8.com
-- identrust.com
-- ifixit.com
-- ift.tt
-- ifttt.com
-- iherb.com
-- imageshack.us
-- img.ly
-- imgur.com
-- imore.com
-- instapaper.com
-- ipn.li
-- ipstatp.com
-- is.gd
-- issuu.com
-- istatmenus.app
-- itgonglun.com
-- itun.es
-- ixquick.com
-- j.mp
-- javbus.com
-- javlibrary.com
-- jshint.com
-- jtvnw.net
-- justgetflux.com
-- klip.me
-- libsyn.com
-- linkedin.com
-- linode.com
-- lithium.com
-- littlehj.com
-- live-video.net
-- live.com
-- live.net
-- livefilestore.com
-- llnwd.net
-- m.me
-- macid.co
-- macromedia.com
-- macrumors.com
-- mapbox.com
-- mashable.com
-- mathjax.org
-- medium.com
-- messenger.com
-- microsoft.com
-- mindnode.com
-- mobile01.com
-- modmyi.com
-- typekit.com
-- mohu.rocks
-- msecnd.net
-- msedge.net
-- muscdn.com
-- musical.ly
-- myfontastic.com
-- name.com
-- nextmedia.com
-- notion.so
-- nsstatic.net
-- nssurge.com
-- nxtlnodes.com
-- nyt.com
-- nytimes.com
-- okx.com
-- omnigroup.com
-- onedrive.com
-- onenote.com
-- openwrt.org
-- outlook.com
-- ow.ly
-- paddleapi.com
-- parallels.com
-- parse.com
-- pdfexpert.com
-- periscope.tv
-- pinboard.in
-- pincong.rocks
-- pinimg.com
-- pinterest.com
-- pixelmator.com
-- pixiv.net
-- pki.goog
-- playpcesor.com
-- playstationnetwork.com
-- podbean.com
-- pscp.tv
-- pushwoosh.com
-- rateyourmusic.com
-- reddit.com
-- rime.im
-- rocksdb.org
-- sectigo.com
-- servebom.com
-- sfx.ms
-- shadowsocks.org
-- sharethis.com
-- shazam.com
-- skype.com
-- smartdnsproxy.com
-- smartmailcloud.com
-- soundcloud.com
-- soundon.fm
-- sourceforge.net
-- squarespace.com
-- sstatic.net
-- st.luluku.pw
-- stackoverflow.com
-- startpage.com
-- starwars.com
-- staticflickr.com
-- steamcommunity.com
-- steampowered.com
-- symauth.com
-- symcb.com
-- symcd.com
-- t.co
-- t66y.com
-- tapbots.com
-- techcrunch.com
-- technews.tw
-- techsmith.com
-- theinitium.com
-- thepiratebay.org
-- theverge.com
-- tik-tokapi.com
-- time.com
-- timeinc.net
-- tiny.cc
-- tinypic.com
-- tmblr.co
-- todoist.com
-- trello.com
-- trustasiassl.com
-- tweetdeck.com
-- tweetmarker.net
-- twitch.tv
-- twitpic.com
-- typekit.net
-- ubertags.com
-- ublock.org
-- ubnt.com
-- ulyssesapp.com
-- urchin.com
-- userleap.com
-- usertrust.com
-- v.gd
-- v2ex.com
-- vimeo.com
-- vimeocdn.com
-- vine.co
-- vivaldi.com
-- vox-cdn.com
-- vsco.co
-- vultr.com
-- webtype.com
-- wikileaks.org
-- wikiwand.com
-- wire.com
-- wordpress.com
-- workflowy.com
-- wp.com
-- xda-developers.com
-- xeeno.com
-- xiti.com
-- yahoo.com
-- yimg.com
-- yoyo.org
-- ytimg.com
-- x.com
-- www.dafont.com
-- cloudflare-dns.com
-- gfxtra31.com
-- appcenter.ms
+DOMAIN-SUFFIX,adobe
+DOMAIN-SUFFIX,amazon
+DOMAIN-SUFFIX,bing
+DOMAIN-SUFFIX,cloudfront
+DOMAIN-SUFFIX,cloudflare
+DOMAIN-SUFFIX,dropbox
+DOMAIN-SUFFIX,facebook
+DOMAIN-SUFFIX,github
+DOMAIN-SUFFIX,google
+DOMAIN-SUFFIX,instagram
+DOMAIN-SUFFIX,mega
+DOMAIN-SUFFIX,microsoft
+DOMAIN-SUFFIX,playstation
+DOMAIN-SUFFIX,tiktok
+DOMAIN-SUFFIX,tumblr
+DOMAIN-SUFFIX,twimg
+DOMAIN-SUFFIX,twitter
+DOMAIN-SUFFIX,whatsapp
+DOMAIN-SUFFIX,wikimedia
+DOMAIN-SUFFIX,windows
+DOMAIN-SUFFIX,youtube
+
+DOMAIN-KEYWORD,404museum.com
+DOMAIN-KEYWORD,9to5mac.com
+DOMAIN-KEYWORD,adblockplus.org
+DOMAIN-KEYWORD,aka.ms
+DOMAIN-KEYWORD,alfredapp.com
+DOMAIN-KEYWORD,amplitude.com
+DOMAIN-KEYWORD,ampproject.org
+DOMAIN-KEYWORD,anchor.fm
+DOMAIN-KEYWORD,android.com
+DOMAIN-KEYWORD,angularjs.org
+DOMAIN-KEYWORD,aolcdn.com
+DOMAIN-KEYWORD,apkpure.com
+DOMAIN-KEYWORD,appledaily.com
+DOMAIN-KEYWORD,appshopper.com
+DOMAIN-KEYWORD,appspot.com
+DOMAIN-KEYWORD,arcgis.com
+DOMAIN-KEYWORD,archive.org
+DOMAIN-KEYWORD,armorgames.com
+DOMAIN-KEYWORD,aspnetcdn.com
+DOMAIN-KEYWORD,att.com
+DOMAIN-KEYWORD,awsstatic.com
+DOMAIN-KEYWORD,azureedge.net
+DOMAIN-KEYWORD,azurewebsites.net
+DOMAIN-KEYWORD,behance.net
+DOMAIN-KEYWORD,bintray.com
+DOMAIN-KEYWORD,bit.com
+DOMAIN-KEYWORD,bit.ly
+DOMAIN-KEYWORD,bitbucket.org
+DOMAIN-KEYWORD,bjango.com
+DOMAIN-KEYWORD,bkrtx.com
+DOMAIN-KEYWORD,blog.com
+DOMAIN-KEYWORD,blogcdn.com
+DOMAIN-KEYWORD,blogger.com
+DOMAIN-KEYWORD,blogsmithmedia.com
+DOMAIN-KEYWORD,blogspot.com
+DOMAIN-KEYWORD,blogspot.hk
+DOMAIN-KEYWORD,bloomberg.com
+DOMAIN-KEYWORD,buzzsprout.com
+DOMAIN-KEYWORD,byteoversea.com
+DOMAIN-KEYWORD,cachefly.net
+DOMAIN-KEYWORD,cdninstagram.com
+DOMAIN-KEYWORD,chromium.org
+DOMAIN-KEYWORD,cl.ly
+DOMAIN-KEYWORD,cloudfront.net
+DOMAIN-KEYWORD,cloudmagic.com
+DOMAIN-KEYWORD,cmail19.com
+DOMAIN-KEYWORD,cnet.com
+DOMAIN-KEYWORD,cocoapods.org
+DOMAIN-KEYWORD,comodoca.com
+DOMAIN-KEYWORD,crashlytics.com
+DOMAIN-KEYWORD,crossutility.com
+DOMAIN-KEYWORD,culturedcode.com
+DOMAIN-KEYWORD,danilo.to
+DOMAIN-KEYWORD,dayone.me
+DOMAIN-KEYWORD,db.tt
+DOMAIN-KEYWORD,deskconnect.com
+DOMAIN-KEYWORD,disq.us
+DOMAIN-KEYWORD,disqus.com
+DOMAIN-KEYWORD,disquscdn.com
+DOMAIN-KEYWORD,dnsimple.com
+DOMAIN-KEYWORD,docker.com
+DOMAIN-KEYWORD,dribbble.com
+DOMAIN-KEYWORD,droplr.com
+DOMAIN-KEYWORD,duckduckgo.com
+DOMAIN-KEYWORD,dueapp.com
+DOMAIN-KEYWORD,dytt8.net
+DOMAIN-KEYWORD,edgecastcdn.net
+DOMAIN-KEYWORD,edgekey.net
+DOMAIN-KEYWORD,edgesuite.net
+DOMAIN-KEYWORD,engadget.com
+DOMAIN-KEYWORD,entrust.net
+DOMAIN-KEYWORD,eurekavpt.com
+DOMAIN-KEYWORD,evernote.com
+DOMAIN-KEYWORD,fabric.io
+DOMAIN-KEYWORD,fast.com
+DOMAIN-KEYWORD,fastly.net
+DOMAIN-KEYWORD,fbaddins.com
+DOMAIN-KEYWORD,fbcdn.net
+DOMAIN-KEYWORD,fbsbx.com
+DOMAIN-KEYWORD,fbworkmail.com
+DOMAIN-KEYWORD,fc2.com
+DOMAIN-KEYWORD,feedburner.com
+DOMAIN-KEYWORD,feedly.com
+DOMAIN-KEYWORD,feedsportal.com
+DOMAIN-KEYWORD,fiftythree.com
+DOMAIN-KEYWORD,firebaseio.com
+DOMAIN-KEYWORD,fireside.fm
+DOMAIN-KEYWORD,flexibits.com
+DOMAIN-KEYWORD,flickr.com
+DOMAIN-KEYWORD,flightradar24.com
+DOMAIN-KEYWORD,flipboard.com
+DOMAIN-KEYWORD,g.co
+DOMAIN-KEYWORD,gabia.net
+DOMAIN-KEYWORD,geni.us
+DOMAIN-KEYWORD,getoutline.org
+DOMAIN-KEYWORD,gfx.ms
+DOMAIN-KEYWORD,ggpht.com
+DOMAIN-KEYWORD,ghostnoteapp.com
+DOMAIN-KEYWORD,git.io
+DOMAIN-KEYWORD,gitlab.com
+DOMAIN-KEYWORD,globalsign.com
+DOMAIN-KEYWORD,gmail.com
+DOMAIN-KEYWORD,gmodules.com
+DOMAIN-KEYWORD,godaddy.com
+DOMAIN-KEYWORD,golang.org
+DOMAIN-KEYWORD,gongm.in
+DOMAIN-KEYWORD,goo.gl
+DOMAIN-KEYWORD,goodreads.com
+DOMAIN-KEYWORD,gravatar.com
+DOMAIN-KEYWORD,gstatic.com
+DOMAIN-KEYWORD,hockeyapp.net
+DOMAIN-KEYWORD,hotmail.com
+DOMAIN-KEYWORD,ibytedtos.com
+DOMAIN-KEYWORD,icons8.com
+DOMAIN-KEYWORD,identrust.com
+DOMAIN-KEYWORD,ifixit.com
+DOMAIN-KEYWORD,ift.tt
+DOMAIN-KEYWORD,ifttt.com
+DOMAIN-KEYWORD,iherb.com
+DOMAIN-KEYWORD,imageshack.us
+DOMAIN-KEYWORD,img.ly
+DOMAIN-KEYWORD,imgur.com
+DOMAIN-KEYWORD,imore.com
+DOMAIN-KEYWORD,instapaper.com
+DOMAIN-KEYWORD,ipn.li
+DOMAIN-KEYWORD,ipstatp.com
+DOMAIN-KEYWORD,is.gd
+DOMAIN-KEYWORD,issuu.com
+DOMAIN-KEYWORD,istatmenus.app
+DOMAIN-KEYWORD,itgonglun.com
+DOMAIN-KEYWORD,itun.es
+DOMAIN-KEYWORD,ixquick.com
+DOMAIN-KEYWORD,j.mp
+DOMAIN-KEYWORD,javbus.com
+DOMAIN-KEYWORD,javlibrary.com
+DOMAIN-KEYWORD,jshint.com
+DOMAIN-KEYWORD,jtvnw.net
+DOMAIN-KEYWORD,justgetflux.com
+DOMAIN-KEYWORD,klip.me
+DOMAIN-KEYWORD,libsyn.com
+DOMAIN-KEYWORD,linkedin.com
+DOMAIN-KEYWORD,linode.com
+DOMAIN-KEYWORD,lithium.com
+DOMAIN-KEYWORD,littlehj.com
+DOMAIN-KEYWORD,live-video.net
+DOMAIN-KEYWORD,live.com
+DOMAIN-KEYWORD,live.net
+DOMAIN-KEYWORD,livefilestore.com
+DOMAIN-KEYWORD,llnwd.net
+DOMAIN-KEYWORD,m.me
+DOMAIN-KEYWORD,macid.co
+DOMAIN-KEYWORD,macromedia.com
+DOMAIN-KEYWORD,macrumors.com
+DOMAIN-KEYWORD,mapbox.com
+DOMAIN-KEYWORD,mashable.com
+DOMAIN-KEYWORD,mathjax.org
+DOMAIN-KEYWORD,medium.com
+DOMAIN-KEYWORD,messenger.com
+DOMAIN-KEYWORD,microsoft.com
+DOMAIN-KEYWORD,mindnode.com
+DOMAIN-KEYWORD,mobile01.com
+DOMAIN-KEYWORD,modmyi.com
+DOMAIN-KEYWORD,typekit.com
+DOMAIN-KEYWORD,mohu.rocks
+DOMAIN-KEYWORD,msecnd.net
+DOMAIN-KEYWORD,msedge.net
+DOMAIN-KEYWORD,muscdn.com
+DOMAIN-KEYWORD,musical.ly
+DOMAIN-KEYWORD,myfontastic.com
+DOMAIN-KEYWORD,name.com
+DOMAIN-KEYWORD,nextmedia.com
+DOMAIN-KEYWORD,notion.so
+DOMAIN-KEYWORD,nsstatic.net
+DOMAIN-KEYWORD,nssurge.com
+DOMAIN-KEYWORD,nxtlnodes.com
+DOMAIN-KEYWORD,nyt.com
+DOMAIN-KEYWORD,nytimes.com
+DOMAIN-KEYWORD,okx.com
+DOMAIN-KEYWORD,omnigroup.com
+DOMAIN-KEYWORD,onedrive.com
+DOMAIN-KEYWORD,onenote.com
+DOMAIN-KEYWORD,openwrt.org
+DOMAIN-KEYWORD,outlook.com
+DOMAIN-KEYWORD,ow.ly
+DOMAIN-KEYWORD,paddleapi.com
+DOMAIN-KEYWORD,parallels.com
+DOMAIN-KEYWORD,parse.com
+DOMAIN-KEYWORD,pdfexpert.com
+DOMAIN-KEYWORD,periscope.tv
+DOMAIN-KEYWORD,pinboard.in
+DOMAIN-KEYWORD,pincong.rocks
+DOMAIN-KEYWORD,pinimg.com
+DOMAIN-KEYWORD,pinterest.com
+DOMAIN-KEYWORD,pixelmator.com
+DOMAIN-KEYWORD,pixiv.net
+DOMAIN-KEYWORD,pki.goog
+DOMAIN-KEYWORD,playpcesor.com
+DOMAIN-KEYWORD,playstationnetwork.com
+DOMAIN-KEYWORD,podbean.com
+DOMAIN-KEYWORD,pscp.tv
+DOMAIN-KEYWORD,pushwoosh.com
+DOMAIN-KEYWORD,rateyourmusic.com
+DOMAIN-KEYWORD,reddit.com
+DOMAIN-KEYWORD,rime.im
+DOMAIN-KEYWORD,rocksdb.org
+DOMAIN-KEYWORD,sectigo.com
+DOMAIN-KEYWORD,servebom.com
+DOMAIN-KEYWORD,sfx.ms
+DOMAIN-KEYWORD,shadowsocks.org
+DOMAIN-KEYWORD,sharethis.com
+DOMAIN-KEYWORD,shazam.com
+DOMAIN-KEYWORD,skype.com
+DOMAIN-KEYWORD,smartdnsproxy.com
+DOMAIN-KEYWORD,smartmailcloud.com
+DOMAIN-KEYWORD,soundcloud.com
+DOMAIN-KEYWORD,soundon.fm
+DOMAIN-KEYWORD,sourceforge.net
+DOMAIN-KEYWORD,squarespace.com
+DOMAIN-KEYWORD,sstatic.net
+DOMAIN-KEYWORD,st.luluku.pw
+DOMAIN-KEYWORD,stackoverflow.com
+DOMAIN-KEYWORD,startpage.com
+DOMAIN-KEYWORD,starwars.com
+DOMAIN-KEYWORD,staticflickr.com
+DOMAIN-KEYWORD,steamcommunity.com
+DOMAIN-KEYWORD,steampowered.com
+DOMAIN-KEYWORD,symauth.com
+DOMAIN-KEYWORD,symcb.com
+DOMAIN-KEYWORD,symcd.com
+DOMAIN-KEYWORD,t.co
+DOMAIN-KEYWORD,t66y.com
+DOMAIN-KEYWORD,tapbots.com
+DOMAIN-KEYWORD,techcrunch.com
+DOMAIN-KEYWORD,technews.tw
+DOMAIN-KEYWORD,techsmith.com
+DOMAIN-KEYWORD,theinitium.com
+DOMAIN-KEYWORD,thepiratebay.org
+DOMAIN-KEYWORD,theverge.com
+DOMAIN-KEYWORD,tik-tokapi.com
+DOMAIN-KEYWORD,time.com
+DOMAIN-KEYWORD,timeinc.net
+DOMAIN-KEYWORD,tiny.cc
+DOMAIN-KEYWORD,tinypic.com
+DOMAIN-KEYWORD,tmblr.co
+DOMAIN-KEYWORD,todoist.com
+DOMAIN-KEYWORD,trello.com
+DOMAIN-KEYWORD,trustasiassl.com
+DOMAIN-KEYWORD,tweetdeck.com
+DOMAIN-KEYWORD,tweetmarker.net
+DOMAIN-KEYWORD,twitch.tv
+DOMAIN-KEYWORD,twitpic.com
+DOMAIN-KEYWORD,typekit.net
+DOMAIN-KEYWORD,ubertags.com
+DOMAIN-KEYWORD,ublock.org
+DOMAIN-KEYWORD,ubnt.com
+DOMAIN-KEYWORD,ulyssesapp.com
+DOMAIN-KEYWORD,urchin.com
+DOMAIN-KEYWORD,userleap.com
+DOMAIN-KEYWORD,usertrust.com
+DOMAIN-KEYWORD,v.gd
+DOMAIN-KEYWORD,v2ex.com
+DOMAIN-KEYWORD,vimeo.com
+DOMAIN-KEYWORD,vimeocdn.com
+DOMAIN-KEYWORD,vine.co
+DOMAIN-KEYWORD,vivaldi.com
+DOMAIN-KEYWORD,vox-cdn.com
+DOMAIN-KEYWORD,vsco.co
+DOMAIN-KEYWORD,vultr.com
+DOMAIN-KEYWORD,webtype.com
+DOMAIN-KEYWORD,wikileaks.org
+DOMAIN-KEYWORD,wikiwand.com
+DOMAIN-KEYWORD,wire.com
+DOMAIN-KEYWORD,wordpress.com
+DOMAIN-KEYWORD,workflowy.com
+DOMAIN-KEYWORD,wp.com
+DOMAIN-KEYWORD,xda-developers.com
+DOMAIN-KEYWORD,xeeno.com
+DOMAIN-KEYWORD,xiti.com
+DOMAIN-KEYWORD,yahoo.com
+DOMAIN-KEYWORD,yimg.com
+DOMAIN-KEYWORD,yoyo.org
+DOMAIN-KEYWORD,ytimg.com
+DOMAIN-KEYWORD,x.com
+DOMAIN-KEYWORD,www.dafont.com
+DOMAIN-KEYWORD,cloudflare-dns.com
+DOMAIN-KEYWORD,gfxtra31.com
+DOMAIN-KEYWORD,appcenter.ms
