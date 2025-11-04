@@ -37,7 +37,11 @@ DOMAIN-KEYWORD,xiaohongshu
 DOMAIN-KEYWORD,xiaojukeji
 DOMAIN-KEYWORD,xiaomi
 DOMAIN-KEYWORD,youpin
+DOMAIN-KEYWORD,byte
 
+
+DOMAIN-SUFFIX,bytegecko.com
+DOMAIN-SUFFIX,bytehwm.com
 DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,10099.com
 DOMAIN-SUFFIX,12306.cn
@@ -190,3 +194,7 @@ DOMAIN-SUFFIX,zdmimg.com
 DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zijieapi.com
+DOMAIN,lf3-static.bytednsdoc.com
+DOMAIN,v5-dy-o-abtest.zjcdn.com
+DOMAIN-SUFFIX,toutiao.com
+IP-CIDR,114.246.10.65/32,no-resolve
