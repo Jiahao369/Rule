@@ -20,6 +20,7 @@ DOMAIN-KEYWORD,netease
 DOMAIN-KEYWORD,ninebot
 DOMAIN-KEYWORD,pinduoduo
 DOMAIN-KEYWORD,pixcakeai
+DOMAIN-KEYWORD,mijia
 DOMAIN-KEYWORD,qianji
 DOMAIN-KEYWORD,showstart
 DOMAIN-KEYWORD,sina
@@ -42,6 +43,8 @@ DOMAIN-KEYWORD,youpin
 DOMAIN,lf3-static.bytednsdoc.com
 DOMAIN,v5-dy-o-abtest.zjcdn.com
 DOMAIN-SUFFIX,qishui.com
+DOMAIN-SUFFIX,umetrip.com
+DOMAIN-SUFFIX,z1cdn.com
 DOMAIN-SUFFIX,sealaly.net
 DOMAIN-SUFFIX,smtcdns.com
 DOMAIN-SUFFIX,ahdohpiechei.com
