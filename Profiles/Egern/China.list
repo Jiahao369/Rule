@@ -1,6 +1,4 @@
-# 中国直连规则（已去重，按类型分组排序）
-
-## DOMAIN-KEYWORD
+# DOMAIN-KEYWORD
 DOMAIN-KEYWORD,360buy
 DOMAIN-KEYWORD,aliapp
 DOMAIN-KEYWORD,alibaba
@@ -52,7 +50,7 @@ DOMAIN-KEYWORD,xiaomi
 DOMAIN-KEYWORD,xiami
 DOMAIN-KEYWORD,youpin
 
-## DOMAIN-SUFFIX
+# DOMAIN-SUFFIX
 DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,10099.com
 DOMAIN-SUFFIX,115.com
@@ -633,7 +631,7 @@ DOMAIN-SUFFIX,xn--fiqs8s
 DOMAIN-SUFFIX,xn--55qx5d
 DOMAIN-SUFFIX,xn--io0a7i
 
-## DOMAIN
+# DOMAIN
 DOMAIN,auth.wosms.cn
 DOMAIN,config.cmpassport.com
 DOMAIN,csgo.wmsj.cn
@@ -659,7 +657,7 @@ DOMAIN,v5-dy-o-abtest.zjcdn.com
 DOMAIN,wmsjsteam.com
 DOMAIN,ye.dun.163yun.com
 
-## IP-CIDR
+# IP-CIDR
 IP-CIDR,1.12.12.12/32,no-resolve
 IP-CIDR,1.255.62.0/24,no-resolve
 IP-CIDR,23.40.241.251/32,no-resolve
@@ -734,7 +732,7 @@ IP-CIDR,210.201.32.11/32,no-resolve
 IP-CIDR,221.226.128.146/32,no-resolve
 IP-CIDR,223.252.199.66/31,no-resolve
 
-## IP-CIDR6
+# IP-CIDR6
 IP-CIDR6,2a0b:b580::/48,no-resolve
 IP-CIDR6,2a0b:b581::/48,no-resolve
 IP-CIDR6,2a0b:b582::/48,no-resolve
