@@ -39,6 +39,8 @@ DOMAIN-KEYWORD,xiaomi
 DOMAIN-KEYWORD,xiami
 DOMAIN-KEYWORD,youpin
 
+
+
 # DOMAIN-SUFFIX
 DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,10099.com
@@ -342,15 +344,10 @@ DOMAIN-SUFFIX,oppo.com
 DOMAIN-SUFFIX,oppoer.me
 DOMAIN-SUFFIX,oppomobile.com
 DOMAIN-SUFFIX,oschina.net
-DOMAIN-SUFFIX,ourdvsss.com
-DOMAIN-SUFFIX,ourdvs.com
 DOMAIN-SUFFIX,p2cdn.com
-DOMAIN-SUFFIX,p4pfile.com
+
 DOMAIN-SUFFIX,paipai.com
 DOMAIN-SUFFIX,pddpic.com
-DOMAIN-SUFFIX,pdfwifi.com
-DOMAIN-SUFFIX,piaogroup.com
-DOMAIN-SUFFIX,piao.com.cn
 DOMAIN-SUFFIX,pinduoduo.com
 DOMAIN-SUFFIX,pixcheese.com
 DOMAIN-SUFFIX,polyv.net
@@ -376,6 +373,10 @@ DOMAIN-SUFFIX,qiushibaike.com
 DOMAIN-SUFFIX,qiyipic.com
 DOMAIN-SUFFIX,qlogo.cn
 DOMAIN-SUFFIX,qpic.cn
+DOMAIN-SUFFIX,leyaoyao.com
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,smtcdns.com
+DOMAIN-SUFFIX,ndcpp.com
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,qqmail.com
 DOMAIN-SUFFIX,qqurl.com
@@ -446,7 +447,6 @@ DOMAIN-SUFFIX,toutiaohao.net
 DOMAIN-SUFFIX,toutiaoimg.com
 DOMAIN-SUFFIX,toutiaopage.com
 DOMAIN-SUFFIX,trip.com
-DOMAIN-SUFFIX,ttmeiju.com
 DOMAIN-SUFFIX,tuniucdn.com
 DOMAIN-SUFFIX,tuniu.com
 DOMAIN-SUFFIX,jd.com
@@ -497,7 +497,6 @@ DOMAIN-SUFFIX,xinpinchang.com
 DOMAIN-SUFFIX,xinhuanet.com
 DOMAIN-SUFFIX,xitek.com
 DOMAIN-SUFFIX,xiumi.us
-DOMAIN-SUFFIX,xslb.net
 DOMAIN-SUFFIX,xunlei.com
 DOMAIN-SUFFIX,xz.pphimalayanrt.com
 DOMAIN-SUFFIX,yach.me
