@@ -18,6 +18,7 @@ DOMAIN-KEYWORD,tumblr
 DOMAIN-KEYWORD,twimg
 DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,wikimedia
+DOMAIN-KEYWORD,v2ex
 
 
 
@@ -428,7 +429,6 @@ DOMAIN-SUFFIX,urchin.com
 DOMAIN-SUFFIX,userleap.com
 DOMAIN-SUFFIX,usertrust.com
 DOMAIN-SUFFIX,v.gd
-DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,vine.co
@@ -451,3 +451,5 @@ DOMAIN-SUFFIX,xiti.com
 DOMAIN-SUFFIX,yahoo.com
 DOMAIN-SUFFIX,yimg.com
 DOMAIN-SUFFIX,yoyo.org
+DOMAIN-SUFFIX,nodeimage.com
+DOMAIN-SUFFIX,doubleclick.net
