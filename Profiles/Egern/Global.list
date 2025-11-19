@@ -19,7 +19,7 @@ DOMAIN-KEYWORD,twimg
 DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,wikimedia
 DOMAIN-KEYWORD,v2ex
-
+DOMAIN-KEYWORD,okcoin
 
 
 ## adobe
@@ -109,6 +109,17 @@ DOMAIN-SUFFIX,votolia.com
 DOMAIN-SUFFIX,worldsecureemail.com
 DOMAIN-SUFFIX,worldsecuresystems.com
 
+
+
+
+
+
+###补丁
+DOMAIN-SUFFIX,online-metrix.net
+DOMAIN-SUFFIX,appiersig.com
+DOMAIN-SUFFIX,2mdn.net
+DOMAIN-SUFFIX,meee.com
+DOMAIN-SUFFIX,appier.net
 
 DOMAIN-SUFFIX,redd.it
 DOMAIN-SUFFIX,reddit.com
