@@ -22,6 +22,19 @@ DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,wikimedia
 DOMAIN-KEYWORD,windows
 
+
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,shazam.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,gitbook.com
+DOMAIN-SUFFIX,appstorrent.ru
+DOMAIN-SUFFIX,hsbc.com
+DOMAIN-SUFFIX,linux.do
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,hcaptcha.com
+DOMAIN-SUFFIX,stripecdn.com
+DOMAIN-SUFFIX,egernapp.com
 DOMAIN-SUFFIX,ylimg.com
 DOMAIN-SUFFIX,gtflixtv.com
 DOMAIN-SUFFIX,img-img.com
