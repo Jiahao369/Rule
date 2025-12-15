@@ -442,7 +442,9 @@ DOMAIN-SUFFIX,zhipin.com
 DOMAIN-SUFFIX,zhuihd.com
 DOMAIN-SUFFIX,zjcdn.com
 
+
 # DOMAIN
+DOMAIN,api-ipv6.ip.sb
 DOMAIN,auth.wosms.cn
 DOMAIN,config.cmpassport.com
 DOMAIN,csgo.wmsj.cn
