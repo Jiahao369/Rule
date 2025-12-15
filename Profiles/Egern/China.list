@@ -46,8 +46,10 @@ DOMAIN-KEYWORD,xiaomi
 DOMAIN-KEYWORD,youpin
 DOMAIN-KEYWORD,zijie
 DOMAIN-KEYWORD,timetreeapp
+DOMAIN-KEYWORD,xyzcdn
 
 # DOMAIN-SUFFIX
+DOMAIN-SUFFIX,ddnspod.com
 DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,10099.com
 DOMAIN-SUFFIX,115.com
@@ -441,10 +443,11 @@ DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhipin.com
 DOMAIN-SUFFIX,zhuihd.com
 DOMAIN-SUFFIX,zjcdn.com
-
+DOMAIN-SUFFIX,ip.sb
+DOMAIN-SUFFIX,esm.sh
+DOMAIN-SUFFIX,ulikecam.com
 
 # DOMAIN
-DOMAIN,api-ipv6.ip.sb
 DOMAIN,auth.wosms.cn
 DOMAIN,config.cmpassport.com
 DOMAIN,csgo.wmsj.cn
