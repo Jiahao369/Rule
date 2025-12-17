@@ -3,6 +3,7 @@ DOMAIN-KEYWORD,alibaba
 DOMAIN-KEYWORD,alicdn
 DOMAIN-KEYWORD,alipay
 DOMAIN-KEYWORD,aliyun
+DOMAIN-KEYWORD,aliapp
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,baidupcs
 DOMAIN-KEYWORD,bili
@@ -48,8 +49,18 @@ DOMAIN-KEYWORD,youpin
 DOMAIN-KEYWORD,zijie
 DOMAIN-KEYWORD,timetreeapp
 DOMAIN-KEYWORD,xyzcdn
-
+DOMAIN-KEYWORD,quickconnect
 # DOMAIN-SUFFIX
+DOMAIN-SUFFIX,goofish.com
+DOMAIN-SUFFIX,tlivesource.com
+DOMAIN-SUFFIX,intltencentcos.com
+DOMAIN-SUFFIX,tencentcos.cn
+DOMAIN-SUFFIX,my-imcloud.com
+DOMAIN-SUFFIX,ekiga.net
+DOMAIN-SUFFIX,schlund.de
+DOMAIN-SUFFIX,qcloudimg.com
+DOMAIN-SUFFIX,mozilla1.com
+DOMAIN-SUFFIX,bdstatic.com
 DOMAIN-SUFFIX,yeah.net
 DOMAIN-SUFFIX,127.net
 DOMAIN-SUFFIX,huabanimg.com
