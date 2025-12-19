@@ -24,6 +24,11 @@ DOMAIN-KEYWORD,wikimedia
 DOMAIN-KEYWORD,windows
 
 
+DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,nintendo.com
+DOMAIN-SUFFIX,matters.town
+DOMAIN-SUFFIX,adguard.com
+DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,10xfotolia.com
 DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,2o7.net
