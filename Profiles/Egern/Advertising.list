@@ -26,10 +26,10 @@ DOMAIN-KEYWORD,uedas
 DOMAIN-KEYWORD,umeng
 DOMAIN-KEYWORD,wlmonitor
 
-HOST-SUFFIX,adsmind.ugdtimg.com
-HOST-SUFFIX,app-measurement.com
-HOST-SUFFIX,bdurl.net
-HOST-SUFFIX,branch.io
+DOMAIN,adsmind.ugdtimg.com
+DOMAIN-SUFFIX,app-measurement.com
+DOMAIN-SUFFIX,bdurl.net
+DOMAIN-SUFFIX,branch.io
 DOMAIN-SUFFIX,adjust.com
 DOMAIN-SUFFIX,app-ads-services.com
 
