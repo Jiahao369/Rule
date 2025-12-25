@@ -52,9 +52,12 @@ DOMAIN-KEYWORD,zijie
 DOMAIN-KEYWORD,timetreeapp
 DOMAIN-KEYWORD,xyzcdn
 DOMAIN-KEYWORD,quickconnect
+DOMAIN-KEYWORD,gcloud
+DOMAIN-KEYWORD,sogou
 
 # DOMAIN-SUFFIX
-DOMAIN-SUFFIX,kuaishouzt.com
+DOMAIN-SUFFIX,unrealengine.com
+DOMAIN-SUFFIX,anticheatexpert.com
 DOMAIN-SUFFIX,300hu.com
 DOMAIN-SUFFIX,pddugc.com
 DOMAIN-SUFFIX,unpkg.com
