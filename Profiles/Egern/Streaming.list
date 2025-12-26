@@ -1,4 +1,5 @@
 DOMAIN,cdn.registerdisney.go.com
+
 DOMAIN-KEYWORD,dualstack
 DOMAIN-KEYWORD,googlevideo
 DOMAIN-KEYWORD,netflix
@@ -6,6 +7,7 @@ DOMAIN-KEYWORD,nflx
 DOMAIN-KEYWORD,pornhub
 DOMAIN-KEYWORD,youtube
 DOMAIN-KEYWORD,disneyplus
+DOMAIN-SUFFIX,dmm.co.jp
 DOMAIN-SUFFIX,adobedtm.com
 DOMAIN-SUFFIX,bam.nr-data.net
 DOMAIN-SUFFIX,bamgrid.com
