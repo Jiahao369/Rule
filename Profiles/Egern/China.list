@@ -56,6 +56,12 @@ DOMAIN-KEYWORD,gcloud
 DOMAIN-KEYWORD,sogou
 
 # DOMAIN-SUFFIX
+DOMAIN-SUFFIX,gaode.com
+DOMAIN-SUFFIX,jinritemai.com
+DOMAIN-SUFFIX,marmot-cloud.com
+DOMAIN-SUFFIX,tripcdn.com
+DOMAIN-SUFFIX,bstatic.com
+DOMAIN-SUFFIX,youshop10.com
 DOMAIN-SUFFIX,elemecdn.com
 DOMAIN-SUFFIX,unrealengine.com
 DOMAIN-SUFFIX,anticheatexpert.com
