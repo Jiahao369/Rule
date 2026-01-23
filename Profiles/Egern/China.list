@@ -61,6 +61,11 @@ DOMAIN-KEYWORD,gcloud
 DOMAIN-KEYWORD,sogou
 
 # DOMAIN-SUFFIX
+DOMAIN-SUFFIX,lizhi.fm
+DOMAIN-SUFFIX,cegesu.com
+DOMAIN-SUFFIX,ly.com
+DOMAIN-SUFFIX,tailwindcss.com
+DOMAIN-SUFFIX,clarity.ms
 DOMAIN-SUFFIX,doupay.com
 DOMAIN-SUFFIX,wpscdn.com
 DOMAIN-SUFFIX,gaode.com
