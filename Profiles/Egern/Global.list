@@ -6,6 +6,7 @@ DOMAIN-KEYWORD,cloudflare
 DOMAIN-KEYWORD,cloudfront
 DOMAIN-KEYWORD,dropbox
 DOMAIN-KEYWORD,facebook
+DOMAIN-KEYWORD,yahoo
 DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,instagram
@@ -22,6 +23,8 @@ DOMAIN-KEYWORD,v2ex
 DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,wikimedia
 DOMAIN-KEYWORD,windows
+DOMAIN-SUFFIX,contentauthenticity.org
+DOMAIN-SUFFIX,wise.com
 DOMAIN-SUFFIX,sehuatang.net
 DOMAIN-SUFFIX,discord.com
 DOMAIN-SUFFIX,nintendo.com
