@@ -58,6 +58,7 @@ DOMAIN-KEYWORD,xiaomi
 DOMAIN-KEYWORD,xyzcdn
 DOMAIN-KEYWORD,youpin
 DOMAIN-KEYWORD,zijie
+contentauthenticity.org
 
 DOMAIN,auth.wosms.cn
 DOMAIN,config.cmpassport.com
@@ -86,6 +87,10 @@ DOMAIN,v5-dy-o-abtest.zjcdn.com
 DOMAIN,wmsjsteam.com
 DOMAIN,xz.pphimalayanrt.com
 DOMAIN,ye.dun.163yun.com
+
+DOMAIN-SUFFIX,wise.com
+DOMAIN-SUFFIX,yahoo.co.jp
+DOMAIN-SUFFIX,mapbox.com
 DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,10099.com
 DOMAIN-SUFFIX,115.com
