@@ -525,6 +525,8 @@ DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhipin.com
 DOMAIN-SUFFIX,zhuihd.com
 DOMAIN-SUFFIX,zjcdn.com
+DOMAIN-SUFFIX,local
+DOMAIN-SUFFIX,lan
 
 # IP-CIDR
 IP-CIDR,0.0.0.0/8,no-resolve
