@@ -58,8 +58,9 @@ DOMAIN-KEYWORD,xiaomi
 DOMAIN-KEYWORD,xyzcdn
 DOMAIN-KEYWORD,youpin
 DOMAIN-KEYWORD,zijie
-contentauthenticity.org
 
+
+DOMAIN-SUFFIX,contentauthenticity.org
 DOMAIN,auth.wosms.cn
 DOMAIN,config.cmpassport.com
 DOMAIN,csgo.wmsj.cn
@@ -135,6 +136,7 @@ DOMAIN-SUFFIX,allawno.com
 DOMAIN-SUFFIX,allawntech.com
 DOMAIN-SUFFIX,amap.com
 DOMAIN-SUFFIX,amemv.com
+DOMAIN-SUFFIX,autonavi.com
 DOMAIN-SUFFIX,anticheatexpert.com
 DOMAIN-SUFFIX,app-analytics-services.com
 DOMAIN-SUFFIX,appvipshop.com
