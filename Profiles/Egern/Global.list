@@ -23,8 +23,15 @@ DOMAIN-KEYWORD,v2ex
 DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,wikimedia
 DOMAIN-KEYWORD,windows
+DOMAIN-KEYWORD,binance
 DOMAIN,community.oneplus.com
-
+DOMAIN-SUFFIX,appsflayer.com
+DOMAIN-SUFFIX,bnappzh.co
+DOMAIN-SUFFIX,bnbstatic.com
+DOMAIN-SUFFIX,bnbzh.ac
+DOMAIN-SUFFIX,bntrace.com
+DOMAIN-SUFFIX,saasexch.cc
+DOMAIN-SUFFIX,saasexch.com
 DOMAIN-SUFFIX,zajourney.com
 DOMAIN-SUFFIX,za.group
 DOMAIN-SUFFIX,zafinsvc.com
