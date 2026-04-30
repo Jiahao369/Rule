@@ -382,7 +382,6 @@ DOMAIN-SUFFIX,yimg.com
 DOMAIN-SUFFIX,ylimg.com
 DOMAIN-SUFFIX,yoyo.org
 DOMAIN-SUFFIX,ytimg.com
-DOMAIN-SUFFIX,zaticdn.com
 DOMAIN-SUFFIX,zgogc.com
 
 IP-CIDR,8.8.0.0/16,no-resolve
