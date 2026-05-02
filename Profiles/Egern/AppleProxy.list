@@ -29,7 +29,7 @@ DOMAIN,podcasts.apple.com
 DOMAIN,sandbox.itunes.apple.com
 DOMAIN,tv.applemusic.com
 DOMAIN,uts-api.itunes.apple.com
-DOMAIN-SUFFIX,push.apple.com
+
 DOMAIN-SUFFIX,apple-dns.net
 DOMAIN-SUFFIX,apple-relay.cloudflare.com
 DOMAIN-SUFFIX,apple-relay.fastly-edge.com
