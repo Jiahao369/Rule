@@ -210,7 +210,7 @@ DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,dingtalk.com
 DOMAIN-SUFFIX,doh.pub
 DOMAIN-SUFFIX,douban.com
-indexDOMAIN-SUFFIX,doubanio.com
+DOMAIN-SUFFIX,doubanio.com
 DOMAIN-SUFFIX,doupay.com
 DOMAIN-SUFFIX,douyu.com
 DOMAIN-SUFFIX,douyu.tv
