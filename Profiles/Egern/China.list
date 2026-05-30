@@ -227,8 +227,6 @@ DOMAIN-SUFFIX,ecitic.com
 DOMAIN-SUFFIX,ecombdapi.com
 DOMAIN-SUFFIX,ecombdimg.com
 DOMAIN-SUFFIX,edgesrv.com
-DOMAIN-SUFFIX,effirst.com
-DOMAIN-SUFFIX,ekiga.net
 DOMAIN-SUFFIX,ele.me
 DOMAIN-SUFFIX,elemecdn.com
 DOMAIN-SUFFIX,element-plus.org
@@ -251,7 +249,6 @@ DOMAIN-SUFFIX,floatingislandapps.com
 DOMAIN-SUFFIX,foxmail.com
 DOMAIN-SUFFIX,fresh-ideas.cc
 DOMAIN-SUFFIX,ganji.com
-DOMAIN-SUFFIX,ganjistatic1.com
 DOMAIN-SUFFIX,gaode.com
 DOMAIN-SUFFIX,geetest.com
 DOMAIN-SUFFIX,getui.com
@@ -296,7 +293,6 @@ DOMAIN-SUFFIX,iflyrec.com
 DOMAIN-SUFFIX,iflytek.com
 DOMAIN-SUFFIX,imedao.com
 DOMAIN-SUFFIX,infzm.com
-DOMAIN-SUFFIX,intltencentcos.com
 DOMAIN-SUFFIX,ip-api.com
 DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,ipip.net
@@ -467,7 +463,6 @@ DOMAIN-SUFFIX,tianyancha.com
 DOMAIN-SUFFIX,tietuku.com
 DOMAIN-SUFFIX,tlivesource.com
 DOMAIN-SUFFIX,tmall.com
-DOMAIN-SUFFIX,tmall.hk
 DOMAIN-SUFFIX,tmiaoo.com
 DOMAIN-SUFFIX,trip.com
 DOMAIN-SUFFIX,tripcdn.com
@@ -516,7 +511,6 @@ DOMAIN-SUFFIX,xmancdn.net
 DOMAIN-SUFFIX,xueqiu.com
 DOMAIN-SUFFIX,xunlei.com
 DOMAIN-SUFFIX,yach.me
-DOMAIN-SUFFIX,yahoo.co.jp
 DOMAIN-SUFFIX,yangkeduo.com
 DOMAIN-SUFFIX,yeah.net
 DOMAIN-SUFFIX,yeepay.com
@@ -546,3 +540,5 @@ DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhipin.com
 DOMAIN-SUFFIX,zhuihd.com
 DOMAIN-SUFFIX,zjcdn.com
+DOMAIN-SUFFIX,bankzainvest.group
+DOMAIN-SUFFIX,appsflyersdk.com
