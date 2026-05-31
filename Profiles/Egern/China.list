@@ -543,6 +543,7 @@ DOMAIN-SUFFIX,zjcdn.com
 DOMAIN-SUFFIX,bankzainvest.group
 DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN-SUFFIX,zainvest.group
+DOMAIN-SUFFIX,jsdelivr.net
 IP-CIDR, 0.0.0.0/32, no-resolve
 IP-CIDR, 1.0.1.0/24, no-resolve
 IP-CIDR, 1.0.2.0/23, no-resolve
