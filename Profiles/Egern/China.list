@@ -31,6 +31,7 @@ DOMAIN-KEYWORD,alibaba
 DOMAIN-KEYWORD,alicdn
 DOMAIN-KEYWORD,alipay
 DOMAIN-KEYWORD,aliyun
+OMAIN-KEYWORD,akamai
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,baidupcs
 DOMAIN-KEYWORD,bankofchina
@@ -60,6 +61,7 @@ DOMAIN-KEYWORD,jianshu
 DOMAIN-KEYWORD,kuaishou
 DOMAIN-KEYWORD,meituan
 DOMAIN-KEYWORD,mijia
+DOMAIN-KEYWORD,jdcloud
 DOMAIN-KEYWORD,netease
 DOMAIN-KEYWORD,ninebot
 DOMAIN-KEYWORD,pinduoduo
@@ -206,6 +208,7 @@ DOMAIN-SUFFIX,dgtle.com
 DOMAIN-SUFFIX,dhrest.com
 DOMAIN-SUFFIX,dianping.com
 DOMAIN-SUFFIX,didialift.com
+DOMAIN-SUFFIX,jdcloud-oss.com
 DOMAIN-SUFFIX,didistatic.com
 DOMAIN-SUFFIX,diditaxi.com.cn
 DOMAIN-SUFFIX,digicert.com
@@ -373,13 +376,11 @@ DOMAIN-SUFFIX,mob.com
 DOMAIN-SUFFIX,mobike.com
 DOMAIN-SUFFIX,moji.com
 DOMAIN-SUFFIX,mokahr.com
-DOMAIN-SUFFIX,mozilla1.com
 DOMAIN-SUFFIX,mpyit.com
 DOMAIN-SUFFIX,mubu.com
 DOMAIN-SUFFIX,my-imcloud.com
 DOMAIN-SUFFIX,myapp.com
 DOMAIN-SUFFIX,myqcloud.com
-DOMAIN-SUFFIX,myunlu.com
 DOMAIN-SUFFIX,ndcpp.com
 DOMAIN-SUFFIX,ndcppx.com
 DOMAIN-SUFFIX,nruan.com
