@@ -1,5 +1,7 @@
 # ======= 手动维护规则 ========
 DOMAIN-SUFFIX,zgogc.com
+DOMAIN-SUFFIX,itdog.plus
+DOMAIN-SUFFIX,anti-ad.net
 # ======= 上游同步规则 ========
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,01.org
