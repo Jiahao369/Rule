@@ -89,6 +89,14 @@ DOMAIN-KEYWORD,xyzcdn
 DOMAIN-KEYWORD,youpin
 DOMAIN-KEYWORD,zaticdn
 DOMAIN-KEYWORD,zijie
+
+
+DOMAIN-SUFFIX,pool.ntp.org
+DOMAIN-SUFFIX,mmbiz.qlogo.cn
+DOMAIN-SUFFIX,mmbiz.qpic.cn
+DOMAIN-SUFFIX,psycheas.top
+DOMAIN-SUFFIX,my-imcloud.com
+DOMAIN-SUFFIX,mapbox.com
 DOMAIN-SUFFIX,00cdn.com
 DOMAIN-SUFFIX,0123456789.com
 DOMAIN-SUFFIX,0379home.com
